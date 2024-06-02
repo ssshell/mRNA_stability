@@ -1,0 +1,8697 @@
+>MSMEG_0001
+GACGGCGGUUCUGUGAGCGU
+....(((.((....)).))) ( -1.90)
+>MSMEG_0005
+GGAUCUCAGGCGGUGUCUGC
+......(((((...))))). ( -3.30)
+>MSMEG_0007
+AGCGUUGAUCGUCGACGACG
+..((((((...))))))... ( -5.10)
+>MSMEG_0015
+ACACAGGCACGUCGGUGAAA
+.......(((....)))... ( -2.40)
+>MSMEG_0016
+GGCUUACGAGACGUCCAGUG
+((...(((...))))).... ( -0.50)
+>MSMEG_0020
+CUAAGCUAGGUAGCUCAUCC
+...((((....))))..... ( -2.50)
+>MSMEG_0021
+GAAAACGCUGUGGGGGGCGU
+....(((((......))))) ( -5.60)
+>MSMEG_0023
+GCAGUACGCAGUCCGUGUCA
+...(.((((.....))))). ( -2.00)
+>MSMEG_0024
+GUGACGAGUCCUAUUCAGAC
+.................... (  0.00)
+>MSMEG_0026
+GCAAUCUUUCUUCAUCGUCG
+.................... (  0.00)
+>MSMEG_0027
+AGAUUGCUUCAAGAGCCUAA
+.....((((...)))).... ( -1.70)
+>MSMEG_0028
+UGGCGUCCUCGGCGCGUUGG
+..(((((...)))))..... ( -6.00)
+>MSMEG_0029
+AUGCAGGUUUUGGUGGUCGA
+.................... (  0.00)
+>MSMEG_0030
+GAUGGUCGCCGCCGAGCAGG
+..((.(((....))).)).. ( -3.70)
+>MSMEG_0032
+CGACCACCCGGGCGCCCGCU
+........(((....))).. ( -2.30)
+>MSMEG_0033
+ACGGCACUUACCUUGACAGG
+..((......))........ ( -0.40)
+>MSMEG_0034
+GCCUACGGUCGCCGCUGACC
+......((((......)))) ( -4.30)
+>MSMEG_0036
+AGGCCGGCCUGCCGAGCCCG
+.((((((....))).))).. ( -8.40)
+>MSMEG_0042
+AUGGCCAUGGAAGAGCGUCG
+..((((........).))). ( -1.00)
+>MSMEG_0044
+GCCGGUCGGUUUUGUCGGGA
+.((((.((....)))))).. ( -3.60)
+>MSMEG_0046
+CAAACUCUUGGCGCGGCGCG
+..........(((...))). ( -2.00)
+>MSMEG_0047
+ACACGGCAGAGGAGGGGACG
+.................... (  0.00)
+>MSMEG_0048
+ACCGAGCAGAGAGGUGCUGA
+....((((......)))).. ( -4.00)
+>MSMEG_0049
+GACGGUGCCGGGCAUGCCCC
+.........(((....))). ( -3.20)
+>MSMEG_0050
+ACGCCACCGCUGUCGCGAUG
+.......(((....)))... ( -3.10)
+>MSMEG_0051
+AACGCGGUACACACCGCAAC
+...(((((....)))))... ( -7.50)
+>MSMEG_0052
+GUCCAACAGGCCGCCGAUGG
+..(((...((...))..))) ( -1.20)
+>MSMEG_0053
+GGUCUGAGUUUCUCGUCGUC
+....((((...))))..... ( -0.80)
+>MSMEG_0055
+GGCGGAGGGGAUACCAGGCA
+.((....((....))..)). ( -3.60)
+>MSMEG_0056
+GGUAUUCCCGGGUCUGCGGC
+.......(((......))). ( -3.20)
+>MSMEG_0060
+UUUCGACAGCCUCGGCGUCG
+...((((.((....)))))) ( -6.60)
+>MSMEG_0061
+GGGGAGGGCUGAUGACCACC
+.((..((........)).)) ( -2.80)
+>MSMEG_0067
+AUCUGUUUGAACUAGCUGAG
+.((.(((......))).)). ( -0.90)
+>MSMEG_0069
+GCCGAGUGAUUGGGGAUGCC
+.((((....))))....... ( -3.00)
+>MSMEG_0070
+GACCCAACCUGCGACGGGUG
+.((((..........)))). ( -4.50)
+>MSMEG_0073
+GUGGCGUACGUGCGCACAGU
+(((.(((....))))))... ( -5.20)
+>MSMEG_0074
+GUGGCGUACGUGCGCACAGU
+(((.(((....))))))... ( -5.20)
+>MSMEG_0076
+GGAACACAACCGGACGAGUU
+((.......))......... ( -0.10)
+>MSMEG_0078
+GAAACUGGGAGGGAUGACGC
+.................... (  0.00)
+>MSMEG_0079
+CAACUGGCACGCGAGAUUGC
+(((((.(....).)).))). ( -0.80)
+>MSMEG_0083
+CUGCGCAGACACCGAUCUGU
+....(((((......))))) ( -3.60)
+>MSMEG_0087
+GUCAACAUUGAAGCGGCCUU
+.................... (  0.00)
+>MSMEG_0092
+GUGGCGCAUAUCGCUAGUCG
+.(((((.....))))).... ( -4.00)
+>MSMEG_0093
+GAUGACCGAUGUGCGCGAAA
+.................... (  0.00)
+>MSMEG_0095
+GGAUGGCGUGCUGAUGCGCG
+......(((((....))))) ( -6.40)
+>MSMEG_0096
+GACGUCAGACCCCCUUCAAG
+.................... (  0.00)
+>MSMEG_0098
+GUGGACACGGCGCUGCGCAG
+((((........)))).... ( -1.80)
+>MSMEG_0101
+GUGGUCGGGGUGGUGGUCAC
+(((((((......))))))) ( -3.10)
+>MSMEG_0104
+AUGCACCUCGACGAGCUGAG
+...((.(((...))).)).. ( -1.30)
+>MSMEG_0107
+GAUCAUGAACUCACCUGCCC
+.................... (  0.00)
+>MSMEG_0109
+GGCAACGUCCAUCACGCGCU
+(((..(((.....))).))) ( -1.70)
+>MSMEG_0110
+GCCAACCGACAGAUUGGACC
+.((((.(....).))))... ( -3.10)
+>MSMEG_0111
+AUGGCGCAGGUGAACGGCCG
+..(((...........))). ( -4.00)
+>MSMEG_0117
+ACUAUCAAUCACUCUUUAGG
+.................... (  0.00)
+>MSMEG_0118
+AGGCAUUUGGAGGUUAGGAA
+.................... (  0.00)
+>MSMEG_0119
+AUGGAUCCGAAUCCUGACUA
+..((((....))))...... ( -2.60)
+>MSMEG_0120
+CCCAUGACUUCCGCCGCCAA
+.................... (  0.00)
+>MSMEG_0124
+GUGAGCACAUCGCUGGCGCA
+((.(((.....))).))... ( -6.20)
+>MSMEG_0127
+AUGAAGAUCCGCGGAGCCGU
+..........(((....))) ( -0.60)
+>MSMEG_0128
+AUGACCCGUCGCGACGAGCC
+..........((.....)). ( -1.10)
+>MSMEG_0129
+AUGCCGCUUGUGAGCAAGAC
+......((((....)))).. ( -1.90)
+>MSMEG_0130
+GCCCCGGUCACAUUAUGGCC
+.....(((((.....))))) ( -4.10)
+>MSMEG_0131
+GCAACCCAAUGUUUGAUCAA
+.................... (  0.00)
+>MSMEG_0132
+GAUGCGGUGCAAGGCCCGGA
+....(((.((...))))).. ( -4.60)
+>MSMEG_0133
+GUUGUUCGCAGUCAACGUCG
+((((........)))).... ( -3.00)
+>MSMEG_0140
+GCAGGCGCGACCGCGACCUA
+..((((((....))).))). ( -7.00)
+>MSMEG_0142
+CCUCAAGUUCCUCACCGCGA
+.................... (  0.00)
+>MSMEG_0143
+CGCUGGAUCCGUUCCACGCC
+.((((((.....)))).)). ( -6.10)
+>MSMEG_0145
+CUCGAUCGUGCCGUCCAACA
+.................... (  0.00)
+>MSMEG_0146
+AUGGCCGACGAGCUCUUGCG
+...........((....)). ( -1.30)
+>MSMEG_0148
+AUGGAUCGCGAUGACAGUGU
+......(((.......))). ( -0.90)
+>MSMEG_0152
+GCCCGGUUCACAAGAACCGC
+...((((((....)))))). ( -7.80)
+>MSMEG_0153
+GAUCUUAGCCCUGAAUCAGC
+((((........).)))... ( -0.40)
+>MSMEG_0155
+GUACGCAAUGCCGCGCCGUG
+...(((......)))..... ( -3.00)
+>MSMEG_0166
+AACCUCAGAGGCUAAGGAGC
+..(((.((...)).)))... ( -1.30)
+>MSMEG_0167
+GAUCGUCGUCACGUGUUGCC
+.................... (  0.00)
+>MSMEG_0168
+GAACGCAUACGGUAUGCAAU
+....(((((...)))))... ( -3.50)
+>MSMEG_0173
+GCUCAUGCGCAACCGAUUCC
+((....))............ ( -1.60)
+>MSMEG_0174
+GGCGCCGGUGAUGUGCAGCC
+(((((((....)).)).))) ( -5.00)
+>MSMEG_0179
+AGCUGCCCUGCGCCCGAGGA
+......(((.......))). ( -2.40)
+>MSMEG_0180
+GUGACUACAGCAAGCGGCGG
+((..((......))..)).. ( -0.80)
+>MSMEG_0181
+AUUCGACUACAAACGUGAGG
+.................... (  0.00)
+>MSMEG_0186
+GCAAGCAAGAUCUCCAGCAG
+.................... (  0.00)
+>MSMEG_0188
+GUGAGCACAGUGGUCGACAC
+((((.((...)).)).)).. ( -2.20)
+>MSMEG_0191
+GCGAGCGCGUUUCACCGCUC
+..(((((.((...))))))) ( -6.40)
+>MSMEG_0194
+GGUCCGUGUGUUUGGGUAAG
+..((((......)))).... ( -1.90)
+>MSMEG_0195
+ACUCGCGUCUCUGACACCGU
+......(((...)))..... ( -0.70)
+>MSMEG_0203
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_0206
+GAGUGAACAGAGUGACCGCA
+..(((..((...))..))). ( -0.40)
+>MSMEG_0208
+GAUGCGACGCGGAUGGUGGA
+.......(((.....))).. ( -2.20)
+>MSMEG_0210
+CUCGACGAGCCGACGACGGG
+((((.((......)).)))) ( -3.30)
+>MSMEG_0212
+AUGAGCAACGACCUCACCAU
+.((((.......)))).... ( -1.40)
+>MSMEG_0213
+GUGGCCAUGCCUGGGGAGGA
+.........(((....))). ( -2.60)
+>MSMEG_0215
+AUGCCCCCGACCGUCGACAU
+.......(((...))).... ( -0.40)
+>MSMEG_0218
+GACACCAGAAAGCCGACGAG
+.................... (  0.00)
+>MSMEG_0222
+CACAAGAAGAUGUCAGACGU
+.................... (  0.00)
+>MSMEG_0224
+GUGGCAGAACCCAGUGAUGU
+.(((......)))....... ( -1.00)
+>MSMEG_0226
+GUCGUCCGGCAAGGAUUCUG
+...((((.....)))).... ( -3.80)
+>MSMEG_0227
+ACCGGGAUCAAGUCGGAAGA
+.((((.......)))).... ( -3.40)
+>MSMEG_0228
+AGGUGGUUGGGAUGGUGGCC
+....(((((......))))) ( -1.70)
+>MSMEG_0229
+AUGCCCUCAGACGACAAGUC
+.........(((.....))) ( -1.40)
+>MSMEG_0230
+AUGGACGCAACUGACGAAUC
+.................... (  0.00)
+>MSMEG_0231
+GUGAUUGUUGCCUUCAGUGU
+...((((.......)))).. ( -0.40)
+>MSMEG_0232
+ACCAUGACCGUGACGCCGCC
+.........(((....))). ( -0.90)
+>MSMEG_0233
+AGUUGUGCUCUGGAGGUACC
+....(((((.....))))). ( -3.10)
+>MSMEG_0234
+GUGACGGUUCAAGCAACUCG
+.................... (  0.00)
+>MSMEG_0235
+AUGCCUGACGCGCCCAGCAA
+.(((.((.......))))). ( -1.70)
+>MSMEG_0239
+GUGACUGACCGAACCUUCGG
+........((((....)))) ( -3.50)
+>MSMEG_0240
+GAGACCCAAGCAACCGGUGG
+...(((.........))).. ( -0.90)
+>MSMEG_0241
+AGACACGCCAGGGAUAUCAG
+.................... (  0.00)
+>MSMEG_0242
+CACUCAUUCGUUCUGUUAUC
+.................... (  0.00)
+>MSMEG_0243
+GCCGAUAACCGUUUGGCGUU
+(((((.......)))))... ( -6.30)
+>MSMEG_0245
+GACUCGUUCCGGUUGGAUUC
+.......(((....)))... ( -1.90)
+>MSMEG_0248
+GUGUCACACGACGCGCAGGC
+(((((....)))))...... ( -6.10)
+>MSMEG_0250
+GCCGUCUUCGCCAAACCGAA
+.......(((......))). ( -0.60)
+>MSMEG_0252
+AUGCAAGCGCCUGUGCCUGA
+...((.((......)).)). ( -1.70)
+>MSMEG_0253
+CCAACAGUUGCCUUCGGCUG
+....((((((....)))))) ( -4.00)
+>MSMEG_0254
+CGGCGCGGCGGUGAGCACCG
+(((.((........)).))) ( -6.30)
+>MSMEG_0255
+AAGGGGCAGCCGUAACCGCG
+.(.((....)).)....... ( -1.80)
+>MSMEG_0257
+AUGCAGAUCCGCGAGCACGU
+..((......))........ ( -1.00)
+>MSMEG_0261
+GUGACUGCACAUGGCCGGCG
+(((....))).......... ( -1.70)
+>MSMEG_0264
+CUUCUUCGGUACGGCACAGG
+.................... (  0.00)
+>MSMEG_0268
+GUACCAAUGCGCGGGCGAGG
+...((..(((....))).)) ( -2.90)
+>MSMEG_0270
+GUGCAGAUGAUCGGCGCGGC
+((((.((...)).))))... ( -5.00)
+>MSMEG_0282
+CUGCGUCGUCAUCGGCGAAC
+...(((((....)))))... ( -6.10)
+>MSMEG_0285
+AGUAGCUAGCGAUCGGGAGG
+.................... (  0.00)
+>MSMEG_0287
+AUGCAUGCUCUCAACGAAGU
+.................... (  0.00)
+>MSMEG_0289
+AUGACGGCACGACGGACCGA
+....((((......).))). ( -2.40)
+>MSMEG_0290
+CCGGGGCCGGACACGGCUUC
+..(((((((....))))))) (-10.40)
+>MSMEG_0296
+GACGCACGGCAGGAGACGGG
+......((........)).. ( -1.00)
+>MSMEG_0299
+GAAUCUCGCACCGGCGUGCC
+.......((((....)))). ( -4.30)
+>MSMEG_0300
+GCGAAGGCGGGAGAAUGCAG
+((....))............ ( -1.90)
+>MSMEG_0301
+GUGGACGCAACCCUGGCGGA
+.....(((.......))).. ( -2.80)
+>MSMEG_0303
+GAUGAGACGUUGGGAAAUGG
+.......((((....)))). ( -1.20)
+>MSMEG_0305
+AGAACACGUUCCAAUUCACG
+.................... (  0.00)
+>MSMEG_0309
+GGAACAGGUUCUCGUUUCAC
+(((((........))))).. ( -3.60)
+>MSMEG_0311
+GAUGUCUGCCCGGCCCGAGU
+...(((.....)))...... ( -0.50)
+>MSMEG_0314
+UGAAUCGAUCCAGCCCCUAU
+.................... (  0.00)
+>MSMEG_0317
+GUUAGGGUCGAACGGGUUUG
+.................... (  0.00)
+>MSMEG_0319
+GUGACCACCGAGCAAUCCGC
+.................... (  0.00)
+>MSMEG_0321
+GAGGGAGAGGGUGUCCGCCG
+(..(((.......)))..). ( -3.00)
+>MSMEG_0331
+ACGUUAGUAAACCGCGAACC
+..(((.((.....)).))). ( -0.10)
+>MSMEG_0341
+GCUGGCGGCUUUUCUCCCGA
+.....(((........))). ( -2.20)
+>MSMEG_0343
+GCAUGCACUCAGGAGGUGUA
+...((((((.....)))))) ( -4.20)
+>MSMEG_0348
+ACCCUUCCCGACAAAUACCG
+.................... (  0.00)
+>MSMEG_0356
+AUGGCUGAAAUCCGCGAUGU
+((.((........)).)).. ( -2.00)
+>MSMEG_0358
+GUCACCUCAGCACAUUCAGG
+.................... (  0.00)
+>MSMEG_0359
+AGCAUUGUGGUCGGCCUGUU
+.................... (  0.00)
+>MSMEG_0360
+GUGAACCGGUUCGUCGUACC
+.......(((.......))) ( -0.70)
+>MSMEG_0361
+AUGGCUUCACCGCGUCUGCU
+..(((........))).... ( -1.10)
+>MSMEG_0363
+GUUACCCUGUGGGGAUGGCA
+(((((((....))).)))). ( -6.10)
+>MSMEG_0364
+GUGGGCUCACCGCUGAAAGU
+((((.....))))....... ( -5.20)
+>MSMEG_0366
+GUGACGGACAAUCCAGGACU
+((...(((...)))...)). ( -1.50)
+>MSMEG_0367
+GUGACUUCCGCAAAGGUGCC
+(((.....)))......... ( -1.40)
+>MSMEG_0368
+GAUGCACACGCUGCGGAUCG
+(((.(.((...)).).))). ( -3.20)
+>MSMEG_0372
+GACAAGGUAGUACCGCGAGC
+.....(((...)))...... ( -1.00)
+>MSMEG_0373
+AUGGCCAAUGAAUCGAGACG
+.................... (  0.00)
+>MSMEG_0376
+GGAGCGGGCAUACCCGUUUC
+((((((((....)))))))) (-10.40)
+>MSMEG_0380
+GACCAGGCUGCGCCCCCCCG
+.....(((...)))...... ( -2.30)
+>MSMEG_0381
+GACGAAGUCAAGGCCGAAAA
+(((...)))........... ( -0.90)
+>MSMEG_0382
+GCAUCCAGAUCAACUGGGUC
+..((((((.....)))))). ( -5.90)
+>MSMEG_0383
+AGCCCGCUCGAGGUUUGAGG
+......(((((...))))). ( -2.70)
+>MSMEG_0384
+GUGUUGAGCCACGACCAACU
+(((......)))........ ( -1.60)
+>MSMEG_0386
+ACCGUGGUUGAGAACCAAUA
+....(((((...)))))... ( -2.90)
+>MSMEG_0387
+AUGGCAUUUCGCGAACCUCA
+.(.((.....)).)...... ( -0.90)
+>MSMEG_0388
+GAAGUGCCACCGUACGAGAU
+...((((....))))..... ( -2.60)
+>MSMEG_0391
+GUGGCAAAUGGACUUUCGGU
+.................... (  0.00)
+>MSMEG_0392
+GAGUAGCGGUUGAGUUCGUC
+.....((((......)))). ( -2.20)
+>MSMEG_0393
+AUGGCCCUCGGAAACGCGUU
+......(.((....)).).. ( -0.30)
+>MSMEG_0394
+AUGAACCUGGUGCAGUCGAU
+.................... (  0.00)
+>MSMEG_0398
+AGGUAGCUGGCGUGUUUAGC
+.....(((((.....))))) ( -1.70)
+>MSMEG_0399
+AACAAAAGCGUGAACCCGGC
+.................... (  0.00)
+>MSMEG_0402
+AGCACCUGGCGCUCAACGAG
+(((.......)))....... ( -0.60)
+>MSMEG_0404
+GGGAGGAGAAACCCAUGGCC
+(((........)))...... ( -3.90)
+>MSMEG_0406
+GAACGGUAUAGUUGGCCGCA
+...((((.......)))).. ( -3.90)
+>MSMEG_0407
+AUGCGGCGGAUCGCGGUGUG
+((((.(((...))).)))). ( -5.60)
+>MSMEG_0408
+GGGGGGAAAGUUGAUCUUCC
+.((((((.......)))))) ( -4.10)
+>MSMEG_0409
+GCAGCGGCUCCAGCCGCGCC
+((.(((((....))))))). (-10.70)
+>MSMEG_0410
+UUCAUGACGCAGGGCUGGUU
+.................... (  0.00)
+>MSMEG_0411
+ACACGCGAUCCCGGAGGACA
+........(((....))).. ( -1.20)
+>MSMEG_0412
+AGUACAGCCGAGUGGGUGGG
+....((.((....)).)).. ( -4.30)
+>MSMEG_0413
+ACCAUGUGGAUCCCUCUCCU
+.......(((......))). ( -1.80)
+>MSMEG_0415
+GUUAUGAGCGCAACAGAUCU
+.................... (  0.00)
+>MSMEG_0416
+GAAAGCAGCCAAUCAACGAC
+.................... (  0.00)
+>MSMEG_0419
+GGCGACAUGCGCCGUUGCGU
+((((.....))))....... ( -6.40)
+>MSMEG_0420
+GACACCCUUCAGCCCGAGGA
+.....((((......)))). ( -2.90)
+>MSMEG_0422
+GCGACAUCUGUGGAGGGCCG
+.(.((....)).)....... ( -0.80)
+>MSMEG_0423
+AUGGUUGGCCACAGGAUGUG
+.(((....)))......... ( -1.00)
+>MSMEG_0428
+GGCCUGGCCGAGGAGUUCGA
+(((...)))........... ( -3.00)
+>MSMEG_0429
+GAUCGUUCGACAUUUCGUGG
+.......(((....)))... ( -0.10)
+>MSMEG_0433
+GGCUGGCUGUCGUGGGAGGG
+..((.((....)).)).... ( -2.40)
+>MSMEG_0434
+GUGCUCACCCAGCAUGUCAG
+(((((.....)))))..... ( -3.60)
+>MSMEG_0436
+AUGAGUGUGGCAUCAGAAGU
+.(((........)))..... ( -0.50)
+>MSMEG_0437
+GUGAGCAUUCCCGAACCCGA
+.................... (  0.00)
+>MSMEG_0438
+GUGCCGAGACCACUGACCCG
+(((.......)))....... ( -0.20)
+>MSMEG_0441
+GUGGACGACAACACGCUCCU
+..(((((......)).))). ( -3.40)
+>MSMEG_0443
+AUCUCAUUCGUUUUAGGAGC
+.................... (  0.00)
+>MSMEG_0447
+AUCCGAUUAAAUCGGAUGCG
+(((((((...)))))))... ( -7.00)
+>MSMEG_0448
+AUGAGCCCCCCACGUCUGAA
+.................... (  0.00)
+>MSMEG_0449
+GUGCGUGAACUGAACCCGAC
+.................... (  0.00)
+>MSMEG_0450
+GUGCCGUUCGGUGCCGAAGC
+(((((....)))))...... ( -4.70)
+>MSMEG_0451
+GGUGAGCGCGUAAAGCGGUU
+...((.(((.....))).)) ( -4.80)
+>MSMEG_0453
+GUCACCCACAUCGACCAGGC
+(((.........)))..... ( -0.50)
+>MSMEG_0455
+GUCGGUGUCGGCCAUCGUCG
+(.(((((.....))))).). ( -5.00)
+>MSMEG_0457
+GGCACACCACCCCACUUUUU
+((....))............ ( -0.50)
+>MSMEG_0462
+GGCAUGAGACGGAACUCAAG
+....((((......)))).. ( -2.60)
+>MSMEG_0464
+GUGGUUGAUUUCGCCUACGU
+((((.((....)).)))).. ( -3.10)
+>MSMEG_0465
+GAACUGUCGAUCGCCAGAGA
+...(((........)))... ( -0.80)
+>MSMEG_0466
+ACUGUCAAUAUCGACCGACC
+...(((......)))..... ( -1.50)
+>MSMEG_0469
+AUGAGUGUCACGUCGGUUCU
+.................... (  0.00)
+>MSMEG_0471
+AUGGAAUGGACGCUGCGGGA
+.................... (  0.00)
+>MSMEG_0473
+GGACCUCAGAGAGGGCCACU
+((.((((...)))).))... ( -6.90)
+>MSMEG_0480
+ACCGAGAGGAGGCAAAUGAC
+.((....))........... ( -1.10)
+>MSMEG_0484
+GUCACGCUUCGACGUCCUCG
+(((.......)))....... ( -1.80)
+>MSMEG_0491
+GUGGGAACUCUCGCCGAUGU
+(((((....)))))...... ( -4.20)
+>MSMEG_0492
+AUGACCGAAGCGCGCGGGUU
+....(((.......)))... ( -2.60)
+>MSMEG_0493
+AACCGGGUAGGAAACACCGA
+...(((((.....)).))). ( -3.70)
+>MSMEG_0494
+AACAGGGUAGGAACACCGAC
+.....(((......)))... ( -2.00)
+>MSMEG_0499
+GAAUCUGACGGGGCCGCCGA
+........(((.....))). ( -3.30)
+>MSMEG_0500
+AGGCGGCGUCAGCGCCCUUC
+.((((.(....))))).... ( -6.40)
+>MSMEG_0504
+GUACAUGCACGCUGACCGCG
+.........(((.....))) ( -2.00)
+>MSMEG_0519
+AGAUCGAGGAUCGGAGUGAU
+.((((...))))........ ( -1.90)
+>MSMEG_0520
+ACAAAAAUGUUCGGUGGACC
+........((((...)))). ( -0.40)
+>MSMEG_0530
+CUUAUUAGAGGCGUACGGUU
+.................... (  0.00)
+>MSMEG_0531
+CCCCGACCCGGAGGCCACCG
+(((((...))).))...... ( -3.50)
+>MSMEG_0537
+GAACGCGCCACAGACAUCCG
+.................... (  0.00)
+>MSMEG_0538
+GUGGCCUCACCCUCAAGCGU
+(((....))).......... ( -1.00)
+>MSMEG_0539
+GUAACAAGAUCGCCGACGGG
+............((....)) ( -0.30)
+>MSMEG_0540
+GAGUGAUGGAGCGUGUCCCG
+.......(((.....))).. ( -1.90)
+>MSMEG_0541
+AUGGCAGCCUCGAUGUGCGC
+...(((.........))).. ( -1.80)
+>MSMEG_0544
+GUGCAGUUGAGUGCGCGCAU
+(((((......))))).... ( -6.80)
+>MSMEG_0545
+GCAGCGUGCGUUCUGAACCG
+(((...)))........... ( -1.30)
+>MSMEG_0546
+GUGGUCGAAGACUGGCGGAC
+.(.((((.....)))).).. ( -1.90)
+>MSMEG_0547
+GAUGGUGUAUGCCGUCAUCC
+((((((....)))))).... ( -7.40)
+>MSMEG_0548
+GUGCAGAUCGACGGUCAGCA
+.(((.((((...)))).))) ( -4.20)
+>MSMEG_0549
+CCGAGGAGGAGAUGGAGCGG
+((.....))........... ( -1.00)
+>MSMEG_0551
+GUGACUUCGACCGACCUGGC
+..........((.....)). ( -0.20)
+>MSMEG_0557
+AGGCCGCUCUCGUCAGCGUU
+....((((......)))).. ( -3.60)
+>MSMEG_0559
+CCGGCGUUUUUGGUUCGUCC
+..((((.........)))). ( -2.70)
+>MSMEG_0560
+GCUCGUGAAAAACCCGUGCG
+((.((.(......))).)). ( -3.20)
+>MSMEG_0561
+GUGACGGCCGGGCGAGCAGA
+((..((......)).))... ( -2.20)
+>MSMEG_0563
+AUGGCACUCAUACCCAUGCC
+..((((..........)))) ( -2.40)
+>MSMEG_0564
+AUGAAUCGCCUCGAUCGCUU
+....((((...))))..... ( -0.70)
+>MSMEG_0566
+ACGGCGUGACGACGACGGCG
+.((.(((.......))).)) ( -5.30)
+>MSMEG_0572
+AGCCGAUCAUCCGGCUCCCG
+(((((......))))).... ( -6.90)
+>MSMEG_0574
+CUUCGGCAGCGCCGGAUGCG
+.((((((...)))))).... ( -6.80)
+>MSMEG_0575
+GUAAAGUUGCUCCACGCUGU
+........((.....))... ( -0.30)
+>MSMEG_0578
+AUGGACUUCUCACGGGUCGA
+...(((((.....))))).. ( -3.20)
+>MSMEG_0580
+GUGAGUGUCUUCGACAAGGC
+.....((((...)))).... ( -1.60)
+>MSMEG_0581
+ACAUACCCGCAUAAGGAGGA
+......((......)).... ( -1.70)
+>MSMEG_0583
+ACUGUGACCGCGUACAGCGG
+.......((((.....)))) ( -6.20)
+>MSMEG_0586
+AAGGUUGAAGCGAAGAAGCC
+..((((..........)))) ( -1.60)
+>MSMEG_0592
+GUGGUGAGCAUGCGAGAGGU
+(((.....)))......... ( -0.20)
+>MSMEG_0595
+ACCACAGUCUAGGAGGGUUA
+.((........))....... ( -0.40)
+>MSMEG_0596
+GACCACACUACCGCGUUCGU
+.................... (  0.00)
+>MSMEG_0598
+GUGCCCGUCAGCCCGUGUGU
+..((.((......)).)).. ( -0.20)
+>MSMEG_0599
+AUGCUGAGUCUGUCUGAUUU
+.....(((((.....))))) ( -1.80)
+>MSMEG_0600
+GCGAACUGCGCAACAUCGAC
+(((.....)))......... ( -3.10)
+>MSMEG_0602
+GGCGAAAUAGAACGCGGGCC
+.(((........)))..... ( -3.00)
+>MSMEG_0603
+AACCGACCGGUUAUUCGGGA
+..((((........)))).. ( -4.40)
+>MSMEG_0605
+GACAUGAUCAAACACGCUCA
+.................... (  0.00)
+>MSMEG_0606
+AGGUUGGUUCAAUGAUCCGU
+.....((.((...)).)).. ( -1.00)
+>MSMEG_0607
+AUGGGGGACACACCGAAUCC
+....((......))...... ( -2.00)
+>MSMEG_0608
+AGGUCCGCGCCAGGGAUUCG
+.(((((.......))))).. ( -4.20)
+>MSMEG_0609
+AUGACCUCAGAACGGCUCGG
+..((((.......)).)).. ( -1.00)
+>MSMEG_0612
+GUGACGCCGGUUCGCCCGUA
+(((((....).))))..... ( -2.30)
+>MSMEG_0614
+GUGCGUACGGACAACGAUCA
+(..(((.......)))..). ( -1.70)
+>MSMEG_0615
+GUUAGCUUAGGCAUACAUAA
+((..((....))..)).... ( -2.10)
+>MSMEG_0623
+ACCCGACGAAAGCCUUCGAC
+......((((....)))).. ( -1.70)
+>MSMEG_0625
+GUGGAGCCGUCCAGCGUUGA
+.((((....))))....... ( -3.60)
+>MSMEG_0629
+GUGUGGAAUCCCGAAACCUA
+((.(((....)))..))... ( -1.00)
+>MSMEG_0632
+GUGGCACUGUUCCUGCGAAA
+.(.(((.......))).).. ( -1.40)
+>MSMEG_0633
+AUGGACGUGCCAAAGAUCGG
+.(((.....)))........ ( -1.30)
+>MSMEG_0634
+GUGGAGAGAACCCGCGGGUU
+((((.......))))..... ( -4.40)
+>MSMEG_0635
+GUGCGCCGACUACUCGUAUC
+(((((.........))))). ( -1.00)
+>MSMEG_0636
+AUGGGUGACAACCUCCGAGU
+..((((....))))...... ( -3.50)
+>MSMEG_0638
+GUUAUGAGCGACCCGUUGGG
+...........(((...))) ( -1.70)
+>MSMEG_0641
+GACGGUUACCAGACCAUCUA
+((.((((....)))).)).. ( -4.10)
+>MSMEG_0643
+GGGGCAUCCAAGUUUGGAAA
+......((((....)))).. ( -3.00)
+>MSMEG_0645
+GUGCCUCAAAUGGAUCGUCG
+(..((......))..).... ( -2.60)
+>MSMEG_0656
+AAACCCAUGGGACGCAAACA
+.................... (  0.00)
+>MSMEG_0660
+AGCGACAAGACGCGGACCGC
+.(((......)))....... ( -2.90)
+>MSMEG_0661
+UCAGUCAAGGUACAAAACCG
+........(((.....))). ( -1.70)
+>MSMEG_0662
+CUGCAGAUCGACGACCGCCU
+.................... (  0.00)
+>MSMEG_0663
+AAGUAGCAGCGUCGCCACUU
+((((.((......)).)))) ( -3.00)
+>MSMEG_0667
+GUCAUACUCCGAAACCGUGG
+.................... (  0.00)
+>MSMEG_0668
+AUGCGAAGUGUCGGCGCGAU
+..(((..(...)..)))... ( -2.40)
+>MSMEG_0671
+GCGCCACAUUUUUCGAUGGC
+..(((((.......).)))) ( -3.00)
+>MSMEG_0673
+AGUCGAUUAAACCCGACUUC
+(((((........))))).. ( -4.70)
+>MSMEG_0674
+GACAAACUUGUAAUUUACGA
+.................... (  0.00)
+>MSMEG_0676
+GUUCGUACGUGAGGAGAGUG
+.................... (  0.00)
+>MSMEG_0678
+GUGCUGCUUUCCGAUCGUGA
+.................... (  0.00)
+>MSMEG_0679
+ACCGACGUCGGUAGUGAGCA
+((((....))))........ ( -4.00)
+>MSMEG_0682
+GUGGAUUUCCGAGCCGCUCU
+((((.........))))... ( -3.30)
+>MSMEG_0683
+AUGACCACAUCCGAGAUCGC
+.................... (  0.00)
+>MSMEG_0689
+GAAAGAUCGAGAUGCUCCGA
+......(((........))) ( -0.60)
+>MSMEG_0690
+GCAUCUAGCCCAAGUUACCC
+.................... (  0.00)
+>MSMEG_0692
+GGCCGAGACAACACAGGAGU
+..((...........))... ( -0.30)
+>MSMEG_0698
+GUUAACCGCCGGUCGUUGGA
+........(((.....))). ( -0.80)
+>MSMEG_0700
+GUGACCGCAGACCGAGAUCG
+.................... (  0.00)
+>MSMEG_0702
+GUGGAUUUCCGUGUCUUCGU
+(.((((......)))).).. ( -2.40)
+>MSMEG_0703
+AAGCGGGAAGAUGCGGUGGA
+..(((......)))...... ( -1.80)
+>MSMEG_0704
+GAUGAAGGUGCGGUUGCUGC
+.........((((...)))) ( -1.50)
+>MSMEG_0709
+GACAGCAAGUUGAGUGACAU
+.................... (  0.00)
+>MSMEG_0711
+GUAAGGAGGUGGCGCAGCAU
+........(((......))) ( -0.20)
+>MSMEG_0712
+GACACAGGUUCAAGGGAGCA
+.......((((....)))). ( -2.70)
+>MSMEG_0716
+GUCGAGCCGCCCCCACGUGU
+.......(((......))). ( -0.60)
+>MSMEG_0717
+AUGGUCGACUUCGAACCCGU
+..(((((....)).)))... ( -3.20)
+>MSMEG_0719
+GUGGGCCUCGAAGAUCGUGA
+......(.(((...))).). ( -0.50)
+>MSMEG_0722
+GGUGUCGCUGUCAGCGAGCG
+.((.(((((...))))))). ( -5.30)
+>MSMEG_0724
+GUGGGAUCGAAGUCAUCGAG
+......((((.....)))). ( -2.10)
+>MSMEG_0726
+GUGGAAGGAGUUGCCUGGGG
+.....(((.....))).... ( -1.60)
+>MSMEG_0728
+GACAAGUCCGGGGACGGAAG
+......((((....)))).. ( -5.30)
+>MSMEG_0731
+AUGUCCGAAUCCGACAUCGG
+....((((........)))) ( -3.00)
+>MSMEG_0732
+GACAAGCAUUUUUCGUACCG
+.................... (  0.00)
+>MSMEG_0734
+AGAAGAUGGGAGGCACUGCG
+.................... (  0.00)
+>MSMEG_0735
+GAUGACGGACGCCGCCCAGC
+.....(((...)))...... ( -1.40)
+>MSMEG_0736
+GAUGGUCCCGCUCUGGUUCA
+..(((.((......)).))) ( -0.60)
+>MSMEG_0739
+CCACGAGCGUCGACGGGUUC
+....((((........)))) ( -2.70)
+>MSMEG_0740
+CUGCCCAGGAACUGCCUGCU
+.....((((.....)))).. ( -3.80)
+>MSMEG_0742
+GUGACACCCGCGCAACUACG
+(((.....)))......... ( -1.40)
+>MSMEG_0750
+GUGAUCGACACCGCCUUACC
+(((........)))...... ( -0.70)
+>MSMEG_0752
+AGGCGGUGUCGAUCACGACU
+.......((((....)))). ( -3.70)
+>MSMEG_0753
+AGCGACGUACGGGAGGACCG
+.........(((.....))) ( -3.00)
+>MSMEG_0754
+AUGACACGGAUGGGUGAUCU
+..(((((......))).)). ( -3.30)
+>MSMEG_0756
+GUGAACAUCCGUCCACUGCG
+(((.((....)).))).... ( -2.40)
+>MSMEG_0758
+AUCUCCGCGCCUGGAAGUGG
+....((((........)))) ( -4.10)
+>MSMEG_0759
+GGCUGCACCACUUCCAGGCG
+(.(((.........))).). ( -2.50)
+>MSMEG_0761
+GCCAUGAAGAUAGAAGCGGA
+.................... (  0.00)
+>MSMEG_0762
+AUGACCCAAGCGCAAGCGCU
+........((((....)))) ( -3.20)
+>MSMEG_0764
+GUUCUGCACAGUCCUGGCAG
+...((((.((....)))))) ( -4.20)
+>MSMEG_0765
+AUGUUGAGGAGAUCACGCCG
+.......((........)). ( -0.50)
+>MSMEG_0766
+GCGAUGAGUGAAUCGAUUGA
+.((((......))))..... ( -3.30)
+>MSMEG_0768
+GUGAGCUAUGCAGGGGAUAU
+.................... (  0.00)
+>MSMEG_0775
+AUGGCAGUAGCCCUGAACAA
+..(((....)))........ ( -3.40)
+>MSMEG_0776
+GCAAGAGCCGAACACCAGUG
+((....))............ ( -0.10)
+>MSMEG_0781
+GUCGCAGCACAACGUCGUCG
+(.((........)).).... ( -0.30)
+>MSMEG_0787
+AUCGACGUGAUGCAGCAGCA
+..........(((....))) ( -1.20)
+>MSMEG_0788
+GGACGAAGAGCCGUAAGCAU
+..(((......)))...... ( -1.30)
+>MSMEG_0789
+GUGGACCAAGCCGUCGAACU
+.(.(((......))).)... ( -2.00)
+>MSMEG_0790
+GUGCGUGGCGACGGAGAUGG
+.(.(((....))).)..... ( -2.20)
+>MSMEG_0791
+GCAACACGGGAGUCCCGGGA
+......((((...))))... ( -5.20)
+>MSMEG_0796
+CAUCCACUGGGUACGCACGC
+.((((...))))........ ( -1.10)
+>MSMEG_0798
+GACGGCGAUCGUCUGUGGAU
+((((.....))))....... ( -4.00)
+>MSMEG_0799
+GUUAGAUUCCGUCGAGCAUC
+(((.(((...))).)))... ( -1.50)
+>MSMEG_0801
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_0803
+ACACAUGAGCGCAGCCGGCG
+.........(((.....))) ( -1.70)
+>MSMEG_0806
+GUGUUCCGGACACUGCGCUG
+(((((...)))))....... ( -3.10)
+>MSMEG_0807
+GUGGACCGGGACGCUCUGCA
+(((((.((...)).))))). ( -4.20)
+>MSMEG_0810
+GUGACCUUGCUGAAUUGGAA
+.................... (  0.00)
+>MSMEG_0812
+GUGUCCACGCCCGGGGGUCU
+.(.(((......))).)... ( -1.70)
+>MSMEG_0814
+GAGCGGCGAGGCAACGCUGC
+..((((((......)))))) ( -8.60)
+>MSMEG_0816
+AUGCGACCGGUGGUGCACGA
+.(((.(((...))))))... ( -4.00)
+>MSMEG_0818
+AUCAGCGAUCUCCGACACCU
+.................... (  0.00)
+>MSMEG_0825
+GUGAGGAACAACGUGAAACU
+.................... (  0.00)
+>MSMEG_0826
+GGCAGAGAAAACCGCGGGAG
+.((.(......).))..... ( -0.20)
+>MSMEG_0828
+GCUGUCGGCUCGCGCCGACG
+...((((((....)))))). (-11.00)
+>MSMEG_0832
+AUGGCCGUCGUCCCGAUCCG
+..((..((((...)))))). ( -2.30)
+>MSMEG_0833
+GAACCACAGCGAUGUAAUUU
+.....(((....)))..... ( -0.20)
+>MSMEG_0835
+AUGCUGAAGCCCGUCAGUGU
+(((((((......))))))) ( -4.60)
+>MSMEG_0838
+AUGCCAUCGCCACCGGAGUC
+.................... (  0.00)
+>MSMEG_0839
+GACCGCUCGAUCCGUCGCGA
+...(((.((...))..))). ( -2.60)
+>MSMEG_0840
+GGCGCGUACUACGGAUCACA
+((..(((...)))..))... ( -1.10)
+>MSMEG_0842
+GAAACCAAGUAGAGAAGGAC
+.................... (  0.00)
+>MSMEG_0844
+GGUGCAGGUGGCGUGGCUCG
+...((.....))........ ( -0.60)
+>MSMEG_0849
+AGAAACGCUGCGGGGCGACG
+.....((((....))))... ( -4.50)
+>MSMEG_0854
+GUGAAACCGGCGCGCACUCC
+(((.......)))....... ( -0.90)
+>MSMEG_0855
+GCCACCGUCAAGAUAUCGGG
+....(((.........))). ( -2.50)
+>MSMEG_0857
+AUGGAGCGAUUACCCUAUAU
+.................... (  0.00)
+>MSMEG_0859
+AUAGGGUAAUCGCUCCAUAU
+...((((....))))..... ( -1.80)
+>MSMEG_0861
+GAUGGCCAGACGCCCCGAUC
+...(((.....)))...... ( -2.90)
+>MSMEG_0862
+CGUGAAAUCCAGUUCCCAGU
+.................... (  0.00)
+>MSMEG_0866
+GAACGAAAGGAGUCCUCGGG
+...(((..((...))))).. ( -1.00)
+>MSMEG_0876
+GACCGGGGCGCUCACUCCGG
+..((((((......)))))) ( -8.80)
+>MSMEG_0877
+GUGGGUGCUGAUCUUCGGGC
+(.((((....)))).).... ( -1.90)
+>MSMEG_0880
+GGCACUCUCGAUUCGUGAGU
+...((((.((...)).)))) ( -3.60)
+>MSMEG_0884
+GUGAUCGAUCACUUCGGCAU
+(((.((((.....))))))) ( -3.50)
+>MSMEG_0886
+AUGCCGUUGAACACCGGCGA
+..((((........)))).. ( -6.10)
+>MSMEG_0887
+AUGACCGCCCGUGAACCCAC
+..........(((....))) ( -0.50)
+>MSMEG_0889
+AUGACAGCGACGCCUGAAGU
+....(((......))).... ( -0.60)
+>MSMEG_0890
+GUGACGUACAGGCUGCCCGA
+.................... (  0.00)
+>MSMEG_0892
+GACAACAAGGACCAUGAGGU
+..........(((....))) ( -1.30)
+>MSMEG_0894
+GACAGAAGGUCUGACCAUCU
+...(((.(((...))).))) ( -2.70)
+>MSMEG_0895
+AUGCAUCCGCCGCGCCGCCA
+..((.......))....... ( -0.40)
+>MSMEG_0896
+AUGGACGAUCCCUCGAUCGA
+.....(((((....))))). ( -4.90)
+>MSMEG_0900
+GUAACACCGGUUCAGAGGUU
+.....(((........))). ( -2.40)
+>MSMEG_0901
+GCGACAUCAAGGCCGGCCGG
+((.........))....... ( -0.20)
+>MSMEG_0903
+GUGACCCACUUUGACGUUGU
+(((...)))........... ( -0.10)
+>MSMEG_0906
+GUGCCGAAGACGUUCGUCGG
+...((((.((...)).)))) ( -3.60)
+>MSMEG_0909
+GCCUGCUCAGCGGCCGCGAG
+(((.((...)))))...... ( -4.10)
+>MSMEG_0911
+AGCACACCAGUGAAGCUGCU
+..(((....)))........ ( -1.50)
+>MSMEG_0912
+GGGCCUGUCGCGUGUCUGCG
+........(((......))) ( -2.00)
+>MSMEG_0913
+GGAAGGCCAUCCCGGCUCCA
+(((..(((.....)))))). ( -6.60)
+>MSMEG_0915
+AUGUCCGAUUUCGACGACGA
+..(((((....))..))).. ( -1.60)
+>MSMEG_0916
+GACCUAGGGAACGGAAACUA
+..((........))...... ( -0.30)
+>MSMEG_0917
+GUGGCUCAUCGAAUGGAUGC
+......((((.....)))). ( -2.80)
+>MSMEG_0918
+GUCGACAUCGGAUACCGAGC
+.......((((...)))).. ( -3.00)
+>MSMEG_0919
+AUGAGGAGCCGGCUACUGAC
+.................... (  0.00)
+>MSMEG_0920
+GUGAUACUUGCCGACCUUGC
+.................... (  0.00)
+>MSMEG_0923
+GUGACCGAUCCCUGGGCUCG
+..((((........)).)). ( -2.50)
+>MSMEG_0928
+GUGGCCAGUUCGCAUGUUGC
+((((.....))))....... ( -1.60)
+>MSMEG_0929
+GUGAGCCCCGCCGGUGAUGA
+....(((.....)))..... ( -1.20)
+>MSMEG_0930
+AUGUCGACACCACACUCAGA
+.................... (  0.00)
+>MSMEG_0932
+GUGACCCGGAAGUCCCAGCG
+(.(((......))).).... ( -1.30)
+>MSMEG_0933
+GUGCGUCUAGCGACAGACCU
+....((((......)))).. ( -2.70)
+>MSMEG_0935
+AUGGCGACCCUGAUCCUGCU
+..((((..........)))) ( -0.60)
+>MSMEG_0936
+GUGAGCUUGGUGUCGGCGUU
+((..((.....))..))... ( -1.60)
+>MSMEG_0938
+GUGACACGUGUGCAUCCUGG
+.................... (  0.00)
+>MSMEG_0939
+GUGCGGUUAGGUGUGCUCGA
+(((((......))))).... ( -3.00)
+>MSMEG_0940
+GGCUGACCGCGCUGAACUGG
+(((.......)))....... ( -1.10)
+>MSMEG_0941
+CCUGGACCGGGAUCUCGAAA
+((((...))))......... ( -2.50)
+>MSMEG_0942
+GCAAGCAUCUGCUGCGCUGA
+(((.((....)))))..... ( -4.80)
+>MSMEG_0943
+AUGUCGAGAAUCGCGAUCAU
+..((((.......))))... ( -1.50)
+>MSMEG_0944
+GUAUGCGCGGGUUGGUGCCG
+....((((......)))).. ( -5.10)
+>MSMEG_0945
+GUCAAUCAACGGCUUUAGAU
+(((.......)))....... ( -0.70)
+>MSMEG_0947
+GGACGACGGGGGAAGCGUUC
+(((((.(.......)))))) ( -3.30)
+>MSMEG_0948
+GCCGGGCAGUUGAAGCUGGA
+..(.(((.......))).). ( -3.90)
+>MSMEG_0949
+GUGUCCGAAAUCGGUAGUGC
+....(((....)))...... ( -2.30)
+>MSMEG_0951
+AGGUGAAGUACUUCCUGGCC
+.(((.(.(.....).).))) ( -1.40)
+>MSMEG_0952
+GUGGUGAUGAAGCCGUGAGC
+..(((......)))...... ( -2.80)
+>MSMEG_0962
+AUGAGCGUGCGCUACAGCAA
+.......(((......))). ( -2.70)
+>MSMEG_0964
+GUGACCCCCUUCGAACAGAU
+.................... (  0.00)
+>MSMEG_0965
+GCCAACUGUGAGCGAGGCAU
+(((............))).. ( -3.20)
+>MSMEG_0972
+CAAAGCCGCGGCCGCCCAGG
+....((....))........ ( -0.80)
+>MSMEG_0974
+GAGUUCGGCGGGCUGGCCCG
+......(((......))).. ( -4.80)
+>MSMEG_0975
+GGGAGUUGUCCGAGAAGAGG
+.(((....)))......... ( -2.80)
+>MSMEG_0976
+AGGAGGUUUCGAGUGGCGUA
+...(.(((......))).). ( -0.50)
+>MSMEG_0977
+GUGUCAGCAAGUCGUCCCGC
+.................... (  0.00)
+>MSMEG_0982
+AUGGGAUAUCACGGUAGAGC
+.................... (  0.00)
+>MSMEG_0985
+GUUCGGGGGACACACCAACU
+(((.((........))))). ( -2.90)
+>MSMEG_0986
+AAACGACGACGAAGCUCCCG
+.................... (  0.00)
+>MSMEG_0987
+AGCGAUUCGGUUGGUGGACG
+.........(((....))). ( -0.60)
+>MSMEG_0988
+GUGGCCAGUUUCGCGCAGUG
+((((......))))...... ( -1.90)
+>MSMEG_0990
+CGUCACCACGGCCGUCAAGG
+.(((.....)))........ ( -0.90)
+>MSMEG_0991
+GAUCCAGGGUCCGCGUUUUU
+((((...))))......... ( -0.70)
+>MSMEG_0999
+GCACCGUCAGCGAAACGUCA
+((.......))......... ( -0.60)
+>MSMEG_1002
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_1003
+AGGUGUGCGCAGUUGCGCAA
+.....(((((....))))). ( -7.50)
+>MSMEG_1005
+ACAUGCCGAACCGAAGGAGU
+.....((........))... ( -1.40)
+>MSMEG_1007
+GUGAGAGCCGCAUGACCGUU
+(((.....)))......... ( -1.40)
+>MSMEG_1008
+GUGCUGAGGCGACUCGUAGU
+.(((.(((....)))))).. ( -3.80)
+>MSMEG_1010
+AUGACCGCCGAAUCCGUACC
+.................... (  0.00)
+>MSMEG_1012
+GAUCAGUUCACACGAAUCUC
+.....((((....))))... ( -0.80)
+>MSMEG_1017
+ACCGACAGGCCACCACAGUU
+.((....))........... ( -1.10)
+>MSMEG_1019
+AGGAACAGACGUGCCACCCA
+.((.((....)).))..... ( -1.70)
+>MSMEG_1023
+GAAUUGCGUCGUGUGUGCCU
+.....(((.(....)))).. ( -0.20)
+>MSMEG_1025
+GGAACAAUGCUCCCCCUACG
+(((.......)))....... ( -1.00)
+>MSMEG_1027
+GCAUUGUUCCGCUUAUAUGG
+((........))........ ( -0.60)
+>MSMEG_1028
+GACACUCAAUCAACGAGACG
+....(((.......)))... ( -1.10)
+>MSMEG_1029
+GUGCGGCGAGGGUCGAGAUC
+...((((....))))..... ( -4.50)
+>MSMEG_1030
+AGCCACCGCGCCGGACACUG
+.....(((...)))...... ( -1.40)
+>MSMEG_1033
+GUCGCCGAGCGCCGAACGGU
+...((((.........)))) ( -2.70)
+>MSMEG_1034
+GAUGCACCAGCUCAUAGCGC
+((.((....))))....... ( -1.70)
+>MSMEG_1037
+GGGAUUACCGCGCCGUCAAU
+((.....))........... ( -1.80)
+>MSMEG_1038
+GUGUUCCACGUCCUCACGCU
+(((...........)))... ( -1.00)
+>MSMEG_1039
+GUGCUGACCUUCCGACCGCU
+.................... (  0.00)
+>MSMEG_1042
+GUGAUGACGGUGAAGCAUGC
+...(((.(......)))).. ( -0.40)
+>MSMEG_1046
+GUGCCCACAACCGGAGAAGA
+....((......))...... ( -0.90)
+>MSMEG_1049
+AUGACGGAAAUCAGGGACGC
+.................... (  0.00)
+>MSMEG_1051
+GAAAUGCCGGCGCGGUCGGC
+.....((((((...)))))) ( -7.70)
+>MSMEG_1052
+GGCAACCGUGCAAGAUCAAU
+.(((....)))......... ( -1.60)
+>MSMEG_1053
+GUCCACAACUCAACGAUCUG
+.................... (  0.00)
+>MSMEG_1058
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_1060
+AAAAAUAGUCACCGACAUCG
+.......(((...))).... ( -0.70)
+>MSMEG_1061
+AUGCGCCAAGAGGUCACCUC
+.........((((...)))) ( -2.60)
+>MSMEG_1062
+GUCGGCUCACCAACGACGAG
+((((.........))))... ( -4.80)
+>MSMEG_1063
+GACAGCUCCCCCUCGGUGCC
+....((.((.....)).)). ( -3.20)
+>MSMEG_1065
+CUCCGAGCGCCCCACCCCCG
+.................... (  0.00)
+>MSMEG_1067
+AUGGAGAUCCUGGCCAGCCG
+..((....)).((....)). ( -0.70)
+>MSMEG_1068
+GUGCCUGAUCGCGACGACGU
+((((......)).))..... ( -1.30)
+>MSMEG_1073
+AUGAGCAAGCACCCGUUACG
+.................... (  0.00)
+>MSMEG_1074
+GAAUUGAUUACGCUGAUGGC
+.................... (  0.00)
+>MSMEG_1075
+AUGAGCAGCCAAGCAGCUUC
+..((((.((...)).)))). ( -3.90)
+>MSMEG_1076
+GCAAUGAUGCGUAUCGCGCA
+.......(((((...))))) ( -4.30)
+>MSMEG_1077
+AUGGGCUCCGAAAUGCGCAC
+.((.((........)).)). ( -4.40)
+>MSMEG_1082
+AAGCACUUGACCGGAGGGGG
+..........((....)).. ( -1.70)
+>MSMEG_1089
+GCCGGCCGGGGGCGGACGCG
+((.(.(((....))).))). ( -5.50)
+>MSMEG_1098
+AUGACCCAGGUGAAAAGCUC
+.................... (  0.00)
+>MSMEG_1103
+GUGACCAACGGCGUUCCGGC
+........(((....))).. ( -2.20)
+>MSMEG_1112
+GCCCGCGAACCGUUUCAACC
+.................... (  0.00)
+>MSMEG_1114
+AGGCCGAUACAGAAGAGGUU
+.((((...........)))) ( -1.80)
+>MSMEG_1115
+GUGAGUCGAGCGAGCUUGGA
+.....(((((....))))). ( -2.10)
+>MSMEG_1116
+GUCUAUGGAUCAACCCUAGU
+..(((.((......))))). ( -1.80)
+>MSMEG_1117
+GUGUCACGCAACACUGCUGC
+((((......))))...... ( -2.50)
+>MSMEG_1118
+UGUACCCACCUGUAUCUCAA
+.((((......))))..... ( -0.30)
+>MSMEG_1123
+GUGAGGACAACCGGAUCUGU
+....((....))........ ( -0.20)
+>MSMEG_1124
+AUGACAUACGUGAUCGGCCG
+.................... (  0.00)
+>MSMEG_1131
+AUGCGACCGAUCACCUUGGC
+......((((.....)))). ( -1.70)
+>MSMEG_1132
+AUGAACACCCGAGCGGAUGU
+....(((.((....)).))) ( -2.10)
+>MSMEG_1133
+GUGAGUACCCCAGCGACCGU
+.................... (  0.00)
+>MSMEG_1134
+GAGUAACUGUCGGGGACAUU
+.......((((...)))).. ( -1.60)
+>MSMEG_1136
+GUGCUGAGCAGACUGCUGGU
+..(((.((((...))))))) ( -3.20)
+>MSMEG_1138
+UCGAGCUGUUUUAUGGCACU
+....(((((...)))))... ( -2.20)
+>MSMEG_1139
+AUAAAACAGCUCGAAGGUGU
+.....(((.((...)).))) ( -1.70)
+>MSMEG_1140
+AUGGCAGCAUCGCUACGCGU
+.((((......))))..... ( -2.70)
+>MSMEG_1141
+ACUGCGAGUUACCCGUGGGG
+.(((((.......))))).. ( -3.80)
+>MSMEG_1153
+CAUCGCCCGCCGCAAGAGCG
+.......((((....).))) ( -2.30)
+>MSMEG_1165
+GUACCCAAACUACAAACCGG
+.................... (  0.00)
+>MSMEG_1167
+AUCUGGCACUAUUCCGUACC
+....((.((......)).)) ( -0.30)
+>MSMEG_1168
+GCCAGAUGGCAACUUCGGUU
+(((....))).......... ( -4.30)
+>MSMEG_1169
+GACCGCCCCGAUCGAAAGAA
+.................... (  0.00)
+>MSMEG_1173
+GUGUCGAAUCAGAUCGCGGC
+(((((......)).)))... ( -3.30)
+>MSMEG_1174
+AUCCCAAGUUCGACAUAUGU
+.................... (  0.00)
+>MSMEG_1175
+AUGCCCAAAGCGCUGCCGGU
+..((.....))......... ( -0.20)
+>MSMEG_1176
+GCUCGGUGAGCGGUAUCACC
+....(((((......))))) ( -6.10)
+>MSMEG_1177
+GUCGGCUGUGUCACGCGCCA
+...(((.(((...)))))). ( -5.30)
+>MSMEG_1184
+GGGGAGGUUGAGACUCGCCG
+((.(((.......))).)). ( -8.20)
+>MSMEG_1185
+GCAGGAUUCCGUCAAAAUCG
+....((((.......)))). ( -0.20)
+>MSMEG_1188
+AGCCCGUCGGAGCUCGGAAA
+...(((........)))... ( -3.30)
+>MSMEG_1189
+GCGGGGAGGCGAAACUGAGC
+((......)).......... ( -2.10)
+>MSMEG_1191
+GCACAUGACCGCCGAACGAA
+((........))........ ( -0.20)
+>MSMEG_1193
+GCUUGGUGAUGUGAGCCGGA
+..(((((.......))))). ( -3.10)
+>MSMEG_1194
+AUGAGGGGUAUCGCCGCCGU
+....(((((...))).)).. ( -4.10)
+>MSMEG_1195
+GAGAAUCAGCCAGAUCGGGG
+.........((......)). ( -0.70)
+>MSMEG_1199
+AGCCGAAAGGGGGAACAUGC
+..((......))........ ( -1.70)
+>MSMEG_1200
+GCCAAAAUUGACGUGCCGAA
+.................... (  0.00)
+>MSMEG_1201
+AGAAAGGGGACCCGUGACCA
+......((.........)). ( -0.80)
+>MSMEG_1204
+GAGAGCUUGGUAAGCGGUUC
+..(((((........))))) ( -2.40)
+>MSMEG_1205
+GACGUACGGUAGGCAAUCGG
+......((((.....)))). ( -1.70)
+>MSMEG_1206
+ACCGGGACCACGACAGGCCC
+...(((.((......))))) ( -5.90)
+>MSMEG_1207
+CUGGCCCGGGUCCCGCCGAU
+......(((......))).. ( -4.00)
+>MSMEG_1210
+AUGACCGAGCCCGCUCCGAC
+......(((....))).... ( -1.10)
+>MSMEG_1211
+GGUCGCGCAACGCGCCGCCG
+(((.((((...)))).))). ( -8.20)
+>MSMEG_1212
+AACGCGCCGGACAGGCGCCG
+...(((((.....))))).. (-10.20)
+>MSMEG_1213
+GUGAGCACCCCGGGGACGCU
+...(((..((...))..))) ( -2.80)
+>MSMEG_1220
+GGGAACAGCGCCAAACAGCG
+((........))........ ( -1.70)
+>MSMEG_1222
+GUGGCGUACGUGCGGAAAGU
+.(.((......)).)..... ( -1.20)
+>MSMEG_1223
+GUGAGCCAUACGAGUGUCGA
+.(((..(......)..))). ( -0.10)
+>MSMEG_1225
+AUGAGCCGCCGCAAUCGCCA
+....((....))........ ( -0.40)
+>MSMEG_1226
+AUGCUCACCGAACUGGUCGC
+..((..(((.....))).)) ( -1.70)
+>MSMEG_1236
+UCGCCUGGCAUGGGGCCCGG
+..((((......)))).... ( -5.60)
+>MSMEG_1238
+AAUUGACGUACUCGCUUAAU
+.(((((((....)).))))) ( -0.90)
+>MSMEG_1240
+GGUCCGCGUUCCUUGUCCUG
+((........))........ ( -0.60)
+>MSMEG_1242
+GACGUCGUUGUAUGCGAGUC
+(((.((((.....))))))) ( -5.40)
+>MSMEG_1245
+AGAACAUGCACCGUCUGAAG
+.................... (  0.00)
+>MSMEG_1246
+ACCAGCGCAAGGCUGAAUGG
+..((((.....))))..... ( -5.80)
+>MSMEG_1247
+GAAACUCGUGGCGCUUAAGA
+.................... (  0.00)
+>MSMEG_1250
+GUGCCGACACCGUUUCCUGC
+(((....))).......... ( -0.60)
+>MSMEG_1251
+CUCGCAUGCGCGGGUUACGG
+(((((....)))))...... ( -5.90)
+>MSMEG_1253
+AAGGCAAGCGUGCAUCACAC
+...(((....)))....... ( -1.60)
+>MSMEG_1255
+GUGAACGGGUGGACCCUGUG
+....(((((.....))))). ( -4.90)
+>MSMEG_1257
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_1258
+AUGCACCGCAGCGAUCCGAC
+..((......))........ ( -1.00)
+>MSMEG_1260
+GCACAAGCAGAGGGGAAGCA
+((....))............ ( -1.00)
+>MSMEG_1261
+GUGAGCAAGACUUCUGCAGC
+....(((.......)))... ( -1.50)
+>MSMEG_1262
+UGUUGAAGCAAAAGCGAAGG
+((((........)))).... ( -0.80)
+>MSMEG_1263
+GAAGUGUUAUCCAGGAGGAA
+.........(((....))). ( -1.90)
+>MSMEG_1264
+CUCGCGUGUGCGAGCGCUUU
+(((((....)))))...... ( -6.60)
+>MSMEG_1265
+GUGAGCGGGCAUGUCUUCAU
+(((((.((.....))))))) ( -1.20)
+>MSMEG_1268
+GACAUGGACAACGCGGAGUA
+.................... (  0.00)
+>MSMEG_1270
+GCAGGAAUCGGGAGGGUGAC
+...(..(((.....)))..) ( -0.70)
+>MSMEG_1272
+GCUUCACGAGACGCCGUCGA
+((.((....)).))...... ( -1.30)
+>MSMEG_1274
+AGCACCAGAGCCGGUGCCAG
+.(((((......)))))... ( -8.10)
+>MSMEG_1275
+GAACCGUUGUGGCGCAGUGC
+(..((.....))..)..... ( -0.90)
+>MSMEG_1277
+AUGCCGUCGCUGAACAUCGA
+..((....)).......... ( -0.10)
+>MSMEG_1279
+GUGGAUUACGACGCGAUCAC
+(((........)))...... ( -2.60)
+>MSMEG_1283
+AUGGCUCUAAGCAUCAAACA
+...(((...)))........ ( -1.00)
+>MSMEG_1289
+GGACACUGUCCGCAUCAGAG
+((((...))))......... ( -4.20)
+>MSMEG_1292
+AGAAUCGGACAGAUCGCGGC
+....(((((....)).))). ( -0.40)
+>MSMEG_1293
+AUGGUCGCACCGCUAACGCU
+..(((...)))((....)). ( -1.70)
+>MSMEG_1295
+GAAACCGAACGCCGGGUCAU
+((..(((.....))).)).. ( -3.70)
+>MSMEG_1296
+GGAGGUCGUGGUCGCGCUGG
+.......(((....)))... ( -1.90)
+>MSMEG_1300
+ACCGUUGCGUUUGCAACGCC
+..((((((....)))))).. ( -7.60)
+>MSMEG_1305
+AUGGCCUGGGACACCGCGCG
+...((.(((....))).)). ( -5.40)
+>MSMEG_1311
+GCACCUGGCCGGCGGGACGC
+...((((.....)))).... ( -4.40)
+>MSMEG_1313
+GCGUGCCGAGUAUGAGGACC
+.(((((...)))))...... ( -2.20)
+>MSMEG_1314
+GAAACCACACACCCCGGGGG
+...........(((...))) ( -1.70)
+>MSMEG_1316
+GACAUGACCGACACCCCCGC
+.................... (  0.00)
+>MSMEG_1317
+ACCAUGUCCUCCACGCCGUC
+.................... (  0.00)
+>MSMEG_1322
+ACUGAUCGGUUCCCGGUCAG
+.((((((((...)))))))) (-10.30)
+>MSMEG_1331
+AUGAGCAGCCUGGUGAGCUA
+......((((....).))). ( -1.80)
+>MSMEG_1332
+GUGGGGAUAUUCGACUCAAU
+.((((.........)))).. ( -2.10)
+>MSMEG_1334
+AUGGCUGAGCGCACGUCUGA
+..(((((....)).)))... ( -1.30)
+>MSMEG_1339
+GUCGGGGGAUCGAGCCCCCC
+...(((((......))))). (-10.20)
+>MSMEG_1344
+GUGUGGACACUGGAAGGUGA
+.......((((....)))). ( -2.80)
+>MSMEG_1346
+GUAAAGGAACAACACGGAUG
+.................... (  0.00)
+>MSMEG_1350
+GGCGGGGUGACCACUGAGGC
+((.((.....)).))..... ( -2.80)
+>MSMEG_1351
+AGUCUGGGGGGACGGUCGGG
+.((((....))))....... ( -3.60)
+>MSMEG_1353
+AUGAGCACUACGCCGGCGAA
+....((.(......)))... ( -0.30)
+>MSMEG_1356
+AGCGCCCGGUCGGGCCGGCC
+.((((((....))))..)). ( -7.50)
+>MSMEG_1361
+GCGUCGCCAACACCCAUCUG
+.................... (  0.00)
+>MSMEG_1363
+AUGACGCUCACCCUGGCCCU
+.....(((......)))... ( -1.20)
+>MSMEG_1364
+GUUCCACCGAAGACCGUCGG
+......((((......)))) ( -3.50)
+>MSMEG_1366
+GCAAAGGGAAUAGAUCGACG
+.................... (  0.00)
+>MSMEG_1367
+UGCGCUGGCUGCACCCUGCC
+......(((........))) ( -3.30)
+>MSMEG_1369
+GGAAUGCGGGGAGGUGACGC
+.....(((.........))) ( -1.90)
+>MSMEG_1370
+AGGCGUGAUCCAGGUAACAA
+..((.((...)).))..... ( -1.20)
+>MSMEG_1375
+GGUUGGAGUUGGGUCAAGUC
+.....((.(((...))).)) ( -0.70)
+>MSMEG_1376
+GUAAACCCAAUCAACGCAAU
+.................... (  0.00)
+>MSMEG_1379
+AGGCGGACCAGAGGGGGCGA
+...((..((....))..)). ( -3.70)
+>MSMEG_1380
+GUGAGUGCCCCCGAGACGCC
+....((((......).))). ( -0.10)
+>MSMEG_1381
+GAAACUUUUUGUCCCCGUUG
+.................... (  0.00)
+>MSMEG_1383
+GUGCUCAUUGGCUCGCAUGU
+((((..........)))).. ( -2.00)
+>MSMEG_1385
+GUGACCGCGGUUGAGGACUC
+....((........)).... ( -1.20)
+>MSMEG_1387
+AUGGCACACGAUCUGUCGCU
+..((((((.....))).))) ( -2.30)
+>MSMEG_1391
+AUGUCGACGAUGUUCAGUGC
+.................... (  0.00)
+>MSMEG_1392
+ACCGCACGAAACCCCGACCC
+.................... (  0.00)
+>MSMEG_1394
+AGCAGACUUCUGGUCUGGAG
+..((((((...))))))... ( -6.40)
+>MSMEG_1397
+GCGACCCGAAACCGGUGCCG
+(((..(((....)))))).. ( -3.90)
+>MSMEG_1398
+GUGCCUGGCCCGAAAGGCGC
+((((((........)))))) ( -8.70)
+>MSMEG_1401
+CGGCCCAGCGAGACCGCACA
+.......(((....)))... ( -3.20)
+>MSMEG_1402
+AACGAAUUUUCCGAGAAGUU
+.................... (  0.00)
+>MSMEG_1403
+GUAGGUCUGUUACACGGGUU
+.....(((((...))))).. ( -1.40)
+>MSMEG_1404
+AUCUCGUCCAGGCCGAGAGG
+.(((((.......))))).. ( -4.60)
+>MSMEG_1405
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_1410
+ACAUCGAGAAAGGACCGGGG
+.................... (  0.00)
+>MSMEG_1414
+AUGACGAUUUCCGACGAUGU
+.................... (  0.00)
+>MSMEG_1415
+GGAACACAUUCGCGUCGAUU
+.................... (  0.00)
+>MSMEG_1416
+GUGACCACUUCAGCGCAUUC
+(((..........))).... ( -0.40)
+>MSMEG_1418
+GUGAGUGCCGAAACAGAUGC
+.................... (  0.00)
+>MSMEG_1419
+GAUGAUCGAGCAAUUCACGC
+.................... (  0.00)
+>MSMEG_1423
+CCACUCAGGUCGCCGAACAG
+.................... (  0.00)
+>MSMEG_1425
+GUGGCUUUUCCCAGCGGGCU
+..(((((........))))) ( -2.40)
+>MSMEG_1426
+GAUGGUCAACGGCUGCGCCG
+.........((((...)))) ( -4.20)
+>MSMEG_1429
+GACACCCGUCAAGCGCAGUG
+(((....))).......... ( -2.20)
+>MSMEG_1430
+GCUCGACGAGGGCGUCAGUC
+((((.....))))....... ( -5.30)
+>MSMEG_1432
+AUGCGGCGGGCCCGGCAGGU
+.(((((.....)).)))... ( -2.70)
+>MSMEG_1433
+CUUGGGCGUCGGGUCGAGAA
+(((((.(....).))))).. ( -5.60)
+>MSMEG_1434
+GCCAGUUCGUGCGCACCGGC
+(((.((.(....).)).))) ( -3.10)
+>MSMEG_1435
+GUUGCCUUGCGCCGGGUACG
+..(((((......))))).. ( -3.80)
+>MSMEG_1440
+CGUGCGCUGCCGCGCCACCG
+.((((((....))).))).. ( -6.60)
+>MSMEG_1442
+CCGGAUCCGCAAGCGCACCA
+........((....)).... ( -0.80)
+>MSMEG_1446
+CAGAAGACCAUCGUGGUCGA
+.....(((((...))))).. ( -5.50)
+>MSMEG_1448
+GCUGCCGAACGCACGGUGCC
+((.((((......)))))). ( -5.70)
+>MSMEG_1451
+GGAUCUCCUUUGCGGAGACG
+...(((((.....))))).. ( -6.00)
+>MSMEG_1455
+GGGAGUCGCCGUGCACACCG
+((..((.((...)))).)). ( -2.70)
+>MSMEG_1456
+AAAAAUGCGCUGCGACGGGU
+....((.((......)).)) ( -0.70)
+>MSMEG_1457
+GUCAGCCCGAGCUGCGAGAG
+(.((((....)))))..... ( -4.30)
+>MSMEG_1465
+GUUGCCUUGGGCAGACCUUG
+.(((((...)))))...... ( -4.30)
+>MSMEG_1466
+GAACUGCGCGAGAAGAAGUU
+.((((.(.......).)))) ( -0.20)
+>MSMEG_1468
+CGAACGACGCUGAAGGCCGC
+........(((...)))... ( -0.70)
+>MSMEG_1470
+UCACGAUGAGGUGACUCUGC
+((((......))))...... ( -3.70)
+>MSMEG_1471
+GUACAAGGGCAAGGGCGUGC
+((((....((....)))))) ( -1.30)
+>MSMEG_1472
+CGAGAGGACUGCAUGAUGGC
+.................... (  0.00)
+>MSMEG_1473
+CCCGGCGCGAGAGUGAAGCG
+.....(((....)))..... ( -1.90)
+>MSMEG_1476
+AUGUUCGGUUUUCUCCCAGG
+......((......)).... ( -0.60)
+>MSMEG_1479
+GGUUUCGAACUCCCCGAGGA
+..(((((.......))))). ( -1.70)
+>MSMEG_1482
+AGCUCGUUAUAGGGCCUAAC
+.((((......))))..... ( -4.90)
+>MSMEG_1483
+GUUUGACGGCUGAGUUCGCA
+((..(((......))).)). ( -0.90)
+>MSMEG_1487
+GAACGACGGAGUGCUCGUUU
+((((((.(.....))))))) ( -3.50)
+>MSMEG_1492
+GUGCCCUCGUCACCGGACAG
+........(((....))).. ( -1.90)
+>MSMEG_1494
+GUCGAAGAUCAUGUCCUUGG
+..(((.(((...))).))). ( -0.90)
+>MSMEG_1496
+GGUCAUCGGUCGUUCUGUCG
+......(((.....)))... ( -0.10)
+>MSMEG_1498
+AUCUCGGAUCACACCGAGCG
+..(((((......))))).. ( -6.40)
+>MSMEG_1501
+GGUGCGCCGGGAAGCCUGGU
+.....((((((...)))))) ( -7.00)
+>MSMEG_1502
+GAAACAGAACAGGCCGGUGC
+.................... (  0.00)
+>MSMEG_1512
+AUGCGGCUAUUGGUCACCGG
+....((((...))))..... ( -1.70)
+>MSMEG_1513
+GAUCGCCGCACGUCUUUCCG
+.................... (  0.00)
+>MSMEG_1514
+CUGACGCCGUCUGUCGCGGC
+.....(((((.....))))) ( -6.30)
+>MSMEG_1516
+GAUGACUGGCCCCGCCCCCC
+.......(((...))).... ( -2.10)
+>MSMEG_1518
+AGUGAGCCACGUCGCUCGCG
+.((((((......)))))). ( -8.90)
+>MSMEG_1520
+GUACAAGUGACAACCAGCCC
+.................... (  0.00)
+>MSMEG_1521
+GCCACAUGGCAAGGCUCGUG
+(((....))).......... ( -4.30)
+>MSMEG_1522
+CCGCAAGAUCGAGAUCGGUU
+......(((((....))))) ( -2.30)
+>MSMEG_1523
+CAGAAGACCCGCCGCAGGGA
+.......(((......))). ( -4.60)
+>MSMEG_1524
+ACAUCAUCGAUGUCAAGGAG
+(((((...)))))....... ( -2.00)
+>MSMEG_1525
+CAGAAGUCCAUCGACGAGGU
+.....(((....)))..... ( -1.50)
+>MSMEG_1526
+GUGGUCGAACAUUCCAGCAG
+.(((.........))).... ( -0.90)
+>MSMEG_1529
+GUGAUUUCCCUCCGGAAGCC
+....(((((....))))).. ( -2.80)
+>MSMEG_1530
+CAAAGCAAAUUUUACUCAUG
+.................... (  0.00)
+>MSMEG_1531
+GGGUAGGACUGGUCGCAGUG
+.......((((....)))). ( -3.70)
+>MSMEG_1540
+CGGCGGCUUGCCUGUUCUGC
+.(((.....)))........ ( -3.90)
+>MSMEG_1542
+ACGUGCCGGGGCCGGCGGGU
+((.(((((....))))).)) ( -9.50)
+>MSMEG_1543
+GACCGACACAUUUCGGUGUC
+.(((((......)))))... ( -5.80)
+>MSMEG_1544
+ACGCCGCGUUCGGUGGCUAC
+..(((((.....)))))... ( -8.70)
+>MSMEG_1546
+GCGUAAGAGAACACGCCUGG
+((((........)))).... ( -3.60)
+>MSMEG_1553
+CGCCUGGUGGCCAACUCGCC
+.(((....)))......... ( -4.30)
+>MSMEG_1556
+GGUGUGUGCUGCCCUCACGG
+..((((.........)))). ( -1.20)
+>MSMEG_1557
+CCGCAGCGGCAACGCUGCUG
+..((((((....)))))).. (-11.70)
+>MSMEG_1558
+CGCAAGAAGUACGGCCUCAA
+.................... (  0.00)
+>MSMEG_1559
+GGCCAGAUCACGACGCUCGC
+.................... (  0.00)
+>MSMEG_1561
+AUGGCCCCAUCGCCGAGCCG
+..(((......)))...... ( -3.90)
+>MSMEG_1565
+AUGAGGCAGACCAGGGCCGC
+....(((........))).. ( -4.00)
+>MSMEG_1567
+GUGGCCAGCACGAAAAAGCU
+(((.....)))......... ( -2.50)
+>MSMEG_1573
+GCGCGGACACGUCGAGCAGG
+((.(((.....))).))... ( -3.70)
+>MSMEG_1574
+GUCCGGGCCGCGAUCGCGGC
+......(((((....))))) ( -8.40)
+>MSMEG_1575
+GGAGAUUAUGACGAUGCAGA
+.................... (  0.00)
+>MSMEG_1577
+GAAAUGGCCGAGCGGUUGCC
+.....((((....))))... ( -2.50)
+>MSMEG_1580
+CACAACCACUACAUCGCGGC
+.....((.(......).)). ( -0.80)
+>MSMEG_1582
+GGCAGGCGGACGCCCCACGU
+((..(((....))))).... ( -4.80)
+>MSMEG_1583
+AGUACAACGGCGAGGAGUAC
+.((((..(.....)..)))) ( -2.80)
+>MSMEG_1585
+GUCCCGUCGCCGAGCUCGAC
+.....((((.......)))) ( -1.80)
+>MSMEG_1589
+GGAAGUGCCUUUCUGACCGU
+(((((...)))))....... ( -1.60)
+>MSMEG_1592
+AUGGUGCGUAAGCAGUUCGA
+..(.(((....))).).... ( -2.90)
+>MSMEG_1596
+GGACGAUCCCCACGUAAGUA
+(((...)))........... ( -0.60)
+>MSMEG_1597
+ACGGCAGGUCACCGGCGACA
+.(((.......)))...... ( -2.40)
+>MSMEG_1599
+AGAGGUGGCGUGUGGUCGAG
+.....((((.....)))).. ( -2.40)
+>MSMEG_1601
+GUGCGUGACCAUCUGCCACC
+(((.((........))))). ( -1.90)
+>MSMEG_1602
+AGAAGCUUCUCGCCUGCGCC
+....((.........))... ( -0.50)
+>MSMEG_1603
+CCAGUUCGUGCAGAUCACGG
+......((((.....)))). ( -3.00)
+>MSMEG_1604
+AUUCCAGAAAGUGGGCCUUA
+..((((.....))))..... ( -2.50)
+>MSMEG_1608
+GAGGUGUUCGAGGGGUCACG
+...(((.((....)).))). ( -2.70)
+>MSMEG_1609
+AGGACGAAACUCACAGAAGC
+.................... (  0.00)
+>MSMEG_1610
+GUGGCAUCAGAAUCUCCCCG
+.................... (  0.00)
+>MSMEG_1618
+ACCAGAAACCCGCUUCGGGA
+........((((...)))). ( -4.70)
+>MSMEG_1620
+AUCGAACAUACAUUCGAACA
+.(((((......)))))... ( -3.10)
+>MSMEG_1621
+GUGUCACCGAUGCCCGUGUU
+(((((...)))))....... ( -1.40)
+>MSMEG_1623
+AUGCGCUAUGUCGUUACCGG
+.................... (  0.00)
+>MSMEG_1629
+GGGCUGGGGAUCGGUGGUGA
+..((((.....))))..... ( -2.10)
+>MSMEG_1631
+GUGGACAAGCGAGAACUCGG
+.........(((....))). ( -1.10)
+>MSMEG_1632
+GGCAGGGGCGCACGCGUGGU
+..((.(.(....).).)).. ( -2.60)
+>MSMEG_1633
+GCGCGUUGAUGGAGGACUUC
+.................... (  0.00)
+>MSMEG_1634
+GUGUUGUGCGCACGACGCGC
+(((((((....))))))).. ( -7.40)
+>MSMEG_1635
+AUGACGCUGAAUCUUUCUGU
+.................... (  0.00)
+>MSMEG_1636
+GAUGUUCAGGGUGAUGUUCU
+.................... (  0.00)
+>MSMEG_1637
+AUUGCCAGGCGUUUGACGCC
+.......(((((...))))) ( -5.60)
+>MSMEG_1638
+GAAGCUGACAACGGCAUGUU
+...((((....))))..... ( -3.90)
+>MSMEG_1640
+GGCAGCCCGUCGGUGGCGGA
+......(((((...))))). ( -5.80)
+>MSMEG_1642
+GAUGAGCCGACCAUCCCCAC
+((((.......))))..... ( -1.90)
+>MSMEG_1643
+GUGGGUCGCGAAGAGAUAGC
+....(((.......)))... ( -0.70)
+>MSMEG_1644
+AUGCGGCCCAGCGAUCCGGA
+..((......))........ ( -1.80)
+>MSMEG_1645
+AUGAACACUCAGCCCAAUGU
+.................... (  0.00)
+>MSMEG_1646
+AUGUCGAUCACUUCGAUGGC
+..(((((.....)))))... ( -4.40)
+>MSMEG_1647
+GUGGGUGCGAUAUCGCUGGA
+......(((....))).... ( -2.90)
+>MSMEG_1648
+GUGGGGCUCCGUGAACGCAA
+(((............))).. ( -1.40)
+>MSMEG_1652
+GGUCAUGAGCGCCAGCGACA
+.(((....((....))))). ( -2.50)
+>MSMEG_1654
+GACGAGAAAAGACCGACAGU
+.................... (  0.00)
+>MSMEG_1655
+AUGGUUGAACGUGCACCCAU
+((((.((......)).)))) ( -2.80)
+>MSMEG_1656
+GUGGCUUCCCCGCAGACUCU
+((((.....))))....... ( -3.90)
+>MSMEG_1657
+ACCAUGAGUAGCGGAAGCAA
+..........((....)).. ( -1.60)
+>MSMEG_1659
+GCCAGCACAUGGCACCGGAC
+((((.....))))....... ( -6.00)
+>MSMEG_1660
+GUGAGCCUGGCAACGACGUG
+.................... (  0.00)
+>MSMEG_1661
+GAUGGUGACCUUCCGGACGA
+...((.......))...... ( -0.40)
+>MSMEG_1662
+CUCGUCCCGGUGCAUUUCAG
+.................... (  0.00)
+>MSMEG_1663
+AUGACCAACCCCGAUGGUCA
+.((((((.......)))))) ( -6.20)
+>MSMEG_1665
+AUGAGUGUGGCAGUAAAAGU
+.................... (  0.00)
+>MSMEG_1666
+GUGACCACCGCCGCGCGGAC
+.......((((...)))).. ( -4.80)
+>MSMEG_1672
+GAUGGUUUGGGGCUAGUCGA
+(((((((...))))).)).. ( -1.60)
+>MSMEG_1673
+GUUUGGCGGGUUAACCAGGG
+.(((((........))))). ( -2.40)
+>MSMEG_1675
+AUCGACGCGCCAACCAUCAU
+.................... (  0.00)
+>MSMEG_1680
+AACAGAAUCUCGACAACGAC
+.........(((....))). ( -0.50)
+>MSMEG_1682
+GAACAAACUUUCCAAGCAAC
+.................... (  0.00)
+>MSMEG_1683
+ACCCCUGACGGGGUGUAAAC
+(((((....)))))...... ( -8.10)
+>MSMEG_1684
+AUGGCUGCUGACAUCGUGCC
+..(((.((.......))))) ( -2.20)
+>MSMEG_1685
+AUCGCGAAGCGGGUCUGAAC
+.((((...))))........ ( -2.00)
+>MSMEG_1689
+GAACGCCUACGUCGGAUUCC
+.....((......))..... ( -0.60)
+>MSMEG_1692
+AUGGAUCCGGCACCCAGUUC
+.(((.........))).... ( -0.80)
+>MSMEG_1698
+GGCUGGCGAGGUCGGGAUAA
+..(((((...)))))..... ( -3.50)
+>MSMEG_1701
+GUGACCGACCCGCAUACCUC
+(((.......)))....... ( -1.10)
+>MSMEG_1702
+AUGUCCACCGCCACCGCUUC
+.........((....))... ( -0.30)
+>MSMEG_1708
+AUGACUCGCAAACCUGUGAU
+.....(((((....))))). ( -3.60)
+>MSMEG_1716
+AUGCCGAAGGAACAGUCGCC
+....(((........))).. ( -0.30)
+>MSMEG_1717
+GUGGAAUGGGUGUGUUGGAU
+.................... (  0.00)
+>MSMEG_1719
+GAUAGGUGCGGGUCGAGGCA
+......(((........))) ( -2.10)
+>MSMEG_1720
+GUGGGAUCGAAGUCAUCGAG
+......((((.....)))). ( -2.10)
+>MSMEG_1722
+GUCGCCGAUCUGACUGUUGC
+((((......))))...... ( -2.00)
+>MSMEG_1723
+AUGCACACCGCGUCGACCAC
+((((.....))))....... ( -1.60)
+>MSMEG_1725
+GUGGCACCUUCACCGCGAUC
+((((........)))).... ( -4.50)
+>MSMEG_1726
+GAGCAGGCCGAGAUCGCCCG
+.....(((.......))).. ( -2.80)
+>MSMEG_1728
+GAAGGCGAUGAGUGUGAAUG
+..(.((.....)).)..... ( -0.40)
+>MSMEG_1729
+GAUGGUGUAUGCCGUCAUCC
+((((((....)))))).... ( -7.40)
+>MSMEG_1732
+GACGCGCGACACUAGCCAGU
+.....((.......)).... ( -0.80)
+>MSMEG_1733
+GGGCGUACCUUCCCAACCAG
+(((........)))...... ( -3.30)
+>MSMEG_1734
+GUGCCGCUUUACGCCGCGUA
+..((.((.....)).))... ( -3.50)
+>MSMEG_1735
+GUGGUUACCCGCAUCGUGAU
+((((....))))........ ( -4.30)
+>MSMEG_1736
+GUGACUGUCCCGAAACCGGC
+.........(((....))). ( -2.30)
+>MSMEG_1738
+GUCGAAGAGGCGCUCGAAUC
+.((((........))))... ( -2.50)
+>MSMEG_1739
+AUGUCGCUUGCACAGCCGCU
+..((.(((.....))).)). ( -1.90)
+>MSMEG_1740
+GUGGAUCGCCAGAGAUUCGA
+.((((((......)))))). ( -4.90)
+>MSMEG_1741
+AGUGAACAGACGUACACCGA
+.(((.((....)).)))... ( -2.20)
+>MSMEG_1742
+AUGUUCACUCAAACGACCGC
+.................... (  0.00)
+>MSMEG_1744
+GAAGACGCGAUGACAUCGCG
+.....((((((...)))))) ( -6.30)
+>MSMEG_1745
+AUGAGCGAACAACCGCGCGG
+..(.(((......))).).. ( -3.50)
+>MSMEG_1751
+AAUGCGAUACCGAACACUCG
+.................... (  0.00)
+>MSMEG_1753
+GUGACAAUCGGUUUGAUCUG
+..(((((.....))).)).. ( -0.50)
+>MSMEG_1757
+AUGACCACCAAUGGGGCUGA
+....((.((...)))).... ( -1.80)
+>MSMEG_1770
+GCGCGAAGACGCGUCAAUAA
+(((((....)))))...... ( -5.80)
+>MSMEG_1773
+AGCUUCUUCGUUUCUCUUCC
+.................... (  0.00)
+>MSMEG_1778
+CUGGAACUCGACGGCAUCGA
+.......((((.....)))) ( -1.20)
+>MSMEG_1782
+AUGGAGCGCCAGGACGUACC
+..((.(((......))).)) ( -2.30)
+>MSMEG_1786
+AGGUUGAGUUCACAGCCAGC
+.(((((......)))))... ( -5.70)
+>MSMEG_1791
+AGCCCCGAAUGCCAGGGCGG
+.((((.(.....).)))).. ( -6.70)
+>MSMEG_1799
+AGACCUGUUUAAGUUCGUAG
+.((.((.....)).)).... ( -0.50)
+>MSMEG_1801
+AGAAGCUGCGGCGCGUCGAC
+....((....))........ ( -2.00)
+>MSMEG_1802
+GGACAGCGGAAUCGAUACAU
+.................... (  0.00)
+>MSMEG_1803
+CAAAUUCCAGGAGGUCAGAU
+.................... (  0.00)
+>MSMEG_1804
+GAGCCCGGCAGUUUCAGCUG
+.....((((.......)))) ( -2.70)
+>MSMEG_1805
+CGCCGUCGAGGAAGGCCAGG
+.(((.........))).... ( -3.70)
+>MSMEG_1807
+GAUAGAUUCUUAAAGACGUU
+.................... (  0.00)
+>MSMEG_1809
+GUGUCGCUGCCUGCAGAUCC
+..(((((.....)).))).. ( -2.20)
+>MSMEG_1812
+CAACCCCUACAUCGCUGCCG
+.................... (  0.00)
+>MSMEG_1813
+AUGACGAGCGUUACCGAGCC
+.......((........)). ( -1.20)
+>MSMEG_1817
+GUGUCCUUCGCUGAUGCAAC
+(((((.......)))))... ( -2.50)
+>MSMEG_1818
+GUGGGAUAUCCCGACAACGU
+(((((....))).))..... ( -4.70)
+>MSMEG_1819
+GUGCCGCGCGCUUCUCAAAC
+((((...))))......... ( -3.10)
+>MSMEG_1821
+GAGUAGCAAGGAGGCCACGA
+..((.((......)).)).. ( -1.80)
+>MSMEG_1822
+CUUCCCGGUGGAGCGGAUGA
+....(((......))).... ( -4.00)
+>MSMEG_1824
+GUGCCCAUCCCGUUGAUCAG
+.................... (  0.00)
+>MSMEG_1826
+GUGACGAUGGACGAUGCCCG
+........((.......)). ( -0.30)
+>MSMEG_1830
+GUGAAGAUCACCGUUCUGGU
+((((...))))......... ( -1.60)
+>MSMEG_1831
+AGUGUCAUUUUUCGGUUGGU
+.................... (  0.00)
+>MSMEG_1832
+GUGCCUCGGCUGAACCAUCC
+..((....)).......... ( -2.10)
+>MSMEG_1833
+GUGAAUGUUCCCCGUCGCUG
+((((.((.....)))))).. ( -1.80)
+>MSMEG_1834
+AACGAUCCCGUUUCACAAGG
+((((....))))........ ( -1.00)
+>MSMEG_1836
+GCGACUGGAGAUGGCCGCCG
+(((.(((....))).))).. ( -3.30)
+>MSMEG_1838
+AGCCGGGUCGAAAACGAGAG
+.......(((....)))... ( -0.60)
+>MSMEG_1839
+AUUGCGGUGAUAGCACUCAC
+.....((((....))))... ( -2.20)
+>MSMEG_1845
+AUGCCGAUCGACUCGCCACU
+.((.(((.....))).)).. ( -1.10)
+>MSMEG_1852
+AUGACGUACCGACUGACCCA
+.................... (  0.00)
+>MSMEG_1854
+AGAUCGAGGGGGUGCGCAUG
+..(((.....)))....... ( -0.30)
+>MSMEG_1861
+CCACGCCGAUUCGGCCGCGA
+....((((...))))..... ( -4.80)
+>MSMEG_1862
+GAGCAGGCCGAGAUCGCCCG
+.....(((.......))).. ( -2.80)
+>MSMEG_1863
+GCAGCUGCACCCACACACCG
+((....))............ ( -1.00)
+>MSMEG_1865
+GUGGCGUACGUGCGCACAGU
+(((.(((....))))))... ( -5.20)
+>MSMEG_1867
+AUGGCUGGUCGGAAGCGGCA
+...((((........)))). ( -5.00)
+>MSMEG_1868
+UCUCUUCUUUCUUUGCUCCG
+.................... (  0.00)
+>MSMEG_1869
+AAGCCAUGCCCGAACACCUA
+.................... (  0.00)
+>MSMEG_1870
+GUUACCAAGAACUCCGAGAU
+.................... (  0.00)
+>MSMEG_1872
+GAUUGUCGGCUGCCGGUCGA
+.....((((((...)))))) ( -4.70)
+>MSMEG_1873
+GUGCUCAUCGCGAUAGAGGG
+...(((.((......))))) ( -1.40)
+>MSMEG_1875
+GUGCUGCUCGAACAGGUGUG
+...(((......)))..... ( -1.30)
+>MSMEG_1880
+AUCUGCACCUCUCCAGCAGA
+.(((((.........))))) ( -4.90)
+>MSMEG_1881
+GACUAAUAGCCCGUGAGAUC
+.................... (  0.00)
+>MSMEG_1882
+GUUCCACGCGAUCCACAGGG
+.................... (  0.00)
+>MSMEG_1883
+ACCAUGACUGACGAGAUACG
+.................... (  0.00)
+>MSMEG_1884
+GUGCGCGUAUACAUCCCGAC
+.................... (  0.00)
+>MSMEG_1885
+GUGGCCAAGAAUCACAUCAA
+((((.......))))..... ( -1.60)
+>MSMEG_1886
+GAAAGGAGGGUUGCCAAUGG
+.......((....))..... ( -1.40)
+>MSMEG_1887
+CUGACAUCGAUCCGUUGGAG
+(((((........))))).. ( -2.40)
+>MSMEG_1890
+GUGAGUGCACGCGCGGACGA
+((..(((....)))..)).. ( -2.50)
+>MSMEG_1893
+GUGCCCCAACCCAAGCCCAC
+.................... (  0.00)
+>MSMEG_1895
+AUACCUAUUGAUAUCUCUGG
+.................... (  0.00)
+>MSMEG_1900
+GUGAUGGGGAGGAUCAUGGG
+(((((.......)))))... ( -2.70)
+>MSMEG_1901
+GUGCUGUGCGGACGAGAUCG
+(..((((....)).))..). ( -1.10)
+>MSMEG_1902
+AUCACAUCCACCUCGAAUCG
+.................... (  0.00)
+>MSMEG_1905
+GACGCGCAGAAAGGCGGUUC
+(((.(((......)))))). ( -4.40)
+>MSMEG_1913
+GUGGCACGCGCAGCAACACC
+((.((....)).))...... ( -2.30)
+>MSMEG_1914
+GGGAUUUUGGUGCCAACCGU
+........(((....))).. ( -2.90)
+>MSMEG_1916
+GCAAGCUCUAAACGUCUGGA
+......((((......)))) ( -0.20)
+>MSMEG_1917
+GGAAAAGCACCGGAGAGUGG
+.......(((......))). ( -1.30)
+>MSMEG_1918
+AGACGUUCGCGCCGAGAUCG
+...((.((.......)).)) ( -0.80)
+>MSMEG_1919
+AACAGUGCAGAAACAUUUGU
+......(((((....))))) ( -0.90)
+>MSMEG_1920
+GUGCGCGCUGUGCUGAUCGU
+..((((...))))....... ( -3.10)
+>MSMEG_1921
+GUGUCGAACGGUGAGCGUUG
+......((((.....)))). ( -2.70)
+>MSMEG_1922
+GUGACCGAACGCCGAUUGCU
+((((.((.....)).)))). ( -1.70)
+>MSMEG_1926
+GUGAGCGUCCAGCAGCACCG
+(((.((.....))..))).. ( -3.00)
+>MSMEG_1927
+GUGACGCGAGUAUUAGCGGU
+....(((........))).. ( -4.20)
+>MSMEG_1929
+GGCGCUCAACCUGGGCAACC
+...(((((...))))).... ( -4.70)
+>MSMEG_1930
+GGUAACGGCUUCGAGCCGAC
+.....(((((...))))).. ( -6.40)
+>MSMEG_1931
+AUGAAUGCGCCUCAGCCCGC
+......((......)).... ( -1.10)
+>MSMEG_1932
+GACAUUGGACGAGACGACUG
+.................... (  0.00)
+>MSMEG_1933
+CCUAUAUCGGCGACGCGCUG
+.......(((((...))))) ( -4.00)
+>MSMEG_1934
+GGAAACGGACACGCAGUCCA
+......((((.....)))). ( -5.20)
+>MSMEG_1935
+AUGAGCCACUGGGCGAACAU
+....(((....)))...... ( -3.90)
+>MSMEG_1936
+GUGACCUACGACCCGGGACG
+((..((........)).)). ( -1.20)
+>MSMEG_1937
+GCCGGGAAGUGUGGCGGUCG
+((((.......))))..... ( -4.90)
+>MSMEG_1938
+GUGAGUGUGGAACGACCGCC
+......((((.....)))). ( -3.40)
+>MSMEG_1940
+AUGGCGACAGACGUGCUCCA
+.(((.(.((....))).))) ( -2.40)
+>MSMEG_1942
+GUGGCCAACUCCACGCAUCC
+((((......))))...... ( -4.40)
+>MSMEG_1943
+GUGCAGGCGCGAUACAGCCC
+.....(((........))). ( -4.50)
+>MSMEG_1944
+AUGACCGCACCCUCGCCCGC
+......((......)).... ( -0.60)
+>MSMEG_1945
+GUGCGACUGCUCGGAUCGGU
+((.(((....))).)).... ( -1.80)
+>MSMEG_1947
+ACUAUGACUACUGCUUCCAG
+.................... (  0.00)
+>MSMEG_1949
+GCUGGAAGCAGUAGUCAUAG
+((((....))))........ ( -3.50)
+>MSMEG_1953
+GUCAACUCUGGCAACGAGAA
+((((....))))........ ( -2.70)
+>MSMEG_1954
+GUGUCUGACAUCAAACGGGG
+...((((........)))). ( -0.90)
+>MSMEG_1955
+CGACCCGCCGCAAGAGGGCG
+.....((((.......)))) ( -5.80)
+>MSMEG_1957
+AUGGCUGACCUGCCCUUCGG
+..(((......)))...... ( -4.20)
+>MSMEG_1960
+CCGAAGCGCUGCAGGACCUG
+((...........))..... ( -0.10)
+>MSMEG_1966
+AGCAUCGCGUUUAAGUCGCA
+......(((.......))). ( -2.90)
+>MSMEG_1969
+AGUGUCAGGUUCAAGCGGCC
+.......((((.....)))) ( -0.90)
+>MSMEG_1976
+ACCACCGAGCAGAAGCGAAA
+........((....)).... ( -0.70)
+>MSMEG_1981
+GUCGUCGUCGCGAAAGGACA
+(((.(((...)))...))). ( -2.70)
+>MSMEG_1982
+AUGGCUGUCUUCACCUUCGC
+..((.((....))))..... ( -1.00)
+>MSMEG_1985
+ACAGCGCGAGGAAGGCUCGU
+.....(((((.....))))) ( -5.70)
+>MSMEG_1986
+AGCGAAGGGCGUGUGCCCGC
+......((((....)))).. ( -7.30)
+>MSMEG_1989
+GCACUGUCGGAAGUGCGCAC
+(((((......))))).... ( -7.60)
+>MSMEG_1991
+AUAGAGAACGGAGCGAGGAC
+.................... (  0.00)
+>MSMEG_1995
+GUGAGACCGACGGCCGCGAC
+(((.(.((...))))))... ( -2.60)
+>MSMEG_1996
+GGCGGGCGAUGCACACGGUG
+.(((.....)))........ ( -1.50)
+>MSMEG_1999
+GCGGGUGAUCCCCGCACGAG
+(((((.....)))))..... ( -9.40)
+>MSMEG_2000
+AUGUAACCGAACCACGGCAA
+......(((.....)))... ( -2.20)
+>MSMEG_2002
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_2007
+AGGGCGCUUCUGCGCCUGGC
+.((((((....))))))... (-11.10)
+>MSMEG_2009
+GUGAUGAUGCAGUCAGACGU
+.((((......))))..... ( -1.70)
+>MSMEG_2010
+GUGAGCGAGAGCGACCAUGA
+(((..((....))..))).. ( -2.00)
+>MSMEG_2011
+GCGAACAUGGCGAACGGAGC
+((.......))......... ( -1.50)
+>MSMEG_2017
+ACAUGCCUCUUCAUCCGCAG
+...(((..........))). ( -0.40)
+>MSMEG_2019
+GCAACUGCGGAUGAAGAGGC
+((..((........))..)) ( -1.50)
+>MSMEG_2021
+GGUCUCGUCGGCGCCGACCC
+((((.((....))..)))). ( -4.40)
+>MSMEG_2026
+AUGACCACAUGGCUGAUCAC
+....((....))........ ( -0.30)
+>MSMEG_2027
+AUGACUGAUGCCGAACUGAG
+.................... (  0.00)
+>MSMEG_2029
+GUAACGACCGCUAAAGAAAG
+.................... (  0.00)
+>MSMEG_2032
+AUGACCGGCAGCGACACGAC
+.....((....))....... ( -0.50)
+>MSMEG_2033
+GACAACUGACAGAGAGGUCU
+(((..((.....))..))). ( -3.70)
+>MSMEG_2037
+GUGAAGAUCAUGACCGCCCU
+((((...))))......... ( -0.20)
+>MSMEG_2038
+AUGCGGCGGGACCAAAGGAG
+....((.....))....... ( -0.20)
+>MSMEG_2039
+AGGUGAUGAGGAGGCCAGCA
+.(((.........))).... ( -2.00)
+>MSMEG_2042
+GAGAGUAUCGUAAUUGCGGC
+.......((((....)))). ( -1.20)
+>MSMEG_2043
+GUUAUGAAAGCAGAGGCAUC
+.........((....))... ( -0.70)
+>MSMEG_2044
+GACGAGUGGGUACACCAGAC
+......(((.....)))... ( -2.50)
+>MSMEG_2045
+GCGCCGUGCUCUCCGGCGGG
+.(((((.......))))).. ( -7.90)
+>MSMEG_2046
+AUGGACGAAGAGCCGUUCCC
+..(((((......))))).. ( -4.30)
+>MSMEG_2048
+GUGCGUGCUGUCGUCUGUUC
+..(((......)))...... ( -1.10)
+>MSMEG_2049
+AGACAGACAAGGAGAUCACG
+.................... (  0.00)
+>MSMEG_2064
+AUGGCCGGCUCCGCGCCGCU
+..(((.(((.....)))))) ( -6.20)
+>MSMEG_2072
+ACCCGGAACCAUCCGCAACG
+...((((....))))..... ( -3.50)
+>MSMEG_2074
+CUCGCAUGCGCCACAGGGGG
+(((.(.((.....))).))) ( -1.60)
+>MSMEG_2075
+AGUUUUGUUGAGUUCCACAC
+.................... (  0.00)
+>MSMEG_2078
+GCACAACAGAAUCUCUCGGU
+.................... (  0.00)
+>MSMEG_2080
+CAUCGCGAUCGAACUCGACG
+...(((((......))).)) ( -1.80)
+>MSMEG_2081
+AGAAGCGUCGCCACGACCAA
+......((((...))))... ( -2.70)
+>MSMEG_2083
+AUGAGCACCGUCGCAGAUGA
+........((((...)))). ( -1.30)
+>MSMEG_2084
+GUGUGGGAAUUCGGCAUCCU
+((((.(.....).))))... ( -2.80)
+>MSMEG_2086
+GUGGAUCCUGACCGUCAAGC
+((((.......))).).... ( -0.20)
+>MSMEG_2087
+ACCGAAUACGAGGUCGGAAA
+.((((........))))... ( -4.00)
+>MSMEG_2089
+GUGAUGAUCACCCUCGACCA
+((((...))))......... ( -1.60)
+>MSMEG_2091
+GUACGUACGUAGGUAGUGAG
+.(((.(((....)))))).. ( -2.10)
+>MSMEG_2092
+GAUGGUUUCAUCCGGAACGA
+....(((((....))))).. ( -3.40)
+>MSMEG_2103
+GGCGUCAUGCAGCUCACGAU
+(((........)))...... ( -1.90)
+>MSMEG_2105
+GUGACGAUAGUGAUCACUGA
+(((((......).))))... ( -2.40)
+>MSMEG_2106
+AUGUCGUCGGCAGGAAGUGG
+.((((...))))........ ( -1.00)
+>MSMEG_2107
+GCCCAAUCUAGACGUCGGUG
+(((.............))). ( -0.30)
+>MSMEG_2108
+AAGUCGCAGUUGUAUGAUUA
+.(((((........))))). ( -0.90)
+>MSMEG_2111
+GACGAAGCCGAUCCGUGUUU
+.(((.........))).... ( -0.40)
+>MSMEG_2116
+AGUUUGAGCAGUGAGCGCAC
+....((.((.....)).)). ( -1.60)
+>MSMEG_2117
+GAACGCAAAGGAGUCAGACC
+.................... (  0.00)
+>MSMEG_2124
+ACAUUCGACAUUAUCGAAUG
+.(((((((.....))))))) ( -6.20)
+>MSMEG_2125
+ACCACAAGAGGUUCUGGCUG
+(((......)))........ ( -1.20)
+>MSMEG_2127
+AUGGCCUCCAAGCAUGAAGU
+...((......))....... ( -0.40)
+>MSMEG_2128
+CAAAUGACCGACAUCAACAC
+.................... (  0.00)
+>MSMEG_2132
+AUGCAGUCAACAUCCCCUGA
+.................... (  0.00)
+>MSMEG_2136
+AUGUCAGCCAAUCCGCGCGC
+......((......)).... ( -0.50)
+>MSMEG_2137
+GUGAGCUCCUGUCCUGCGGA
+........((((...)))). ( -1.60)
+>MSMEG_2140
+GUGGCAUCAGCCGAGGAGGG
+.((((....))))....... ( -4.30)
+>MSMEG_2142
+GCCACAGUGAAGAAGGGGAC
+.................... (  0.00)
+>MSMEG_2144
+AUGACCACCCGGGAGUUCGA
+((..((....))..)).... ( -1.40)
+>MSMEG_2149
+GCCUCCAGGUACGCGCCCCC
+.......(((....)))... ( -1.50)
+>MSMEG_2153
+AUGUCCGACACCACCGCCGA
+.................... (  0.00)
+>MSMEG_2157
+ACCGGAAAGUUGUGAUCGGU
+((((............)))) ( -2.20)
+>MSMEG_2162
+GUCACCGAUCUGCAGAAGGU
+...(((..((....)).))) ( -1.20)
+>MSMEG_2164
+AGUUUUGGUGACUGAGGAGU
+((((.....))))....... ( -1.00)
+>MSMEG_2173
+AGAGAGUGGGUGAGCUAGUG
+....(.(((.....))).). ( -1.00)
+>MSMEG_2174
+UCACCAUACCGCCGGGACGG
+........(((......))) ( -1.90)
+>MSMEG_2176
+AUGGAUGCGGACCCGACGAG
+..((........))...... ( -0.80)
+>MSMEG_2179
+CAAAUGGUCACGACAGGCCU
+.....((((......)))). ( -4.60)
+>MSMEG_2182
+AUGGCCGAGAACCGGCGCAG
+.((((((.....)))).)). ( -6.80)
+>MSMEG_2188
+GUGAGCGUGCGGGGGUGGGU
+....((.(((....))).)) ( -2.70)
+>MSMEG_2189
+ACCGCAUCAGCUGGUAUCCC
+(((((....)).)))..... ( -3.60)
+>MSMEG_2191
+GCUACAUCGGCAGACAGGGG
+(((.....)))......... ( -1.80)
+>MSMEG_2192
+GUGGAGCGGCGACAGAGCGA
+........((......)).. ( -1.90)
+>MSMEG_2195
+ACGCGCGUUUGCCAGAAGAC
+..((......))........ ( -0.60)
+>MSMEG_2196
+AGGUGACGACGACCGAUCGC
+..((((((.....)).)))) ( -2.90)
+>MSMEG_2197
+GUGAUAACUCCGGGUUCGCC
+((((...(....)..)))). ( -2.60)
+>MSMEG_2198
+ACGCUGAUCCGAAGCAGCUU
+..((((........)))).. ( -4.80)
+>MSMEG_2199
+GCGUAUUCGCGUCCCGACGC
+(((....))).......... ( -3.50)
+>MSMEG_2200
+GUGAUGGCGCAGGAGUAUCC
+(((....))).......... ( -1.30)
+>MSMEG_2201
+GCGUGAUCCGGUUCGGCAAU
+((.(((......)))))... ( -3.00)
+>MSMEG_2202
+AUCACACAGAGGAGCGCCAU
+..........((....)).. ( -0.50)
+>MSMEG_2204
+GGUUGCUGCGCCUGUACGAG
+(((......)))........ ( -1.70)
+>MSMEG_2205
+AACUCGCCACCCCUAUGGCA
+.....((((......)))). ( -5.00)
+>MSMEG_2206
+GGGCGGUGCCCCAAGCGUCG
+.((((.(......).)))). ( -5.50)
+>MSMEG_2211
+GUAAGGAGGUCCACACGGUG
+((..((....))..)).... ( -1.10)
+>MSMEG_2224
+AGUACUCGAUAUCGUAAAGG
+.................... (  0.00)
+>MSMEG_2225
+GUUGUUACCCGACGACGCGC
+((((((....)))))).... ( -4.80)
+>MSMEG_2226
+GCGGCGAUGAGCGGUUUGCG
+((.((.....)).))..... ( -3.50)
+>MSMEG_2227
+GUCAAUGUCGGUGAGCUCGC
+.................... (  0.00)
+>MSMEG_2245
+AACCGGAAGAGGAGACCAUG
+..((......))........ ( -1.30)
+>MSMEG_2246
+GUGGAUCGGUUCGGCGGUUG
+...(((((......))))). ( -3.70)
+>MSMEG_2248
+GUGCCCGGAACUGCUGACAC
+(((..(((.....))).))) ( -1.10)
+>MSMEG_2259
+AGAGACGCACGACACAGGGG
+.................... (  0.00)
+>MSMEG_2261
+GUCGCCGAAACUCCGAGCGG
+..(((((......)).))). ( -5.30)
+>MSMEG_2268
+CUCGGGAUGUUCGACGUCGC
+...(.(((((...))))).) ( -4.00)
+>MSMEG_2272
+GGAACAUCGAUCGGAGGCGC
+.................... (  0.00)
+>MSMEG_2273
+AAGCCCGCGUGCCACAGCCC
+......((........)).. ( -1.30)
+>MSMEG_2277
+AUGUUGCUCGCCGACGUCGC
+((((((.....))))))... ( -2.30)
+>MSMEG_2280
+GUCGUGGCCGGUGCCGAACC
+....((((....)))).... ( -3.60)
+>MSMEG_2282
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_2284
+AGGUGUGCGCAGUUGCGCAA
+.....(((((....))))). ( -7.50)
+>MSMEG_2287
+GUGAGAGCCGCAUGACCGUU
+(((.....)))......... ( -1.40)
+>MSMEG_2288
+GUGCUGAGGCGACUCGUAGU
+.(((.(((....)))))).. ( -3.80)
+>MSMEG_2289
+ACAAGUGACGUCCACCACAG
+....(((........))).. ( -1.80)
+>MSMEG_2290
+AUGACCGCCGAAUCCGUACC
+.................... (  0.00)
+>MSMEG_2292
+GAUCAGUUCACACGAAUCUC
+.....((((....))))... ( -0.80)
+>MSMEG_2297
+ACCGACAGGCCACCACAGUU
+.((....))........... ( -1.10)
+>MSMEG_2303
+GAAUUGCGUCGUGUGUGCCU
+.....(((.(....)))).. ( -0.20)
+>MSMEG_2306
+GUGACCGUACAGCUGCACCC
+(((.(.((...)).)))).. ( -0.80)
+>MSMEG_2307
+GCAUUGUUCCGCUUAUAUGG
+((........))........ ( -0.60)
+>MSMEG_2308
+GACACUCAAUCAACGAGACG
+....(((.......)))... ( -1.10)
+>MSMEG_2309
+GUGCGGCGAGGGUCGAGAUC
+...((((....))))..... ( -4.50)
+>MSMEG_2310
+AGCCACCGCGCCGGACACUG
+.....(((...)))...... ( -1.40)
+>MSMEG_2313
+GUCGCCGAGCGCCGAACGGU
+...((((.........)))) ( -2.70)
+>MSMEG_2314
+GAUGCACCAGCUCAUAGCGC
+((.((....))))....... ( -1.70)
+>MSMEG_2317
+GGGAUUACCGCGCCGUCAAU
+((.....))........... ( -1.80)
+>MSMEG_2318
+GUGUUCCACGUCCUCACGCU
+(((...........)))... ( -1.00)
+>MSMEG_2319
+GUGCUGACCUUCCGACCGCU
+.................... (  0.00)
+>MSMEG_2322
+GUGAUGACGGUGAAGCAUGC
+...(((.(......)))).. ( -0.40)
+>MSMEG_2324
+AUGCGUAAGAAUUGGCUUUC
+..((..........)).... ( -0.50)
+>MSMEG_2326
+GUGCCCACAACCGGAGAAGA
+....((......))...... ( -0.90)
+>MSMEG_2329
+AUGACGGAAAUCAGGGACGC
+.................... (  0.00)
+>MSMEG_2331
+GAAAUGCCGGCGCGGUCGGC
+.....((((((...)))))) ( -7.70)
+>MSMEG_2332
+GGCAACCGUGCAAGAUCAAU
+.(((....)))......... ( -1.60)
+>MSMEG_2333
+GUCCACAACUCAACGAUCUG
+.................... (  0.00)
+>MSMEG_2338
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_2349
+CUUCCAGGUGAUCGAACACC
+......((((......)))) ( -3.50)
+>MSMEG_2351
+GCGAACCGCCUCAAGUUACC
+(((...)))........... ( -1.20)
+>MSMEG_2352
+CAGCGCAAUCCGCAUCCCGA
+..(((.....)))....... ( -2.30)
+>MSMEG_2357
+GUUAUGACCUCCACUGCGGG
+.......((........)). ( -0.80)
+>MSMEG_2359
+GUGAGUAUUUUCGCGACCGC
+(((((....)))))...... ( -4.00)
+>MSMEG_2361
+AUGCCCCACCCCAUCAUGUU
+.................... (  0.00)
+>MSMEG_2362
+GUGAGCGAGAAGGCAACCGG
+....((......))...... ( -1.90)
+>MSMEG_2363
+GUGCCUUCGUAUCUGCUGCG
+.......((((.....)))) ( -0.60)
+>MSMEG_2368
+GUGCCUGAACGCCAGCGCCG
+((((.((.....)))))).. ( -4.30)
+>MSMEG_2370
+GUGACCAGUUCCUCGCAGGA
+((((........)))).... ( -2.70)
+>MSMEG_2371
+GUGAGUGCACGUUCAGCCAC
+(((....))).......... ( -1.70)
+>MSMEG_2372
+AUGCAGACCCCGGGAGUGCU
+..(((..((...))..))). ( -4.20)
+>MSMEG_2373
+GAGCGCUUGCGCGAAGAAGA
+...(((....)))....... ( -2.90)
+>MSMEG_2375
+AUGACCUCUUCCGCGACGAA
+.................... (  0.00)
+>MSMEG_2377
+GUGGACGUCACAGUCGUGGG
+...(((......)))..... ( -3.10)
+>MSMEG_2378
+GUGAGUCUUCCCGUUGUACU
+.................... (  0.00)
+>MSMEG_2381
+GUGAAAAAGUGGUUGCUGAC
+.................... (  0.00)
+>MSMEG_2382
+AUGCGCUUAGGUCGAAUUGC
+.................... (  0.00)
+>MSMEG_2386
+GUGAGAAAUGAUAGCGGCAU
+.................... (  0.00)
+>MSMEG_2387
+AGAGAGAUACUAGCGUCUCG
+...(((((......))))). ( -4.60)
+>MSMEG_2389
+AGUCGGUCCAAAGAGGACCA
+....(((((.....))))). ( -8.50)
+>MSMEG_2392
+AUGAGCGGCAGGAGAACGCC
+......(((........))) ( -3.00)
+>MSMEG_2393
+GUGGUGGAGGCUGCGGUCAU
+(((((....)))))...... ( -4.00)
+>MSMEG_2395
+GUGACUGCCCCGAACCAUCC
+.................... (  0.00)
+>MSMEG_2396
+GUGACCGAUCCGCACACCAC
+(((.(......))))..... ( -1.30)
+>MSMEG_2397
+CUGCGGCGAGAGUCUAUGCA
+.((((((....)))...))) ( -2.60)
+>MSMEG_2398
+GCAGGCACCAAACGUACCGC
+((.((.((.....)).)))) ( -1.70)
+>MSMEG_2399
+GUGACCGCACGACCGCUGAA
+(((....))).......... ( -1.70)
+>MSMEG_2400
+GUUGUCGGGUCACCCGCCUU
+...(.((((...)))).).. ( -4.30)
+>MSMEG_2403
+CGGGGUUGAGUGAUGGCCAC
+...((((.......)))).. ( -2.00)
+>MSMEG_2405
+GAAACGAGUGUGUCAGUGAC
+((.((....)).))...... ( -0.30)
+>MSMEG_2407
+CCCAAGUCGGUAAACCCGGA
+......((((.....)))). ( -2.80)
+>MSMEG_2408
+AUGGCAGCUUCCUCUGUGAG
+.(.((((......)))).). ( -2.80)
+>MSMEG_2409
+GUUGAGCGUGAUGCGAGGAC
+(((..((.....))...))) ( -1.20)
+>MSMEG_2410
+GUGGCCAAACCCAAGAAGAC
+.(((......)))....... ( -1.00)
+>MSMEG_2412
+ACUGCUUUGACAAUCCGGAA
+.................... (  0.00)
+>MSMEG_2416
+AACAACUAAGCCUGGAGGAU
+.................... (  0.00)
+>MSMEG_2417
+AUGGCGACGCAUGCGAACGC
+...(((.((....))..))) ( -1.40)
+>MSMEG_2420
+ACCGCCUUCCGCUGAGGAGC
+...((((((....)))).)) ( -3.50)
+>MSMEG_2421
+AUGACCGAUCUCUGGGUUGA
+..((((........)))).. ( -4.00)
+>MSMEG_2423
+GUGCACCUCAAGAGUCUGAC
+.................... (  0.00)
+>MSMEG_2424
+GUGACAGAAGGUGCCUUGAU
+.................... (  0.00)
+>MSMEG_2425
+GAGGCCGAUCCGUCGGCGCA
+...(((((....)))))... ( -7.60)
+>MSMEG_2426
+GGAAGGGAUGGAAUCUAUGA
+.....((((...)))).... ( -0.30)
+>MSMEG_2427
+GUACCGCGGUGCCGAGUACU
+((((((......)).)))). ( -4.10)
+>MSMEG_2428
+AUGGGCGAGCCGAUGGACCG
+((.((....)).))...... ( -1.50)
+>MSMEG_2430
+GUGUUUGAAAGCCUGUCUGA
+.................... (  0.00)
+>MSMEG_2432
+GUGCGAAGACUGUUCGCGGC
+.((((((.....)))))).. ( -6.20)
+>MSMEG_2434
+AUGUUGAGCCUGGCCGAGAU
+((.(((.((...))))).)) ( -1.50)
+>MSMEG_2435
+GUCCGGCGUGCGACUACGGC
+....(.((((....)))).) ( -2.80)
+>MSMEG_2439
+ACUCGAAAAGUGUCCGAAUC
+..(((.........)))... ( -0.40)
+>MSMEG_2440
+GUUGUCUGCGCAGGACCGGG
+...((((.....)))).... ( -2.70)
+>MSMEG_2442
+GUAAGGCGCGAUUCAUCGCC
+....((((........)))) ( -4.30)
+>MSMEG_2443
+GGAUGACCGCGCCGACAACA
+((.((....))))....... ( -0.80)
+>MSMEG_2444
+GUGACGAUCACCAUCAGCAC
+(((..(((....)))..))) ( -2.00)
+>MSMEG_2445
+GUGAGUGUCACCUCGGAUGC
+....(((((......))))) ( -2.20)
+>MSMEG_2446
+AUGCCAGAACGCACGCCGGA
+.(((......)))....... ( -1.30)
+>MSMEG_2449
+GAAGUCGUUCGUCCCACGGA
+.......(((((...))))) ( -1.20)
+>MSMEG_2450
+AUGACUGCGAUUCAAGAGUC
+..((((..........)))) ( -1.70)
+>MSMEG_2451
+GCGGCCAAGGUGGGCGCCGA
+(((.(((...))).)))... ( -8.40)
+>MSMEG_2453
+CUGAGCGAAAGCGAGAUUGC
+....((....))........ ( -1.50)
+>MSMEG_2455
+GUAAGGGGGUUGUUCAGGUC
+.................... (  0.00)
+>MSMEG_2456
+ACUAUCCAACGUCGUUCCAG
+.................... (  0.00)
+>MSMEG_2467
+GGGCAGGCACUCACCGGCGU
+..((.((......)).)).. ( -3.50)
+>MSMEG_2468
+AUGGCCGAACCGGUAGCACA
+...((((...))))...... ( -3.40)
+>MSMEG_2469
+ACCGUUUGCCUGCGAAAGGA
+........(((.....))). ( -2.50)
+>MSMEG_2472
+AGUGCGCAAUUCGACCCUGA
+.................... (  0.00)
+>MSMEG_2475
+GAUAUAGUUUGACACCAAAG
+.......((((....)))). ( -0.10)
+>MSMEG_2478
+AAUCACAAAAACCUUCGAAG
+.................... (  0.00)
+>MSMEG_2486
+GUCAACAAAACUACGACCUG
+(((...........)))... ( -0.30)
+>MSMEG_2487
+GACAAUCUAUCAAUACCCAU
+.................... (  0.00)
+>MSMEG_2488
+AAUCAGCGUAUCGAUCGGCG
+.....((..........)). ( -0.70)
+>MSMEG_2490
+AAUCUAUCAAUUCGCCCGAG
+.................... (  0.00)
+>MSMEG_2495
+GGGUCGAUCGAACACCCCGU
+((((.(......)))))... ( -3.60)
+>MSMEG_2497
+GACAAGAAGCUCGGCUACAU
+.......(((...))).... ( -0.60)
+>MSMEG_2506
+CUCGGUGGCGGCGCCGGUGC
+.((((((....))))))... ( -8.00)
+>MSMEG_2507
+AGUGAGCGGUUUCACAAACC
+.(((((....)))))..... ( -3.40)
+>MSMEG_2511
+GUCCGGAGGCGGGCCGACAG
+(((((....)))))...... ( -7.10)
+>MSMEG_2512
+GUGCCGAUCUGGUACCCGAA
+(((((.....)))))..... ( -5.60)
+>MSMEG_2516
+GUGACAUCUACCGCUCAUCG
+(((........)))...... ( -1.10)
+>MSMEG_2517
+CGUCACCGUCGAACGGCUCC
+.....((((...)))).... ( -3.10)
+>MSMEG_2519
+GCAGCUCGCCGAGCGGGCUG
+.((((((((...)))))))) (-11.80)
+>MSMEG_2520
+CUCGCCGGCGCGACCGCCGG
+....((((((....)))))) (-10.10)
+>MSMEG_2526
+AGCGCAGUAAGUUGCGCCGA
+.(((((......)))))... ( -7.40)
+>MSMEG_2527
+GACUCGAAACGUUCGGGGGA
+..((((((...))))))... ( -5.00)
+>MSMEG_2528
+GACAAUGCCGCCGCGGUCCU
+......((((...))))... ( -2.80)
+>MSMEG_2529
+AAACGCCCGCGACAAGGACU
+......((.......))... ( -1.10)
+>MSMEG_2531
+GGACACGCACGCUCAGGCGU
+........((((....)))) ( -4.10)
+>MSMEG_2532
+GGUAGAAAUGUGGUGGGGCG
+.................... (  0.00)
+>MSMEG_2539
+AUGACCACUCCAGAAGAUCU
+.................... (  0.00)
+>MSMEG_2540
+GCCGUCCUGGGCAAUCGCCU
+(((......)))........ ( -5.40)
+>MSMEG_2541
+CUGGUCACCACCUGAGGAGU
+..(((....)))........ ( -1.20)
+>MSMEG_2542
+GUCGCAUUGUGCGGCUAGGU
+((((((...))))))..... ( -7.20)
+>MSMEG_2543
+CGACGCACACCUACACCGCG
+...(((...........))) ( -1.20)
+>MSMEG_2544
+GUGGGACAGGUCCUCGACAU
+((((((....))))..)).. ( -2.40)
+>MSMEG_2545
+GAAGACAUCAGUGAAGGUAU
+.................... (  0.00)
+>MSMEG_2546
+GUGGAUGUCCCUGUGAGCCC
+..((.....))......... ( -0.30)
+>MSMEG_2552
+AUGACUUCUGUGCAGGACGA
+.................... (  0.00)
+>MSMEG_2553
+AGCAUGACGACCACCGACCG
+.................... (  0.00)
+>MSMEG_2556
+GUGACGGACCCACUCGCACA
+(((.(((......)))))). ( -4.60)
+>MSMEG_2570
+GCAAGUAAGGAUUGCACGUA
+((((.......))))..... ( -3.30)
+>MSMEG_2571
+GGCGCGGCCCUCACGGGCCC
+.....(((((....))))). (-10.20)
+>MSMEG_2572
+GUGUGGAUGGAAGAGGGCCG
+........((.......)). ( -0.10)
+>MSMEG_2574
+GACGGGUGUCACAGCGGAGG
+(((....))).......... ( -2.20)
+>MSMEG_2578
+GUGACCACCUCAGCCGCAUC
+(((...........)))... ( -0.50)
+>MSMEG_2579
+GUACUCGACGCACAACGCUG
+.........((.....)).. ( -0.60)
+>MSMEG_2581
+GACCCUGUGAGCCGGGUCAC
+(((((........))))).. ( -8.80)
+>MSMEG_2582
+AGCGUACGGUGCACGCCAAC
+.((((.......)))).... ( -3.30)
+>MSMEG_2584
+AAUGGCAACUCGAACAUCAC
+.................... (  0.00)
+>MSMEG_2585
+GCCAUGACGGGGACCAACGA
+.((......))......... ( -0.70)
+>MSMEG_2587
+AUGUCCGUUCGUAGUGCCCU
+.................... (  0.00)
+>MSMEG_2589
+AUGCAACACCCCGACUCCCC
+.................... (  0.00)
+>MSMEG_2590
+GUGGUUGCAACCGCGGAGAC
+(((((....)))))...... ( -5.70)
+>MSMEG_2592
+AUGCUGACCACCGUGGAAAC
+.......(((...))).... ( -0.60)
+>MSMEG_2594
+GAUGUGUGGAGCCACCGGAG
+...(.(((....)))).... ( -1.20)
+>MSMEG_2595
+GUCGUUGUGUUCAUGAACGG
+..((((.........)))). ( -2.10)
+>MSMEG_2597
+AGAAGGGUGACGCGGUCUUC
+.(((((.((...)).))))) ( -3.80)
+>MSMEG_2601
+AUGGCCCUUGUGAGUCAAUC
+.((((.(....).))))... ( -2.60)
+>MSMEG_2604
+AUCCGCCGUGCCGCGCUGGC
+....((((.((...)))))) ( -4.70)
+>MSMEG_2605
+AUGUCCACUGACGGUUCCAC
+..(((....)))........ ( -1.30)
+>MSMEG_2606
+GUGGACGCCGUCGAAGGGCA
+......(((.......))). ( -4.60)
+>MSMEG_2611
+GCAGAAUCCGACACAACGAC
+.................... (  0.00)
+>MSMEG_2612
+GUGACGUCACGGGAACCCUC
+(((....)))((....)).. ( -2.50)
+>MSMEG_2613
+AGGAACUGCUGCUGAACCAG
+.................... (  0.00)
+>MSMEG_2618
+GUGACCGAAGAUGCCUACCU
+.................... (  0.00)
+>MSMEG_2621
+GUGAUCACCCGUAUGUCCGA
+.................... (  0.00)
+>MSMEG_2623
+GUGCCGAGCGCCUUGACGAA
+((((...))))......... ( -2.70)
+>MSMEG_2624
+GAUUCCACGGGGAACCACCA
+(.((((....)))).).... ( -2.90)
+>MSMEG_2625
+CUUCGCCGUCCGCCAGAUAC
+.................... (  0.00)
+>MSMEG_2630
+GGGGCGGAGGACACAGACGG
+.................... (  0.00)
+>MSMEG_2635
+GCUUCGGAAAGCGCAUUCCC
+((((....))))........ ( -2.70)
+>MSMEG_2639
+CUGUCUGUUUCCGUCAUGCU
+.................... (  0.00)
+>MSMEG_2641
+AUGGCUGACUCCCCCGUUCU
+.................... (  0.00)
+>MSMEG_2643
+AUGUGCCGGAACAUCACCGA
+......(((.......))). ( -2.30)
+>MSMEG_2645
+GCUGUGGCGGACCGCUACAC
+..(((((((...))))))). ( -8.00)
+>MSMEG_2647
+GUGGUGACUGACCAUGAUUC
+(((((.....)))))..... ( -5.00)
+>MSMEG_2652
+GUGAGUCCAGACGGUGACCA
+.((.(((........))))) ( -1.20)
+>MSMEG_2653
+GUGCAACGCUGGCGUGGGCA
+((.((.((....)))).)). ( -4.00)
+>MSMEG_2654
+GAUCCGGCGCAUGCUGCAGG
+....((((....)))).... ( -3.50)
+>MSMEG_2655
+CCUGCACGACACCGAUACCG
+.................... (  0.00)
+>MSMEG_2656
+GUUCGAUGGCCGAAGUCUGC
+.((((.....))))...... ( -1.80)
+>MSMEG_2657
+CAUCGCCAAGGUCGAAGACG
+..((((....).)))..... ( -1.40)
+>MSMEG_2658
+AUGACGAAUCUCUCACGACG
+.................... (  0.00)
+>MSMEG_2659
+GACAUUACCCCUUCUGAAGG
+.........((((...)))) ( -0.70)
+>MSMEG_2660
+GUGAGUGAAGGAUCAUCGAU
+((((........)))).... ( -1.20)
+>MSMEG_2661
+AUGCGACUCGUACCGGUAGC
+..((.(((......))).)) ( -1.20)
+>MSMEG_2663
+GAAGCCCGUGGUGCCGACGA
+......(((.(...).))). ( -2.10)
+>MSMEG_2664
+AUGCGAGUAGGUGUUCUGGG
+...(.((........)).). ( -1.00)
+>MSMEG_2667
+GUGUACGACCAGCCGAUCCA
+.................... (  0.00)
+>MSMEG_2668
+GCACGGCAACAACGACACCG
+...(((...........))) ( -0.70)
+>MSMEG_2669
+AUGCCGACGAUCAAAGACAC
+.................... (  0.00)
+>MSMEG_2670
+GUGCCGAUCGACACGCCGUA
+(((........)))...... ( -1.60)
+>MSMEG_2672
+GGGGUCAGCAGGAGAGGUGC
+.......(((.......))) ( -0.80)
+>MSMEG_2673
+GAUAGGUGCGGGUCGAGGCA
+......(((........))) ( -2.10)
+>MSMEG_2675
+GUGGAAUGGGUGUGUUGGAU
+.................... (  0.00)
+>MSMEG_2676
+GUGGGAUCGAAGUCAUCGAG
+......((((.....)))). ( -2.10)
+>MSMEG_2679
+ACACCGCUGCCGAUGACUCG
+.................... (  0.00)
+>MSMEG_2683
+GUGGCCGAGAUCGCGCCGCU
+(((((((....)).))))). ( -9.60)
+>MSMEG_2684
+GUGAGCACCAGCGGAAUUGA
+....((....))........ ( -0.70)
+>MSMEG_2688
+CCGUCCAGUGAUCGUUGUAU
+.................... (  0.00)
+>MSMEG_2691
+GUGAAUGCAGGCGCGAACAC
+(((..(((....)))..))) ( -2.20)
+>MSMEG_2692
+GUGCCGGGGCAACCUUCUAC
+.....(((....)))..... ( -2.40)
+>MSMEG_2693
+GGCGGUGGUGCUCACCGUGC
+.((((((.....)))))).. ( -8.60)
+>MSMEG_2694
+AGCGAACACCGCCGACGUCC
+.(((.....)))........ ( -2.60)
+>MSMEG_2695
+ACAAGCAGUUGCGGCAAUCU
+....((....))........ ( -0.70)
+>MSMEG_2696
+CCAACACCGAAAACCCGCUG
+.................... (  0.00)
+>MSMEG_2698
+AUGGCUGACCAAACAACGGU
+.(((....)))......... ( -1.20)
+>MSMEG_2699
+GUGCGCAUAGCUGUCGUCGC
+(((((((....)).)).))) ( -2.30)
+>MSMEG_2700
+GUGCGUUUGACGGAAUUCCA
+...........((....)). ( -0.70)
+>MSMEG_2701
+AUGGGGUUGGGUGAUCAUCC
+....((.(((....))).)) ( -1.50)
+>MSMEG_2720
+AGCGCUGGAACACACCGCGC
+.((((.((......)))))) ( -7.00)
+>MSMEG_2722
+AUCCCGGGUCCGAUCGGACA
+.......((((....)))). ( -5.20)
+>MSMEG_2723
+AGUUCGACCGGACUUGUCGG
+....((((.......)))). ( -3.30)
+>MSMEG_2727
+ACUAACGUUCCGGUGAAAGG
+.................... (  0.00)
+>MSMEG_2728
+AUGGGAAGCCCCGGCGAGCA
+..(((....)))........ ( -4.00)
+>MSMEG_2731
+GAAGCUGACAGCAAUCGGGC
+....((((......)))).. ( -2.00)
+>MSMEG_2732
+CCCCACAAACUCGAAUGACG
+.................... (  0.00)
+>MSMEG_2733
+GUGCUCAGCGCCAUCGCGAU
+((((...))))......... ( -2.70)
+>MSMEG_2735
+GUGAUCUUCGCCAAAGGGCA
+.........(((....))). ( -4.00)
+>MSMEG_2736
+ACAUAUGACCUAUCCAGAGA
+.................... (  0.00)
+>MSMEG_2737
+GCUGAUUCGGCAGAAGGAGA
+((((...))))......... ( -3.20)
+>MSMEG_2738
+AUGCCGCACUCCCCCACGAG
+........(((......))) ( -0.70)
+>MSMEG_2739
+GAGAUAGAUUUCGGGGGAGC
+((((....))))........ ( -0.50)
+>MSMEG_2740
+AUGAGCGACGACACCGGCGA
+.....((.((....)).)). ( -1.50)
+>MSMEG_2742
+AGUUCGAUCACACGUUCUAU
+((..((......))..)).. ( -0.90)
+>MSMEG_2743
+GCUCGAACUGUUGGUCUGGC
+(((.((.(....).)).))) ( -2.00)
+>MSMEG_2744
+AUGGCCAUCGACGUGACCGU
+((((.(((....))).)))) ( -3.10)
+>MSMEG_2746
+ACGGUACGUGGUUCCAGCAA
+..((.((...)).))..... ( -0.40)
+>MSMEG_2748
+AUGGGUUCGAUGCUGGAGUA
+...(.((((....)))).). ( -0.40)
+>MSMEG_2750
+GAGUUUGGGCUGGGAAGGCG
+........(((.....))). ( -2.30)
+>MSMEG_2751
+CUCGCCACGCUCGACGAGCG
+.......(((((...))))) ( -5.40)
+>MSMEG_2752
+GACAGUUCGAGCCGAUCAGG
+....(.(((...))).)... ( -0.10)
+>MSMEG_2753
+AUGAAACAAAGCCACGAGCU
+.........(((.....))) ( -0.60)
+>MSMEG_2754
+AUGCAGACCCAGACGAUUGA
+.................... (  0.00)
+>MSMEG_2755
+GUCAUGACUGGCCAACCGCU
+((((....))))........ ( -1.60)
+>MSMEG_2756
+ACGCGCAUCGGCACUUUGCC
+.........((((...)))) ( -3.20)
+>MSMEG_2757
+AUGAAUCCGCCCCCAGCCGA
+.....((.((.....)).)) ( -0.40)
+>MSMEG_2758
+GGCGGCCGCCUACCGAAUAG
+(((....))).......... ( -3.80)
+>MSMEG_2760
+GUCGCAUGCCAGUCCACCCC
+.................... (  0.00)
+>MSMEG_2761
+GUGGUCGCGCAAAUCACCGA
+(((....))).......... ( -2.20)
+>MSMEG_2762
+GUGACCGAGAACAGCACCGA
+(((.(........))))... ( -0.20)
+>MSMEG_2763
+GCAAGGUAAGGGAGGGGACA
+.................... (  0.00)
+>MSMEG_2764
+GUGUCGGACACGCGCGCAAC
+((((((....)).))))... ( -5.10)
+>MSMEG_2765
+GUGUCCACCUCUCUGGCGGU
+....((.((.....)).)). ( -4.10)
+>MSMEG_2768
+GGUUGGGAGAGAUCCACGGU
+..((((((....))).))). ( -2.80)
+>MSMEG_2770
+GCACGGUCGCGUCGGCAAGC
+(((((....)))..)).... ( -3.00)
+>MSMEG_2771
+GCACGGGUUGCGAUAGCGUC
+(((.....)))......... ( -1.70)
+>MSMEG_2772
+GUGUCCAAGCUUUCGACCGC
+(.(((.........)))).. ( -0.50)
+>MSMEG_2773
+GGUGCCGUGGCAGCUCACCU
+((((..((....)).)))). ( -4.40)
+>MSMEG_2774
+GAAAUCGAUUUCCCGGGGUG
+....(((......))).... ( -0.10)
+>MSMEG_2775
+GGGUGUGCCGGGAAGCCUGG
+.......(((((...))))) ( -4.90)
+>MSMEG_2777
+AUGCACGAUGAACUGCAGCG
+.((((........))))... ( -2.60)
+>MSMEG_2778
+GGCCCGCACGUGGAAGCGUU
+....(((........))).. ( -2.80)
+>MSMEG_2779
+GUGACCUCUGCCGAACCGGC
+.........((((...)))) ( -3.70)
+>MSMEG_2780
+GAUGAAUACCCGCCGUGAGC
+.................... (  0.00)
+>MSMEG_2782
+AUGGCCAAGCUCGAUUUCGA
+..........(((....))) ( -0.30)
+>MSMEG_2783
+GUGAAGACACACGUUUUGCU
+((.(((((....))))))). ( -1.80)
+>MSMEG_2784
+AUGACGAUCCCUGCCCCCAA
+.................... (  0.00)
+>MSMEG_2785
+GACGCGCUGAACCGGCCGAC
+..((.((((...)))))).. ( -4.50)
+>MSMEG_2791
+AUGAAACUCAACGACGCCGC
+.................... (  0.00)
+>MSMEG_2792
+AUGGUCGAACACGCCAAGAU
+.(((.((....))))).... ( -3.20)
+>MSMEG_2793
+GUGACUUUCGAAGAGCGCAU
+(((.((((...))))))).. ( -3.30)
+>MSMEG_2794
+AUCCCAUGAUUGGAUGAAAG
+...(((....)))....... ( -2.50)
+>MSMEG_2795
+GUGAACCGGAACGUGCCCAG
+.......((......))... ( -0.30)
+>MSMEG_2798
+UCCCCGCAGCAACACGGAAC
+...(((........)))... ( -2.80)
+>MSMEG_2799
+GUGACUAUCGGUGUGUGCGC
+(((((.........)).))) ( -0.40)
+>MSMEG_2800
+GGGCACCGCACCGGGCCCGC
+((((.(((...))))))).. (-11.50)
+>MSMEG_2804
+GAUUCAGGAGCUGUCUGUGA
+....((((.....))))... ( -1.00)
+>MSMEG_2813
+GCAUGGCCACCGGCGAGCUC
+((.(.(((...))).))).. ( -5.60)
+>MSMEG_2819
+GUGGCUGCGCCGAGAAAGUU
+.((((...))))........ ( -3.00)
+>MSMEG_2820
+GCAAGCUGGUCAGCAAGCUA
+...((((........)))). ( -4.10)
+>MSMEG_2822
+AGUCGGCAAAAAAUGGCGUU
+.((((........))))... ( -2.30)
+>MSMEG_2823
+GUGGCGUACGUGCGCACAGU
+(((.(((....))))))... ( -5.20)
+>MSMEG_2824
+GUGGCGUACGUGCGCACAGU
+(((.(((....))))))... ( -5.20)
+>MSMEG_2826
+GGCACACAUUUCGCGAGGGG
+.((.........))...... ( -0.10)
+>MSMEG_2829
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_2839
+GUGACUCAGAGCGUGCCUAC
+.................... (  0.00)
+>MSMEG_2840
+AGCAUGACCGACACCGACGA
+.................... (  0.00)
+>MSMEG_2843
+CGCACCGCGUGGUCGUGCUC
+.((((.((...)).)))).. ( -4.50)
+>MSMEG_2849
+AUGGCGGAAGAAGGCACUUU
+...((........))..... ( -1.70)
+>MSMEG_2868
+GUGACAGAUGCCGCCGACAC
+(((........)))...... ( -0.70)
+>MSMEG_2881
+ACAACCGGAAAGCAGCUAUG
+.................... (  0.00)
+>MSMEG_2890
+GCGCGCUCCCGGCGACUGGG
+.......(((((...))))) ( -4.80)
+>MSMEG_2895
+GACGGAACGCGUCACGACGA
+((((.....))))....... ( -5.20)
+>MSMEG_2897
+AUGGCGCGAGUUCAACGACA
+.................... (  0.00)
+>MSMEG_2898
+GGACGGUUGCGGUGAGGGAC
+.....(((.(.....).))) ( -1.50)
+>MSMEG_2899
+CUAACAUCUAUUGGAGGAGA
+((..((.....))..))... ( -1.00)
+>MSMEG_2900
+CGAUCUGUUCCCCACAAGGA
+........(((......))) ( -1.00)
+>MSMEG_2901
+CGGGCUGCCGAGCCCGCGAG
+((((((....)))))).... (-10.80)
+>MSMEG_2902
+GUGGGCGAGAACCUGGUGGU
+..........(((....))) ( -1.80)
+>MSMEG_2911
+AAUGCCGCUCACAUCCGCUC
+......((........)).. ( -0.70)
+>MSMEG_2919
+GAAGCUCCUGAUCGUGCCGC
+...((.(......).))... ( -0.20)
+>MSMEG_2923
+AUGGACACACCGGUAGCUGU
+..((.....))......... ( -0.20)
+>MSMEG_2929
+GUGGCCAGCCAGACCGAUCC
+.(((....)))......... ( -1.20)
+>MSMEG_2931
+GUUCGCCCUAGUCCCUGCCC
+.................... (  0.00)
+>MSMEG_2932
+CUGCUCGCGGGCGACAAGGA
+.((((....))))....... ( -2.00)
+>MSMEG_2934
+ACGCGUGCACGCCGUGCGCA
+..((((((.....)))))). ( -7.80)
+>MSMEG_2936
+GACCAGCUGCGCGCGGGCUA
+..((.((.....)).))... ( -3.00)
+>MSMEG_2937
+GUAGCAAUUCAGAGGAGAUA
+.................... (  0.00)
+>MSMEG_2940
+CGGAGUUCGACCAGGAAAGA
+.....(((......)))... ( -0.60)
+>MSMEG_2941
+GCUCGACCCGGCAGGCAAUG
+(((......)))........ ( -1.90)
+>MSMEG_2942
+AGGAUCGAGGCACGACGACG
+....(((........))).. ( -0.50)
+>MSMEG_2943
+AGAUGUUCUGACGAAGGGGU
+.....((((.....)))).. ( -0.20)
+>MSMEG_2946
+AUGACCGUCGCCGGGUUGGU
+..((((.......))))... ( -3.50)
+>MSMEG_2947
+AGAGAGUUUUUCGCCUUCUA
+((((.((.....)).)))). ( -1.00)
+>MSMEG_2953
+GAGGGAAGGAAACACACCUA
+.(((...(....)...))). ( -1.90)
+>MSMEG_2956
+AUAACUCCGGCGCGCAGCGC
+.........((((...)))) ( -3.80)
+>MSMEG_2957
+AUGACGCGUGGGGUUGGCGA
+....(((.........))). ( -2.90)
+>MSMEG_2959
+GCGCGAUGUCCACUCCCCUU
+.................... (  0.00)
+>MSMEG_2960
+ACGAGGUGCCGGUCUCGCCU
+.(((((......)))))... ( -4.20)
+>MSMEG_2961
+GCUGACGAACUGAUCUCAAG
+..(((.((.....))))).. ( -0.30)
+>MSMEG_2964
+GGUGAGCGGCAACCCGACCC
+(((...(((....)))))). ( -3.40)
+>MSMEG_2965
+GGGUUGCUGGGCAGGAGGUG
+...((((...))))...... ( -1.00)
+>MSMEG_2973
+CGCCGCGGGCGGCGUCGAGG
+(((((....)))))...... ( -7.60)
+>MSMEG_2974
+GACCGAUCCACCACCGAGAC
+.................... (  0.00)
+>MSMEG_2975
+GUGUUGAUCACCGGUUUUCC
+(((.....)))......... ( -1.00)
+>MSMEG_2976
+GUCCUCGGUGGGCCGCACCG
+.....(((((.....))))) ( -6.60)
+>MSMEG_2982
+GACACCAGCACAGUGUGUUU
+((((((......).))))). ( -3.00)
+>MSMEG_2983
+AUGACGAACAUGCGAAACGU
+.................... (  0.00)
+>MSMEG_2989
+GGUGUGCAUCACUGUCAAGG
+((((.....))))....... ( -2.50)
+>MSMEG_2994
+GAUUUCGACGAACGCGACUC
+....(((.(....))))... ( -0.50)
+>MSMEG_3000
+GCCGCAAACACGGCGUGAGC
+((((......))))...... ( -6.50)
+>MSMEG_3002
+GUGUCCGUCGUCGCGGAACA
+((.(((((....))))))). ( -6.10)
+>MSMEG_3003
+GUCCCACCCGUCUUCACAAG
+.................... (  0.00)
+>MSMEG_3008
+CCAGAUCGCACUGAAGCGCA
+......(((......))).. ( -2.40)
+>MSMEG_3013
+ACUCAGAUGUAUCACACCUG
+...(((.(((...))).))) ( -1.50)
+>MSMEG_3014
+GUGGCCGACUGGUACGACGU
+(((.((....)))))..... ( -2.80)
+>MSMEG_3015
+GGCACCGCGGCGUCGAAGGC
+(((.(....).)))...... ( -2.50)
+>MSMEG_3016
+AUGGGUAUCAAAGUGGCGCU
+...(((.(((...))).))) ( -0.30)
+>MSMEG_3017
+GAUGGUUCUACGCGCGAACG
+....((((.......)))). ( -2.50)
+>MSMEG_3019
+GUAUCAGUCGACGUGGCACC
+......(((.....)))... ( -1.30)
+>MSMEG_3020
+GUGACAGAUCGCUACGGUUC
+((((....))))........ ( -2.00)
+>MSMEG_3025
+GUCGAAAUAGUCGCCGGUCC
+(.(((.....))).)..... ( -0.60)
+>MSMEG_3029
+CGGCUCGGGCGGCACCGCGC
+..((.(((......))).)) ( -6.20)
+>MSMEG_3030
+GUGUUGCGUUGGACCACAGC
+.......((((.....)))) ( -2.30)
+>MSMEG_3032
+AUGAGCAAGUGGUUACUGCG
+....(((.((....))))). ( -2.10)
+>MSMEG_3033
+ACACAAUGACUGAGCCCGUG
+.................... (  0.00)
+>MSMEG_3034
+GUGACUAUUUCCCAGCGCAG
+(((.((.......))))).. ( -1.60)
+>MSMEG_3035
+GGCUCUGCGGUGACCGUGGA
+...(((((((...))))))) ( -6.60)
+>MSMEG_3040
+GUGAACCUCGACGGCAACCA
+.....((.....))...... ( -0.10)
+>MSMEG_3041
+AUGACAGGCCCCACCGGAUC
+.........((....))... ( -0.30)
+>MSMEG_3042
+GCGAGGUAGAUGGCGUUGUC
+((((.((.....)).)))). ( -3.60)
+>MSMEG_3045
+CCAUGACGCUGCCCGCGACC
+......(((.....)))... ( -2.60)
+>MSMEG_3046
+ACCGACGCUCGUCGCCUCGC
+..((((....))))...... ( -3.60)
+>MSMEG_3050
+GCUGGCUGUGUUUGUGCUCC
+...(((.........))).. ( -1.20)
+>MSMEG_3053
+GGACAGCUGACGACUCACCG
+((..(((....).))..)). ( -0.40)
+>MSMEG_3055
+GAUUGCGGCCUUCCUGAAGA
+.................... (  0.00)
+>MSMEG_3056
+GUUUGAGUGCCUGGCAGAUA
+(((((.........))))). ( -0.50)
+>MSMEG_3057
+CUGCGCGACGAACUCGACGU
+..((((((.....))).))) ( -3.50)
+>MSMEG_3059
+GUGUCUGUUGCUGACGAGAA
+.((((.......)))).... ( -2.40)
+>MSMEG_3060
+AUGGCAUCGAGGGCCGGUUU
+..(((.......)))..... ( -3.60)
+>MSMEG_3062
+ACGCUCCGCGUGCGGAGCUG
+..((((((....)))))).. (-10.50)
+>MSMEG_3064
+GUGCGCCUCGUCUUUGCCGG
+.................... (  0.00)
+>MSMEG_3065
+GCUGCGGGUCAAGGUGGGGC
+(((.((........)).))) ( -3.90)
+>MSMEG_3066
+AUGGCAGAACCCCUGAUUGC
+....(((.....)))..... ( -1.30)
+>MSMEG_3068
+AGACGCGCGUUCACUGCCGU
+..(((.(((.....)))))) ( -3.40)
+>MSMEG_3070
+AUGCAGACGCGCCCACGCUU
+........(((....))).. ( -2.70)
+>MSMEG_3071
+GUGUUCACCGGAAUCGUUGA
+....(((.((....)).))) ( -1.30)
+>MSMEG_3072
+GGCAGCGCGGACUUCCCGUC
+......((((.....)))). ( -4.10)
+>MSMEG_3076
+GUGCGAUUGCUGGGGUCCGC
+(((.((((.....))))))) ( -3.10)
+>MSMEG_3078
+GUGCCCGAUCCAGCGACGUA
+((((........)).))... ( -1.10)
+>MSMEG_3079
+GCGACAGGGGCAACAGGGCC
+........(((......))) ( -2.70)
+>MSMEG_3080
+GGACGUGGUGAUCGACGGAU
+...(((.(....).)))... ( -3.60)
+>MSMEG_3081
+GCCAGUCGCGUUCCCAGCGA
+.....((((.......)))) ( -4.20)
+>MSMEG_3082
+CCUGAUGUCCGGCGCGGCAU
+....(((.(((...)))))) ( -3.00)
+>MSMEG_3084
+GAGGAGUUCACCGUCGAAUA
+((((......)).))..... ( -1.40)
+>MSMEG_3085
+CAUCGUCACCGACCCGCACA
+..(((....)))........ ( -0.30)
+>MSMEG_3086
+CCGUGUUCUGGAACGGCCCG
+((((........)))).... ( -4.30)
+>MSMEG_3087
+CCCUGAACAGGGUGGGCACC
+((((....))))........ ( -4.00)
+>MSMEG_3095
+GUCAUCCGCGGCCCAGACCA
+(((......)))........ ( -0.90)
+>MSMEG_3098
+AUGGCAGACAAAGGGGACGG
+.................... (  0.00)
+>MSMEG_3103
+GAAGAAGCAAGUGCAAGUUC
+(((...((....))...))) ( -0.90)
+>MSMEG_3107
+GUGAAGCUCGCCCGUCCGGA
+((((...))))((....)). ( -1.90)
+>MSMEG_3111
+GGACUAUGUCGCGUCCAAGU
+((((........)))).... ( -5.50)
+>MSMEG_3117
+GUGUCCGUCGGACGAAUUUU
+.(((((...)))))...... ( -4.20)
+>MSMEG_3119
+GUGACACCGCGUUCCGGGCG
+.......(((.......))) ( -2.50)
+>MSMEG_3121
+AGGUGACGGUGGCCGAGAUC
+.(((..(((...)))..))) ( -2.80)
+>MSMEG_3122
+CCACCCCUAGCGAUCAAGGA
+.....(((........))). ( -1.90)
+>MSMEG_3129
+GUGCGGCGAACCGGAGACCA
+.(.(((....))).)..... ( -2.90)
+>MSMEG_3132
+GACCGGGACUCGACAGGCGA
+(.((.(.......).))).. ( -0.60)
+>MSMEG_3138
+AACAGGCUGUCCCACCCCGG
+.................... (  0.00)
+>MSMEG_3140
+GCACAUGCAGGCCGAAGGCC
+((....)).((((...)))) ( -5.80)
+>MSMEG_3141
+GCGUCGGGAGAUCGAAAUCG
+...((((....))))..... ( -2.00)
+>MSMEG_3143
+GCCGCCGACACAGCCCGUCG
+.....((((.......)))) ( -2.80)
+>MSMEG_3144
+GUGACCGGACCGCAUGUGAU
+(((.......)))....... ( -1.10)
+>MSMEG_3145
+GGUGCCAAUUGUUGUAGAUG
+.................... (  0.00)
+>MSMEG_3147
+GGGCAGGUGAGUGCCCGGUU
+(((((......))))).... ( -9.50)
+>MSMEG_3150
+GAAGACGCAGGACGCGAGGA
+.....(((.....))).... ( -2.70)
+>MSMEG_3153
+AUCAUGUGGUGUCCAAGUGC
+..(((.(((...))).))). ( -2.10)
+>MSMEG_3155
+GGGCGUGAGGCCCGCGUUGC
+((((.....))))....... ( -8.40)
+>MSMEG_3157
+GUGAAAGCCGUAGUCAGCAC
+......((........)).. ( -0.40)
+>MSMEG_3159
+CUGCUGGCCGGGCCGGAAAA
+...(((((...))))).... ( -6.10)
+>MSMEG_3160
+GUCUACCGCGACGAGGUCGG
+........((((...)))). ( -3.00)
+>MSMEG_3161
+AGUCUCUGGCGCCCACCCGU
+......(((...)))..... ( -0.20)
+>MSMEG_3162
+GUGUCCGGUCACAACCGGGA
+...((((((....)))))). ( -7.60)
+>MSMEG_3163
+GUGCCACGCACUGACGAGAA
+((((...))))......... ( -3.50)
+>MSMEG_3165
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_3168
+AUGGCUACUCCUCUGUUGGC
+...(((((......).)))) ( -1.60)
+>MSMEG_3169
+AUCGGCGCUGAUCCGGCCAU
+...(((.........))).. ( -4.20)
+>MSMEG_3171
+AUGCUGCACCGCUUCGCAAU
+....(((........))).. ( -2.00)
+>MSMEG_3173
+GUGAACCCGUCCGCACAAGU
+(((........)))...... ( -1.60)
+>MSMEG_3174
+GUGACUGAUGAAACGUCAGG
+....((((((...)))))). ( -5.60)
+>MSMEG_3178
+CUAUGAGCGGCACAGACGGA
+.......((.......)).. ( -0.30)
+>MSMEG_3180
+AAGUCAAGCAUGAUCAGGAG
+..((((....))))...... ( -0.80)
+>MSMEG_3183
+GCUCACCUCAUUUCAGGGAA
+..((.(((......))))). ( -2.50)
+>MSMEG_3186
+CUUUCCGCAACCUACAUGCG
+.....((((.......)))) ( -2.50)
+>MSMEG_3187
+GAUCAUGAUGACCCUCUCCC
+.................... (  0.00)
+>MSMEG_3188
+GUGGCCGACCUGACCCCGGC
+...((((.........)))) ( -4.20)
+>MSMEG_3189
+GUUCAAUUCGGCGGCUCGCC
+.........((((...)))) ( -4.00)
+>MSMEG_3191
+GAGCCUGAGCUGAGGCGUCU
+((((((......)))).)). ( -6.80)
+>MSMEG_3193
+GUGCAACUCCACAAACCCGA
+(((......)))........ ( -1.30)
+>MSMEG_3194
+GUUCAAGUAACCUGAACACC
+(((((.......)))))... ( -3.80)
+>MSMEG_3196
+GUGAUGAUCGAGGAAACCCC
+...........((....)). ( -0.20)
+>MSMEG_3197
+AUGGACUUGUCCAGCGCCGC
+.((((....))))....... ( -2.60)
+>MSMEG_3199
+AUGUUUUCGAUUAUAAGUCG
+.......(((((...))))) ( -1.00)
+>MSMEG_3203
+AUGGAAUGGCACGUCUGGCU
+.......(((.......))) ( -0.60)
+>MSMEG_3204
+GUCCCUGAUCAGUCCACUUG
+.................... (  0.00)
+>MSMEG_3215
+GGGCGACGUCCCGCGCACGA
+(.(((......))).).... ( -5.80)
+>MSMEG_3216
+AUGACUUCUAUAGGGACGGG
+.................... (  0.00)
+>MSMEG_3217
+GUGCAGACCACCGCCAACCA
+(.((........)))..... ( -0.60)
+>MSMEG_3219
+GAGGUCAGCCGGGAUCGACC
+..((((..........)))) ( -3.10)
+>MSMEG_3223
+AUGACUGACUCACCGUCGUC
+..(((.(((.....)))))) ( -3.50)
+>MSMEG_3225
+GCGGGCCGGUGCAGUCCCGG
+.((((.(......).)))). ( -6.80)
+>MSMEG_3227
+GUGAGCAGACGCGGAAAGAU
+(((......)))........ ( -1.30)
+>MSMEG_3228
+CCAUGUGCAUCGCAUCGGAG
+(((((((...))))).)).. ( -4.40)
+>MSMEG_3233
+AGAUCGACCUGGCAGGCUCG
+....((((((...))).))) ( -2.80)
+>MSMEG_3235
+ACCAGCGUGCGCGCUGGGUC
+.((((((....))))))... (-10.40)
+>MSMEG_3236
+UGCUCGGCCAGGUCGACGCC
+.(((((((...))))).)). ( -5.90)
+>MSMEG_3237
+CUACCUGGAGCGCUACUACU
+.................... (  0.00)
+>MSMEG_3238
+GUGGCGACAACUCGUUCCGA
+(.(((((....))))).).. ( -2.90)
+>MSMEG_3239
+GUGCAGCGCGAGCCCGACCC
+((...((....))...)).. ( -1.40)
+>MSMEG_3246
+AUGACCGGGUCAACGACUGA
+.....(((........))). ( -2.00)
+>MSMEG_3247
+GGAGCGUCGGCGGCAUCCCG
+(((((.......)).))).. ( -4.60)
+>MSMEG_3248
+CGGCGGCGUGGAGGCGACGU
+..(((.(((....))).))) ( -4.70)
+>MSMEG_3249
+AGCCUCGGGAAGGCGCGAGU
+...((((.(....).)))). ( -5.80)
+>MSMEG_3250
+CUGCGGGCCACCCCGGUGAA
+...((((....))))..... ( -5.50)
+>MSMEG_3252
+GUGAUGGUCGGAAAAUCCGU
+........((((...)))). ( -2.90)
+>MSMEG_3253
+GUGGGUCGCUCGCCAUCGCU
+((((........)))).... ( -3.10)
+>MSMEG_3256
+GCCGAUGAGGCUCAGAUCGG
+(((.....)))......... ( -4.50)
+>MSMEG_3257
+GUGACUCUCGUGGCAGGCAU
+((.((....)).))...... ( -2.90)
+>MSMEG_3259
+GGGCCUAACGGUUGGCGUUU
+..(((........))).... ( -4.90)
+>MSMEG_3263
+GUGGACUUGCUGCUCGGAAU
+((((.....))))....... ( -1.10)
+>MSMEG_3264
+GUGCCCCGGUCCGCCCAGCC
+..((...((.....)).)). ( -0.50)
+>MSMEG_3265
+AACCACAGGUCGAAAGGUAU
+.(((...........))).. ( -0.90)
+>MSMEG_3275
+GUGUGUCGCUGCUUUGUGCG
+......(((........))) ( -2.50)
+>MSMEG_3278
+AUGGCCCGUCCCAUGAACGA
+((((......))))...... ( -2.00)
+>MSMEG_3280
+CUCAGGGCCAAGCCGGGUGA
+.....(((...)))...... ( -2.90)
+>MSMEG_3281
+AUCGUUGCGGAAUCGCUUGC
+......(((....))).... ( -2.90)
+>MSMEG_3283
+ACACGAAGAUGAGCUAACGA
+.................... (  0.00)
+>MSMEG_3284
+AUGCCGCCUGGACGCGCCAG
+.((.(((......))).)). ( -3.40)
+>MSMEG_3286
+GUGCCCGAUACCGUUGGACC
+....(((((...)))))... ( -3.00)
+>MSMEG_3287
+GCUCGGCUCGUCGACCCGCA
+(((((......)))...)). ( -2.30)
+>MSMEG_3292
+GUCAGUAAACUGGAUCAGAU
+.((((....))))....... ( -1.50)
+>MSMEG_3297
+GGGGCCGUCGGCGGCCCCUG
+(((((((....))))))).. (-15.70)
+>MSMEG_3304
+GCAGCGCGCGGCGUUCGGCA
+(((((((...)))))..)). ( -5.30)
+>MSMEG_3306
+GCAUAUCCCAACGCGCGCAG
+((..........))...... ( -0.10)
+>MSMEG_3308
+GGCGCACGACCGGUGAGGAG
+..(.(((.....))).)... ( -2.50)
+>MSMEG_3309
+AUGACUCUGCACGCCGACGC
+.................... (  0.00)
+>MSMEG_3312
+GGCUUUGAGUGAGUGGUACU
+.((((.....))))...... ( -1.40)
+>MSMEG_3314
+GCGAGUAUAUUCGCGGUGGU
+((((......))))...... ( -5.00)
+>MSMEG_3317
+ACGGUCACGCUCCGCGGCCG
+.(((((.((...)).))))) ( -7.60)
+>MSMEG_3319
+GUGUCCUCUAAAAGUCCGUC
+.................... (  0.00)
+>MSMEG_3323
+GUCGGUGUUCGGUCAUGCAG
+.....(((........))). ( -0.30)
+>MSMEG_3325
+AUCAGCGGUAUUUCGUGCGC
+....((((....)))).... ( -1.80)
+>MSMEG_3327
+ACCGCAAAAUUCACAGCCAU
+.................... (  0.00)
+>MSMEG_3332
+GUCGAACGCAGAAAUGCGUG
+.....(((((....))))). ( -6.30)
+>MSMEG_3335
+CCCAUGAACACACCAGGUGA
+........(((.....))). ( -1.10)
+>MSMEG_3336
+GCUUACCCGGUGUGCGAGAG
+((.(((...))).))..... ( -1.80)
+>MSMEG_3337
+GCCACGUUAAGGAACAGCGG
+....((((.......)))). ( -1.40)
+>MSMEG_3338
+GUCGUCGUGUCUGAGCCGCC
+.................... (  0.00)
+>MSMEG_3341
+GAGCCGCUGGCCGGUGAGCA
+..((((((....)))).)). ( -5.10)
+>MSMEG_3342
+AUCGGUGUGCAGAGGGGGCU
+...(((.(.(...).).))) ( -1.10)
+>MSMEG_3344
+GAUGGACUGUACCGAGGACG
+...(..((......))..). ( -2.30)
+>MSMEG_3345
+AUGUCCACCCCUGGAAGCCG
+...((((....))))..... ( -2.70)
+>MSMEG_3346
+CUACAGAUACGUUUCGCGCU
+.........(((...))).. ( -0.10)
+>MSMEG_3352
+AUCCCGCCGUAGUCCACUGU
+.................... (  0.00)
+>MSMEG_3357
+GGAAACGAGUUGAGAGGAGU
+.................... (  0.00)
+>MSMEG_3358
+GUGGCCCUUUCUGCAACAGU
+((((......))))...... ( -1.10)
+>MSMEG_3359
+ACCGAGCGUCAUACCUAGUC
+.................... (  0.00)
+>MSMEG_3360
+AUGGCAGCGCGGAGCGACAG
+.((...((.....))..)). ( -2.10)
+>MSMEG_3361
+CUCCGGGGAUCCGCGGCGUU
+(.(((.(....).))).).. ( -4.40)
+>MSMEG_3363
+GCAUGGGAACGCGUUGAAAG
+((........))........ ( -1.10)
+>MSMEG_3365
+GACGAUCUUUGCCGCCUACG
+.................... (  0.00)
+>MSMEG_3370
+AUGCACAUCGUGACGGUGGC
+..((.(((((...))))))) ( -4.90)
+>MSMEG_3375
+GCAUCCAACGCCGAACGGAG
+...(((..........))). ( -1.00)
+>MSMEG_3376
+AUGGCCGACCGCACGCAGUU
+..((....)).......... ( -0.30)
+>MSMEG_3377
+AACGGCGACAGUGCAGUAGC
+.((.((......)).))... ( -1.70)
+>MSMEG_3378
+GAAUGCGCGUCCCCGUGGCC
+.....((((....))))... ( -3.10)
+>MSMEG_3379
+GUGACCGACGCAGCAACACC
+(((.....)))......... ( -1.00)
+>MSMEG_3380
+GAGGACGUCACCAACGAGAG
+..((......))........ ( -0.50)
+>MSMEG_3382
+GCGGAAUAUUGCGUGGUAAG
+(((........)))...... ( -1.80)
+>MSMEG_3383
+GCGAACUCGCCGACAUCGUC
+(((....))).......... ( -2.50)
+>MSMEG_3389
+GAGCACUCCGGAAGAAAGGC
+.......((........)). ( -0.60)
+>MSMEG_3395
+ACGGUGAGUCGAAGCGCAUC
+..((((.((....)).)))) ( -2.50)
+>MSMEG_3400
+GUGAUCACAGCAGCCGGCGA
+.........((.....)).. ( -0.50)
+>MSMEG_3407
+AGGCGGUUCUCGUGUUGUGG
+..(((.....)))....... ( -1.00)
+>MSMEG_3408
+GUGUCCGGCGAGUAUCCCGA
+.....(((.((...))))). ( -3.20)
+>MSMEG_3411
+GUGCAAAUCGUCGCCAUCCA
+(.((........)))..... ( -0.60)
+>MSMEG_3412
+GACAUUGGUGUCAGCCCCUA
+((((....))))........ ( -2.90)
+>MSMEG_3418
+ACGGUCCAGGACGCGAUCUC
+..((((........)))).. ( -2.30)
+>MSMEG_3419
+ACCCAGCGCCGACAAAUCCG
+.................... (  0.00)
+>MSMEG_3421
+ACAUCACGACGCGUCCCGCA
+..........(((...))). ( -1.90)
+>MSMEG_3422
+GUUCAGUCUGUCGAACAUCG
+((((........)))).... ( -3.20)
+>MSMEG_3425
+GCCUGAACCGCCGGCCCACC
+(((.(.....).)))..... ( -2.60)
+>MSMEG_3426
+GACACUGUGUUGAGUAAGUU
+...(((......)))..... ( -0.70)
+>MSMEG_3430
+AUGGUCGAGCAGAGUCUCUG
+......(((......))).. ( -1.00)
+>MSMEG_3432
+GCAGCUGUCUGCCGACGCCG
+...((.(((....))))).. ( -3.40)
+>MSMEG_3433
+GUGGCGUACGUGCGCACAGU
+(((.(((....))))))... ( -5.20)
+>MSMEG_3434
+GUGAACUAUCGCGUGUCUUC
+((((....))))........ ( -2.70)
+>MSMEG_3435
+AGACUGCUACAUGGAGGCGU
+....((((.......)))). ( -1.70)
+>MSMEG_3437
+GCCAGACGAAUCGGCAGUGU
+(((.((....)))))..... ( -3.90)
+>MSMEG_3438
+GGGCCGAGAACCCUCCAGAC
+(((.......)))....... ( -2.90)
+>MSMEG_3439
+GUCAAUUUAUCCAACAACUG
+.................... (  0.00)
+>MSMEG_3440
+ACGACUGGCAGACAGCCAGG
+....(((((.....))))). ( -8.30)
+>MSMEG_3441
+GUGCCCAGCCGCGAAAGUUG
+(((......)))........ ( -0.90)
+>MSMEG_3442
+GUGCGCCUCAGACAAGCGAC
+...(((.........))).. ( -1.70)
+>MSMEG_3443
+GCACGGUAGAUCGGUGCGAG
+((((.(.....).))))... ( -6.70)
+>MSMEG_3447
+GAGGGUUUUCACAUGCCGUG
+.(.(((........))).). ( -3.30)
+>MSMEG_3449
+GUCGGUGCGGCUCUGACGAA
+(((((.......)))))... ( -5.40)
+>MSMEG_3451
+AACACAUUCCGUUAAACCUA
+.................... (  0.00)
+>MSMEG_3452
+AUGUGUUCCGCUUACCUUAA
+.................... (  0.00)
+>MSMEG_3454
+GUACGUGUCCGACCCGAACA
+((.((.((...)).)).)). ( -0.80)
+>MSMEG_3457
+GAUGAGCAACAACGGUCGCA
+(.(((.(......).)))). ( -1.70)
+>MSMEG_3459
+GAUGGCGCAAGAUGGAUCUG
+.................... (  0.00)
+>MSMEG_3460
+AUGCCCUCUCGGGCGGAGUU
+..((((....))))...... ( -7.30)
+>MSMEG_3464
+AUGCCCACUCAUCGAGCAGU
+.(((.(.......).))).. ( -1.00)
+>MSMEG_3466
+AGCGGUACGGCCACGGCACC
+.((.((......)).))... ( -3.40)
+>MSMEG_3468
+GUGACCCCCGCACCGUUGAC
+(((.....)))......... ( -1.40)
+>MSMEG_3471
+CUCAUCCGGCACACGCACGU
+......((((....)).)). ( -2.20)
+>MSMEG_3472
+GGGAUACUUCACGCCUGGAC
+(((..........))).... ( -0.40)
+>MSMEG_3475
+GUGGGCAUACUGUUCGGCUU
+.((((((...)))))).... ( -2.40)
+>MSMEG_3476
+GCAGGCGACGAAAGGGGCGG
+....((..(....)..)).. ( -2.60)
+>MSMEG_3477
+GACGCUACUGGAGUCGACCA
+(((.((...)).)))..... ( -2.60)
+>MSMEG_3479
+AUGGCACAGAUAACACUGCG
+......(((......))).. ( -1.00)
+>MSMEG_3480
+GAUGAUCGAACUUCCUGAUG
+....((((.......)))). ( -0.10)
+>MSMEG_3483
+AUGCCGAAAGUCCUGACCGU
+.................... (  0.00)
+>MSMEG_3487
+GGAUCGCAAGAACGGGAAGU
+...((.(......).))... ( -1.00)
+>MSMEG_3488
+AUGGCACAUGCUCCGAACCG
+..(((....)))........ ( -1.40)
+>MSMEG_3489
+CCCACCAAUCUUGCUGUGGC
+.((((..........)))). ( -2.60)
+>MSMEG_3490
+GGCGGACGGUGACGUGGUGU
+.(((.(((....)))..))) ( -2.70)
+>MSMEG_3491
+GUGAAGCCGAUCAAACCAGC
+.................... (  0.00)
+>MSMEG_3493
+AUGAAGCUUGCAGCGUUGGC
+.....(((...)))...... ( -1.00)
+>MSMEG_3494
+CUCGAUCAGACAUCUUUGGA
+......((((....)))).. ( -0.10)
+>MSMEG_3495
+AACUUAGCUGUCCUGUGCAA
+......((........)).. ( -1.50)
+>MSMEG_3497
+GGGCAGCCGUGCGGUUGCAU
+..((((((....)))))).. ( -9.20)
+>MSMEG_3499
+AUGUUUGCUCUCGCUACAUU
+((((..((....)).)))). ( -2.00)
+>MSMEG_3500
+GUGAUCGUGCUCCUGCCUCC
+......(.((....)))... ( -0.80)
+>MSMEG_3501
+GUGUUGCUGAGUCAAAAGUA
+....((((........)))) ( -1.30)
+>MSMEG_3503
+GCAUCCGUGAUCUUGGUUUG
+....(((......))).... ( -1.00)
+>MSMEG_3504
+ACCAGCGGUCUGACGGAGGG
+.((..((......))..)). ( -4.70)
+>MSMEG_3505
+GCUGAAUGUCACCGAGGCCA
+.......(((.....))).. ( -0.60)
+>MSMEG_3506
+AUGUCGCGCCGCACUGCAGG
+.....(((......)))... ( -1.10)
+>MSMEG_3507
+GAACGGGCCGCGCCGGCACC
+....((((((...)))).)) ( -6.80)
+>MSMEG_3511
+GGGCCACAUCCGGCCGAUAC
+.((((......))))..... ( -7.70)
+>MSMEG_3513
+GUGAUCACGCCGCGCACCCU
+(((.......)))....... ( -1.10)
+>MSMEG_3514
+AUGACCACAACCACCGAUGA
+.................... (  0.00)
+>MSMEG_3515
+AUGGGACGGGUAGCCGGAAA
+......(((....))).... ( -3.90)
+>MSMEG_3519
+ACACGUUUCAGUCUGGUCCU
+.................... (  0.00)
+>MSMEG_3520
+AUAACGGCCCGACGAAUGAG
+....((......))...... ( -0.60)
+>MSMEG_3525
+GUGACCAGCACCGUUCCCGG
+..........(((....))) ( -1.60)
+>MSMEG_3528
+AUGCUCAACUCGCUAGGGCG
+..((((.........)))). ( -3.60)
+>MSMEG_3531
+GGAACAGGUGGACGACGGCC
+......(((.(....).))) ( -2.90)
+>MSMEG_3532
+GUGGACCUGGUGACCCUCGA
+(.((..(....)..)).).. ( -0.70)
+>MSMEG_3534
+GAAACGAUCGAGACACCAGA
+.................... (  0.00)
+>MSMEG_3535
+AUGGGUGACGAUCACGGGCA
+....((((...))))..... ( -2.40)
+>MSMEG_3538
+AUCGCGCGAUCGACGGGGAA
+.((.(.((.....)).))). ( -2.20)
+>MSMEG_3540
+GCCGACGCGUUCGCGCAGAA
+(((((.....))).)).... ( -3.90)
+>MSMEG_3545
+CGGGGUGCACGUCUGAUGCA
+.....(((((....).)))) ( -1.60)
+>MSMEG_3558
+GUGACUCCGCUGCAGCGAUA
+.......(((....)))... ( -2.70)
+>MSMEG_3561
+GUGACUUCGCGGUCAGGCAA
+.(((((....)))))..... ( -3.60)
+>MSMEG_3562
+AUGAGCCGGAUCGGAGAUUU
+.....(((...)))...... ( -1.60)
+>MSMEG_3564
+GCACGGCAAACAGCACCACU
+.....((.....))...... ( -0.60)
+>MSMEG_3566
+ACCAUGACUCAGGCAGGUGC
+(((.((.(....)))))).. ( -2.00)
+>MSMEG_3569
+GUGGAAAAGGUCAUCGUGAC
+.........((((...)))) ( -0.80)
+>MSMEG_3570
+GAGUCGCAUUCGGCACCGAG
+..((((....))))...... ( -2.80)
+>MSMEG_3574
+AUGACAGGAACCGCUCCGAA
+......(((.....)))... ( -1.90)
+>MSMEG_3575
+GUGGCCAUCAGUGACGCCGA
+.((((..........)))). ( -3.00)
+>MSMEG_3578
+GAUGACAACGAUCUCGGAGC
+(((.......)))....... ( -0.20)
+>MSMEG_3580
+ACACAGCGACGGCAAUUGCU
+....(((((......))))) ( -2.70)
+>MSMEG_3583
+GACACGGUGUGUCGCCCGAC
+(((((...)))))....... ( -5.20)
+>MSMEG_3589
+GGCAACGUCGUCGAGUGGUG
+(((......)))........ ( -1.80)
+>MSMEG_3592
+GUGAGGAUUUGUGUCGCGGC
+((((.(.....).))))... ( -3.30)
+>MSMEG_3594
+GUAUGACUGCGGCGUCGACA
+((.((((......)))))). ( -3.40)
+>MSMEG_3605
+ACAAGCAUCAAAUGAGAUUU
+.................... (  0.00)
+>MSMEG_3608
+GUGUCCGUGAAUCGAACGCC
+((((.((.....)).)))). ( -4.00)
+>MSMEG_3612
+GUUAUGUCUGACCAGAGCGC
+(((.((......)).))).. ( -0.60)
+>MSMEG_3613
+AUGGUGACAUGGACCGGAGA
+..(((.......)))..... ( -2.50)
+>MSMEG_3614
+AGUCACGGUCUUGAACCGGA
+.....((((.....)))).. ( -4.00)
+>MSMEG_3615
+CCUGGCGCGCUCGAGCACGC
+....(((.((....)).))) ( -5.00)
+>MSMEG_3616
+GGCCCGGCGAAGGAGCCGAG
+(((((......)).)))... ( -8.10)
+>MSMEG_3619
+UGAUCACCCGCCGACCGGCG
+........((((....)))) ( -5.30)
+>MSMEG_3620
+GUGACAAUCCGACUCGCUCU
+((((.........))))... ( -1.30)
+>MSMEG_3621
+GUACCGAGUGGUAGAAAACG
+.((((....))))....... ( -3.00)
+>MSMEG_3627
+AUGCGCUUGACCCCGCAUGA
+(((((........))))).. ( -4.40)
+>MSMEG_3628
+GUGACGACAGAUGUGAACGC
+(((...((....))...))) ( -0.30)
+>MSMEG_3630
+ACUUCUCAGGAGAGUGAAAG
+....(((....)))...... ( -1.10)
+>MSMEG_3631
+GUGUCCGCGCUGGCCUUCAC
+(((...((....))...))) ( -3.10)
+>MSMEG_3632
+AAAACAAUGAAAGGCUCUGC
+.................... (  0.00)
+>MSMEG_3633
+GCCGCGAUCGAGUCGACGCC
+...(((.(((...)))))). ( -4.70)
+>MSMEG_3634
+GUGAGGUUUCUUGACGGACA
+((.(((...))).))..... ( -1.90)
+>MSMEG_3636
+AUCCAUUCGUGCUGAUCAGA
+.................... (  0.00)
+>MSMEG_3639
+GUGGCGAUGCCGCUCAGCGG
+(((((...)))))....... ( -6.40)
+>MSMEG_3641
+GGGAUCCGAUUGAGUGACGA
+.................... (  0.00)
+>MSMEG_3642
+GCAUCGACCUGUGCGGGAGA
+((((......))))...... ( -3.20)
+>MSMEG_3644
+AGCAGCCAGCAGUCAGGACC
+.((.....)).......... ( -0.70)
+>MSMEG_3645
+GGCGGCUCGGUCGUGAUGAC
+.(((((...)))))...... ( -3.80)
+>MSMEG_3647
+GACCGGAUCGACCGUGCCCG
+...(((.....)))...... ( -2.10)
+>MSMEG_3648
+GUCAAAUGACCCGGACAACA
+(((....))).......... ( -1.30)
+>MSMEG_3649
+GCUGGGAAUCCGGAUCUUCG
+.((((....))))....... ( -4.00)
+>MSMEG_3650
+AUCACCAGUCCGUACGAGAU
+.................... (  0.00)
+>MSMEG_3654
+GUGCCGAAGACGUCCAGCGC
+((((.(........).)))) ( -2.80)
+>MSMEG_3658
+GUGCCGAAUCAGACACCUGU
+(((.(......).))).... ( -1.50)
+>MSMEG_3659
+GUGGGUAAGCGUCAAGAAAG
+.................... (  0.00)
+>MSMEG_3660
+GAGAGCACUGAUCACAUUUU
+.................... (  0.00)
+>MSMEG_3663
+GUGCAAACCGUCUUCGAUGC
+..(((...((....)).))) ( -0.90)
+>MSMEG_3666
+GAUGGACACGUUGCGCUCCG
+((((....))))........ ( -1.20)
+>MSMEG_3667
+GCUUGCCGAUCGUACCGAUU
+.......(((((...))))) ( -1.60)
+>MSMEG_3668
+GCGGCAUCCACGAUACCGAC
+.(((.(((...))).))).. ( -3.90)
+>MSMEG_3670
+GUGCGGAAGUGGGCGUUGCU
+((.((....)).))...... ( -2.50)
+>MSMEG_3671
+AGUGGUGACAGAACAGCGUG
+.((.((......)).))... ( -1.00)
+>MSMEG_3674
+GCAACCGACUGACGGAGAUC
+....(((.....)))..... ( -2.20)
+>MSMEG_3675
+AGACCACUCACGCCAGGGAG
+......(((.(.....)))) ( -1.20)
+>MSMEG_3677
+AUGCCACUGGCCGCUGGGGA
+...((.((((...)))))). ( -2.60)
+>MSMEG_3678
+GACCAAGCGAGGCGAUUGUU
+.....(((((.....))))) ( -1.10)
+>MSMEG_3680
+GUAACACAAAAGAGGACAGA
+.................... (  0.00)
+>MSMEG_3681
+AUGCGUAGAAACCUUCGGGC
+...........((....)). ( -0.70)
+>MSMEG_3682
+GUGCCAACUUUCACCCGCUA
+(((........)))...... ( -0.10)
+>MSMEG_3683
+ACCAUGGCUGACCACGACUA
+..(.(((....))).).... ( -1.20)
+>MSMEG_3685
+GACCACCGUUCGGCUGAGGA
+...((((....)).)).... ( -1.20)
+>MSMEG_3686
+AAGGGGCCCGCCUGCGUUCA
+.(((......)))....... ( -2.80)
+>MSMEG_3687
+ACCCACGUCACACAGGAGUG
+...(((.((.....)).))) ( -2.10)
+>MSMEG_3689
+GUUUUUGUCGAAUCUUGAAC
+.................... (  0.00)
+>MSMEG_3692
+GUGACGCCCGAGAGCGUCGC
+(((((((......))))))) ( -9.90)
+>MSMEG_3693
+AGUCUAGAUAUUGGGCGAUC
+.(((((.....))))).... ( -3.30)
+>MSMEG_3694
+AUGUCUAGCAGUCGCCGAGU
+.......((....))..... ( -0.30)
+>MSMEG_3696
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_3706
+ACCCGAGUCAGGAGCGGACA
+..(((.........)))... ( -2.10)
+>MSMEG_3708
+GUGCCCGAUAAUCCCAAGCC
+.................... (  0.00)
+>MSMEG_3714
+GUGGGUGGUAUCCGGUUGGC
+.(((((...)))))...... ( -2.00)
+>MSMEG_3718
+AUGCUCCGCAUCGUUGAACU
+((((...))))......... ( -0.80)
+>MSMEG_3725
+GGCAAGCAGUACGUCGUCGU
+(((..((.....)).))).. ( -1.00)
+>MSMEG_3727
+AGUUACAUCUCGCACAGCGA
+.........((((...)))) ( -2.40)
+>MSMEG_3730
+ACAUAAUUCUUUCGCUCAGU
+.................... (  0.00)
+>MSMEG_3733
+CAAUCCACGUACCAAUGCAC
+.................... (  0.00)
+>MSMEG_3736
+GUUCCCCUGAGGGACGAGUU
+(((((.....)))))..... ( -5.30)
+>MSMEG_3737
+GAUAGGCGCGGGUUAUCGCU
+.......((((....)))). ( -4.10)
+>MSMEG_3741
+AUCAGAACCGCUUGGUGUGC
+......(((....))).... ( -2.00)
+>MSMEG_3743
+GAUGUGCGCGAAGACUGCGG
+......((((.....)))). ( -3.40)
+>MSMEG_3744
+GUGGCCGUGGUCGCCCUCGA
+(((((....)))))...... ( -4.10)
+>MSMEG_3746
+GUGGGUUGGCAGGCCACAGC
+((((.((...)).))))... ( -5.40)
+>MSMEG_3748
+AUGAAGAUGUCAGCGCUGCU
+.................... (  0.00)
+>MSMEG_3750
+GUGACGGCCAGCCCGCUUCC
+....(((.....)))..... ( -1.80)
+>MSMEG_3752
+GCUAUGACUACCGAUCCUGA
+.................... (  0.00)
+>MSMEG_3754
+CCAUAGCGGCAGGGAAACGC
+.....(((.........))) ( -2.10)
+>MSMEG_3759
+GAUGAGCGUCGACCUGCUGA
+....((((......)))).. ( -2.50)
+>MSMEG_3764
+GUGAUCGACGAAAAACUGCU
+.................... (  0.00)
+>MSMEG_3765
+ACUGCCACCGCGGUACGCGA
+(((((....)))))...... ( -4.80)
+>MSMEG_3766
+GUACAAGAGGUUGACCCAGG
+((.(((....)))))..... ( -0.10)
+>MSMEG_3767
+GUCGAUCGGGGAUUCGGGCC
+.((((........))))... ( -2.30)
+>MSMEG_3768
+GCCAUGGCACACCUGCUCGG
+.((..((((....)))).)) ( -2.70)
+>MSMEG_3774
+CCGCGCUGUUCGGUUCCGAC
+.((.(((....)))..)).. ( -1.30)
+>MSMEG_3775
+CGAAAAGGCCUACGGCGCCG
+......((((....).))). ( -4.80)
+>MSMEG_3776
+AUGACUUCGAUAGCCGUGGC
+....((.((.....)).)). ( -0.70)
+>MSMEG_3778
+GUGGUCCGCACGCAAGGAGG
+....(((........))).. ( -2.80)
+>MSMEG_3780
+GUGAAAGGCGAAUCGUUCGG
+........((((...)))). ( -1.20)
+>MSMEG_3784
+AGCGGGUUUCGCGCUGCCGG
+((((.(...).))))..... ( -4.90)
+>MSMEG_3785
+GUACGUCGUCAACAGAUGGC
+....((((((....)))))) ( -5.40)
+>MSMEG_3786
+AGCACAAUUUGCAACAUGCG
+.(((.....)))........ ( -1.50)
+>MSMEG_3791
+UCAACAAGCUGCUCAACGGC
+.......((((.....)))) ( -2.50)
+>MSMEG_3792
+CCUACGGGGAUCAACACAGA
+((....))............ ( -1.80)
+>MSMEG_3794
+CUCGUGGGACAGCCCGAUCU
+.(((.((.....)))))... ( -4.40)
+>MSMEG_3795
+GUGAGCCGGGACGGUCGCAC
+((((.(((...))))))).. ( -6.70)
+>MSMEG_3796
+GAGCGCCGCGGCCGAGAAGA
+(.((......)))....... ( -1.60)
+>MSMEG_3799
+GUGAGCACCGGGUCGGACAC
+.......(((...))).... ( -1.40)
+>MSMEG_3800
+GGUGCUCACCGGCACCAGGA
+((((((....)))))).... ( -9.30)
+>MSMEG_3802
+GAGGCCGCCGGCGCCGACAU
+..((((....).)))..... ( -4.40)
+>MSMEG_3803
+ACGACGGAGCCAUCGGGGCG
+........(((.....))). ( -3.80)
+>MSMEG_3804
+AUGACCGAUCAGCCCGAUCC
+......((((.....)))). ( -2.80)
+>MSMEG_3807
+GUGACGUCAUCGGUCAAACC
+.((((.......)))).... ( -3.40)
+>MSMEG_3808
+GAACUGCGUCAUGCGGGGUA
+..(((.(((...))).))). ( -5.20)
+>MSMEG_3810
+AUGACCCCAUCUGAGACGCC
+.................... (  0.00)
+>MSMEG_3811
+GGCGUUGCAACUGACAGUGG
+.................... (  0.00)
+>MSMEG_3812
+GUGCCCUUGCCGCAAUUAGC
+.(((.......)))...... ( -0.90)
+>MSMEG_3819
+AUGAGCUCGACUAAGUACGC
+.................... (  0.00)
+>MSMEG_3831
+CCAACGAGGACUACACCGAG
+.......((......))... ( -0.40)
+>MSMEG_3833
+GUACCCGUGUGUACGACCAG
+((((......))))...... ( -2.80)
+>MSMEG_3835
+CGGGGUAUCCGCCACCAGAC
+.(((((....))).)).... ( -4.80)
+>MSMEG_3836
+AGCUCGUUCCGGAAUUCGGA
+.......((((.....)))) ( -3.60)
+>MSMEG_3839
+GUGAGCCCCGCCAAGACCGC
+(((.....)))......... ( -0.50)
+>MSMEG_3843
+GUGCCAGGUGAUACCGACGC
+(((...(((...)))..))) ( -2.00)
+>MSMEG_3845
+GUGAGUGAAACCGUCGUCGU
+.................... (  0.00)
+>MSMEG_3846
+GUGCAACCGACCAUGAAUGC
+.................... (  0.00)
+>MSMEG_3848
+AUGCACGAACGCACCGUCCG
+.(((......)))....... ( -1.70)
+>MSMEG_3854
+CCCGGCCCCGCCGGAGUGAC
+.(((((...)))))...... ( -8.50)
+>MSMEG_3855
+ACUGGUCAUGCAUUCACGCG
+.........((......)). ( -1.00)
+>MSMEG_3856
+GGUGGCGACGAUUUCUGACC
+(((.(.((.....))).))) ( -1.40)
+>MSMEG_3858
+CGAGUCGGGAACUUGGCAAU
+(((((.....)))))..... ( -2.80)
+>MSMEG_3861
+GAAGUCAUCGACGUCACCGA
+((.(((...))).))..... ( -2.10)
+>MSMEG_3862
+AUGGCUAAGCGACUGUUCCU
+.................... (  0.00)
+>MSMEG_3863
+GUGGCCAUCACGUUCGCAGA
+(((.....)))......... ( -1.80)
+>MSMEG_3864
+GUGCCUGACCCACGUGAUGC
+(((.......)))....... ( -0.70)
+>MSMEG_3869
+ACGUGACAUCGGUGUGCCAG
+..........((....)).. ( -0.30)
+>MSMEG_3872
+GUGCUCGACUACAUCCGUGA
+.................... (  0.00)
+>MSMEG_3874
+ACACCAUCUGAGAUGGGAGA
+...(((((...))))).... ( -5.10)
+>MSMEG_3877
+AACGCGGUGACGGUGGAAUC
+..(((.......)))..... ( -1.90)
+>MSMEG_3879
+GUGAAAGACACGGCUGACAC
+(((.....)))......... ( -1.40)
+>MSMEG_3880
+GAUGGCUGCAUCACGUGGCA
+....(((((.....))))). ( -4.90)
+>MSMEG_3881
+AUGACCAUCAGCCGAUUCAG
+.(((..(((....)))))). ( -0.40)
+>MSMEG_3887
+GACGUUCUGGAGGUAACCAA
+.......(((......))). ( -1.60)
+>MSMEG_3890
+GUGCAGCGACGAAUCAUGGG
+.................... (  0.00)
+>MSMEG_3896
+ACCGGCAGGGCAGUUGUGGG
+.((.((((.....)))).)) ( -5.80)
+>MSMEG_3901
+ACCGAUGACUUGUACUGACG
+.................... (  0.00)
+>MSMEG_3902
+GUUACUGCACCAACUUGCGG
+....(((((......))))) ( -4.30)
+>MSMEG_3903
+AGUAGGUCCGAUCGAAAGGA
+......(((........))) ( -2.20)
+>MSMEG_3904
+CGUUCACCGUGAACAACGUC
+.(((((...)))))...... ( -3.20)
+>MSMEG_3906
+GUGGCAGGAAACAGACCGAC
+.((((........).))).. ( -0.60)
+>MSMEG_3909
+AUGGCCGACCUGUUGAACGG
+....(((..(....)..))) ( -1.20)
+>MSMEG_3916
+AUAUGACUCAGCAAGUAAAU
+.................... (  0.00)
+>MSMEG_3918
+AUGACCGCAGCCGUAACCCC
+.................... (  0.00)
+>MSMEG_3919
+ACAGAAAGGGUCGGGACAAC
+.................... (  0.00)
+>MSMEG_3921
+GUGGGCUGGAUGGAUCGACU
+((.((((....)).)).)). ( -1.80)
+>MSMEG_3923
+GUGACGUCUAUGGACCGCCC
+(((..(((....)))))).. ( -1.90)
+>MSMEG_3927
+GGAUGACGGUACUGGUCAUC
+.((((((.......)))))) ( -6.60)
+>MSMEG_3930
+GGCACCACCGGAUGCGUGGG
+....(((((....).)))). ( -4.60)
+>MSMEG_3950
+GACCCGGCGACCGAGAAGGA
+...((..(......)..)). ( -2.20)
+>MSMEG_3958
+GUGAGCCACGGUGUCCAUCG
+(((...)))........... ( -0.60)
+>MSMEG_3959
+ACAUACCCCGUAUGCUGAAU
+.(((((...)))))...... ( -2.40)
+>MSMEG_3960
+AUGCAGGAUGCAGGAGUAUU
+.((((...))))........ ( -2.00)
+>MSMEG_3961
+AUGGCAUUGUGCAGUACGAC
+...(((...)))........ ( -1.00)
+>MSMEG_3962
+GUAAUGCUUGACGUCCGACG
+.................... (  0.00)
+>MSMEG_3965
+CGUCCUCAAAGAAGCCUUCG
+.................... (  0.00)
+>MSMEG_3967
+GUGAGGAGAGCCGAACGGUU
+((..((....))..)).... ( -2.90)
+>MSMEG_3968
+GGCGCAGAGAGCUUCGCCCG
+((((.((....)).)))).. ( -6.50)
+>MSMEG_3969
+AUGGACGACAACACGAACAC
+.((..((......))..)). ( -0.80)
+>MSMEG_3975
+GGAGUUUUUGACAGACGAAG
+.................... (  0.00)
+>MSMEG_3976
+UCAUUUCGAUGUAUGAGGGG
+((((........)))).... ( -1.30)
+>MSMEG_3977
+CUGACGAAUGUUCUGCCAGG
+(((.((.......)).))). ( -0.90)
+>MSMEG_3978
+GUGUCCGUUGCCAAGAGGGG
+....((.((.....)).)). ( -2.70)
+>MSMEG_3980
+ACACCAGUUAUAUAUGAGAA
+.................... (  0.00)
+>MSMEG_3988
+GAUUCGUGCAUAGAAAUCUG
+(((((.......).)))).. ( -0.50)
+>MSMEG_3997
+AUGCGCAGUUUGGCCUGUAG
+....((((......)))).. ( -2.60)
+>MSMEG_4007
+GUGUUGUCCAUUCCGCCGGU
+.................... (  0.00)
+>MSMEG_4022
+GUGACAGGGAAGUUCGCCCG
+......(((.......))). ( -3.30)
+>MSMEG_4024
+GCGUCAUGACCGCCGCGGAU
+(((.(......).))).... ( -3.10)
+>MSMEG_4029
+AUGGGUGACACGGUACGAGU
+((.(......).))...... ( -0.10)
+>MSMEG_4030
+AUCCGUUAGCAUGGCGUUGA
+...(((((...))))).... ( -1.50)
+>MSMEG_4034
+GUGACCACACUUAUCACCGG
+((((.........))))... ( -1.20)
+>MSMEG_4037
+ACGUCAAAUCGUAUUCAACU
+(((......)))........ ( -1.00)
+>MSMEG_4038
+AGCAGCCUCCCGCGAGUCCU
+......(((....))).... ( -1.00)
+>MSMEG_4041
+GUAUCGCUUUGAGUGGCCUC
+.....(((......)))... ( -2.10)
+>MSMEG_4042
+GCACCACGCGGUCUGUAUCA
+..(((....)))........ ( -1.50)
+>MSMEG_4044
+ACUGAUGUGCCCACAGAGGA
+.((..(((....)))..)). ( -2.00)
+>MSMEG_4052
+AAGUCCCGCCGCCAGUUGCG
+......(((........))) ( -1.40)
+>MSMEG_4053
+GUGGCGGUGUCAUCUGGUUC
+(((((...)))))....... ( -1.70)
+>MSMEG_4055
+GUGUCCACCGUCGAGCUCAA
+.................... (  0.00)
+>MSMEG_4057
+AACAGUUAAUUGUUAACACU
+....(((((...)))))... ( -0.90)
+>MSMEG_4067
+GCGGCCACCGAUACCCUCUG
+.(((...))).......... ( -1.60)
+>MSMEG_4068
+AGGGUUUCGCCCAUCUCGGC
+.((((...))))........ ( -4.70)
+>MSMEG_4071
+GUGAGCGCCGAGGAGUCUUG
+........((((....)))) ( -1.00)
+>MSMEG_4079
+GUGGGGGACAUGUCGGCACA
+((.((.......)).))... ( -2.20)
+>MSMEG_4081
+GUCGCGAGUGGGGGCGUCAC
+(.(((........))).).. ( -5.00)
+>MSMEG_4085
+GCACGCACCCCUGGACCUCC
+.................... (  0.00)
+>MSMEG_4087
+GCGUCCCGCUGGAUGGGCCU
+.(((((....)))))..... ( -5.10)
+>MSMEG_4088
+ACGCUGCGGCCAUCUGACGG
+..((....)).......... ( -1.70)
+>MSMEG_4090
+ACCGGCCAGUCAGGCCGCGU
+(((((((.....))))).)) ( -9.40)
+>MSMEG_4108
+CGUUCGCCGCGGCGGCGGUG
+....((((((....)))))) ( -9.90)
+>MSMEG_4109
+AUGGGUCCGCUCCGCACCAC
+...(((.((...)).))).. ( -2.70)
+>MSMEG_4113
+GGGCCACCGAGAUCGCCCGC
+((((..........)))).. ( -6.30)
+>MSMEG_4116
+AAGGCCGGAGUCAUCGCGUU
+..(((....)))........ ( -0.90)
+>MSMEG_4120
+GCCGAUGGGUGCAGGGGCUC
+(((..((....))..))).. ( -6.10)
+>MSMEG_4121
+GCGGGGUGCGAAAGGUCAGU
+((.....))........... ( -0.90)
+>MSMEG_4123
+AGUCGGGAUUUACAGCGCAA
+.................... (  0.00)
+>MSMEG_4125
+GUUACUAGGAAGGAGUGCAC
+((.(((.......))))).. ( -0.20)
+>MSMEG_4126
+AUUAUUCGCCUCCCGCGAUG
+.....((((.....)))).. ( -3.90)
+>MSMEG_4128
+ACGGUUGGCGGGCAGUCGCC
+......(((((....))))) ( -6.10)
+>MSMEG_4129
+AUGCCAGCACGUAUCGACCC
+.................... (  0.00)
+>MSMEG_4130
+GAACGUCCCGCGCUGCGCUG
+.........(((...))).. ( -1.80)
+>MSMEG_4132
+AUGCGAAUCGGUGAACCCCU
+.........((......)). ( -0.30)
+>MSMEG_4133
+GAGCAGGCCGAGAUCGCCCG
+.....(((.......))).. ( -2.80)
+>MSMEG_4142
+GAUGAAGACCGACGUCACUG
+((((........)))).... ( -2.50)
+>MSMEG_4143
+AGGCGCGAACCUGAACUUGA
+(((......)))........ ( -1.30)
+>MSMEG_4145
+GUCGGCAAAUGGAGAGACCA
+(((............))).. ( -1.00)
+>MSMEG_4151
+GUUGCGCGACUACGGUAUCG
+(.(((.((....))))).). ( -1.80)
+>MSMEG_4153
+GGGUCAUCGCGUGGUAUGUC
+.................... (  0.00)
+>MSMEG_4155
+GAGCUUCCCGAAAGUGGCCG
+(.(((.(......).)))). ( -1.60)
+>MSMEG_4159
+UGGGAAGGUACGCCCAUGCU
+((((........)))).... ( -4.60)
+>MSMEG_4160
+GGUAAAAGCAUGGCGAGGAU
+.................... (  0.00)
+>MSMEG_4161
+GGGCGUACCUUCCCAACCAG
+(((........)))...... ( -3.30)
+>MSMEG_4163
+GGGCCUGCCGGAAGCCACGC
+.(((.........))).... ( -2.70)
+>MSMEG_4165
+GCGCGGCGCUUCGCGAGGCG
+.(((..(((...)))..))) ( -6.70)
+>MSMEG_4166
+GGAAGCUGGAGCAGGCGAAG
+....(((......))).... ( -2.40)
+>MSMEG_4174
+ACAUCCACAAUAUGGAUAUG
+..(((((.....)))))... ( -3.60)
+>MSMEG_4175
+GUGGACGUCUUCGAGGCGAU
+.....(((((...))))).. ( -3.70)
+>MSMEG_4179
+GACAACCCACCGCGGAGGCU
+...........((....)). ( -1.60)
+>MSMEG_4180
+GUGAAGACUUUCGAUGCCUU
+.................... (  0.00)
+>MSMEG_4183
+AUGCUGGCGGUGUUGUGGGA
+...((.(((....))).)). ( -2.90)
+>MSMEG_4185
+GUCGAGAGGCGUUGCAACGG
+(((....))).......... ( -2.40)
+>MSMEG_4186
+GUGACAUCGUCGUAUCCCCC
+..(((...)))......... ( -0.70)
+>MSMEG_4188
+AUGGGAUCACGCACAGCCUC
+..(((...........))). ( -0.10)
+>MSMEG_4189
+AUGCAAUCGUGGUCGGCACC
+........(((.....))). ( -1.90)
+>MSMEG_4190
+GUGACAUCGACCGAUGCCGA
+.((.((((....)))).)). ( -2.70)
+>MSMEG_4192
+GCCAUGGCCCGCGCAAUUCA
+((........))........ ( -0.70)
+>MSMEG_4194
+GUGACUGACGUUCCUGCGAU
+........(((....))).. ( -1.30)
+>MSMEG_4195
+AUGACCGUCGCAGCCGACGU
+.....(((((....))))). ( -5.50)
+>MSMEG_4196
+GAAUUCCAGGCUGCCGCCUG
+......(((((....))))) ( -7.00)
+>MSMEG_4197
+ACCGGCAUACCCGUCGAGAA
+..((((......)))).... ( -4.00)
+>MSMEG_4199
+AGAACUGCUGACGCAAUGCC
+.....(((....)))..... ( -1.80)
+>MSMEG_4200
+GUGACUGUCUCCGCGGCCAG
+.((.((((....)))).)). ( -2.40)
+>MSMEG_4214
+GUGGCACCGAAAGUCCUGUU
+..((.((.....)))).... ( -0.60)
+>MSMEG_4215
+GUCGGAAGCAGAUCCGCAAG
+(.((((......)))))... ( -4.30)
+>MSMEG_4216
+AUGUUGAUCAUUGCGCUCGU
+.................... (  0.00)
+>MSMEG_4218
+GUCGCAUCACCGGUCGGCAC
+((((.(((...))))))).. ( -4.20)
+>MSMEG_4219
+AGUAGUCACUCCAGUCACAU
+.................... (  0.00)
+>MSMEG_4222
+GCGCGGAACUACUUGACAUA
+.................... (  0.00)
+>MSMEG_4225
+GGGGGCGGGCGAUGUCACCA
+((.((((.....)))).)). ( -5.20)
+>MSMEG_4226
+CGACUCCAAGCUCGCGGCGA
+.........(((...))).. ( -1.00)
+>MSMEG_4228
+GUGCUUGGGACAAAUGAGUC
+........(((......))) ( -0.70)
+>MSMEG_4230
+GAUUACUCGUCGUGGGAUCC
+........(((....))).. ( -0.70)
+>MSMEG_4232
+CCACCAUCGCGCCUGACGGC
+..........(((....))) ( -2.80)
+>MSMEG_4235
+ACCGUCGCUACGCGAACCUC
+....((((...))))..... ( -3.10)
+>MSMEG_4236
+GACGGGGAGAUCGGAACCCC
+...((((.........)))) ( -4.90)
+>MSMEG_4237
+GAACAAGGUGGUACGGCUCG
+......(((......))).. ( -0.50)
+>MSMEG_4238
+GAACGCUCGACGCGAACUUG
+...(((.....)))...... ( -2.60)
+>MSMEG_4239
+GUGCGCGUCCGUCGACCCAG
+.((.(.(((....)))))). ( -1.50)
+>MSMEG_4240
+GCUCGGGGGCACUGGCAACA
+((.(((.....))))).... ( -4.90)
+>MSMEG_4242
+GUGAGCAGUAUUCCGGCCGC
+(((.((.........))))) ( -1.80)
+>MSMEG_4243
+GUGGAGCAGCAAUCGGAUCC
+..(((.(........).))) ( -0.40)
+>MSMEG_4244
+GUGAACUGGACCGUCGACAU
+((..((......))..)).. ( -1.30)
+>MSMEG_4245
+GGCGGUCGUCGUACUGCUCA
+((((((......)))))).. ( -5.40)
+>MSMEG_4246
+GUCGAGCCAGGCUCGGCCAC
+(((((((...)))))))... ( -9.70)
+>MSMEG_4248
+AGAGCGCCGCCCGGUGCAUC
+...(((((....)))))... ( -8.00)
+>MSMEG_4249
+GUCCUGCGACGGUGCAUCGU
+....(((......))).... ( -1.90)
+>MSMEG_4251
+AGGGCCCAGGACAGGUCGUG
+..((((.......))))... ( -3.90)
+>MSMEG_4252
+GAUGAACAGCAUUCAGAUCG
+..((((.....))))..... ( -0.10)
+>MSMEG_4253
+GAUGGGUAAAGAGACCGUGC
+.((((.........)))).. ( -2.90)
+>MSMEG_4256
+GACUGUGACGACUGCGCGGU
+.((((((.(....))))))) ( -5.00)
+>MSMEG_4257
+CAAACACCGAUCGAGAGGAC
+......((........)).. ( -1.20)
+>MSMEG_4258
+GUGACAUCCGGACCUUCCCA
+.........(((...))).. ( -0.90)
+>MSMEG_4260
+GUGACGAGCGCUGUAGGGAC
+(((.....)))......... ( -0.70)
+>MSMEG_4261
+CUGAUCGCGUCGUCGUUCAC
+.(((..(((....)))))). ( -1.80)
+>MSMEG_4264
+GUGUACAUCCCAUGGACUUU
+.......(((...))).... ( -0.40)
+>MSMEG_4268
+GAAUCAUGACCGCUCGCGGU
+........((((....)))) ( -3.30)
+>MSMEG_4269
+GUGUGUGGACUGCUUGCCCU
+......((.(.....).)). ( -0.40)
+>MSMEG_4270
+GGAACGGAUUCGGGGUACUG
+..........(((....))) ( -0.50)
+>MSMEG_4271
+GACCGUAUGCCCGGUCACCG
+(((((......))))).... ( -7.60)
+>MSMEG_4272
+AGUGAACGCGCGGGCGAUCC
+...((.(((....))).)). ( -4.60)
+>MSMEG_4273
+GUGAAACUGCUGGGCCGAAA
+.................... (  0.00)
+>MSMEG_4274
+CCUACGCCAUGCUGGCGCUG
+....(((((...)))))... ( -6.40)
+>MSMEG_4276
+AUGAAUAGCGGUCCGCUCGA
+......((((...))))... ( -2.50)
+>MSMEG_4278
+GUGAGUGACGAGCUGCUGCA
+...........((....)). ( -1.40)
+>MSMEG_4280
+GGCAUUCAUCGGCGUCAUGC
+.((........))....... ( -0.90)
+>MSMEG_4282
+GGGGCCAACGCAGUGAGGAG
+(.(.....).)......... ( -0.70)
+>MSMEG_4283
+GACAUUCCAGUUAGGUGCCG
+.................... (  0.00)
+>MSMEG_4284
+CCACCGCCUGAUCGACGGCG
+....((((........)))) ( -5.30)
+>MSMEG_4285
+GUGACAUCGAUCCGUUCGGC
+......((((.....)))). ( -1.90)
+>MSMEG_4286
+GUGACUGUCGUGCCAGAGGG
+....((.((......)).)) ( -2.60)
+>MSMEG_4287
+AUGGCGAAGACGCGCAACAC
+.(((((....))).)).... ( -3.20)
+>MSMEG_4289
+GUGUGUACCGCAUGCGAGUG
+((((((...))))))..... ( -4.00)
+>MSMEG_4290
+GGGUUACCAGUAAAGGAGAA
+((....))............ ( -1.90)
+>MSMEG_4292
+AUGACGACCAAUCUGGACAC
+.......(((...))).... ( -0.60)
+>MSMEG_4295
+GUGCGGAGGGCGGGCAGGCU
+((.((.....)).))..... ( -4.50)
+>MSMEG_4298
+GUCAGGCGAACCCGGGGACC
+(((...((....))..))). ( -2.30)
+>MSMEG_4299
+GUGACCGAGAUCUCCUAUGA
+.................... (  0.00)
+>MSMEG_4302
+GAUCGACGUUCCGCUGCCGG
+..........(((....))) ( -0.90)
+>MSMEG_4304
+AUGAAGGCAAAACAGCAGGU
+......((......)).... ( -0.90)
+>MSMEG_4307
+GUGCCGUGCCCAUCACCUCG
+.....(((.....))).... ( -0.20)
+>MSMEG_4308
+GUGACCGAUGUUGUGACUGG
+((.((.......)).))... ( -1.10)
+>MSMEG_4310
+GUGUUUGCGCCGAGAAGCCG
+(.((((........))))). ( -1.20)
+>MSMEG_4313
+GCGGGUCCGAAAUGUCGUUG
+((((..........)))).. ( -0.60)
+>MSMEG_4314
+GGAGGAACAUCCGUGAAAAA
+(((......)))........ ( -3.20)
+>MSMEG_4320
+CUGGGCAUCCAAAAGGAUCA
+......((((....)))).. ( -2.80)
+>MSMEG_4321
+AACACGCAAUGAGCAGCACA
+.....((........))... ( -0.90)
+>MSMEG_4322
+GUGCCGAUGAGUUGGCAGUU
+.((((((....))))))... ( -6.30)
+>MSMEG_4323
+ACGAUAUAGGUGCCACAAGC
+.................... (  0.00)
+>MSMEG_4325
+GUGCCUCAAGGACCCGUGCU
+((((...........)))). ( -0.40)
+>MSMEG_4326
+GAACGCGGAUGGUCAGCCGG
+.....(((........))). ( -2.90)
+>MSMEG_4330
+AUGAGCAAAUUGGAAGGUAA
+.................... (  0.00)
+>MSMEG_4333
+AUGGUGUCAAUCAGUAACGA
+.((((....))))....... ( -1.20)
+>MSMEG_4336
+GCAAGGCACAACGCAUAGUC
+.....((.....))...... ( -0.60)
+>MSMEG_4337
+GGUGAGCGUGAGUGAAGCAC
+(.(..((....))..).).. ( -1.90)
+>MSMEG_4338
+AUGACGACGCUAGAUGUGAA
+.......(((.....))).. ( -1.40)
+>MSMEG_4340
+AUGCCUCAGACUGUGCGCGG
+..(((.((...)).).)).. ( -0.70)
+>MSMEG_4347
+GUGGGAAUGCUCAUCGGUCU
+(((((....)))))...... ( -2.40)
+>MSMEG_4349
+GAGACGGGGGUGACAUGGUU
+..(((.(.(....).).))) ( -0.40)
+>MSMEG_4351
+ACCGGGGCAGCACCGGUCAC
+(((((.......)))))... ( -7.30)
+>MSMEG_4353
+GUGACCUUCAAGCGCAUGGC
+(((.(......))))..... ( -0.80)
+>MSMEG_4354
+GUGUCACCCCGGCGCGCCCG
+(((((.....)))))..... ( -5.40)
+>MSMEG_4358
+AUGACCGACUUUCAUGGGAA
+....((.(......).)).. ( -0.50)
+>MSMEG_4359
+GCGUCGUGGAGACGGCCGUG
+(((((((....)))).))). ( -5.80)
+>MSMEG_4360
+GGUCGCGUGUCGGGGCGGCA
+.(((((........))))). ( -8.10)
+>MSMEG_4361
+GCAAGGACAUUGCACGCCAG
+((((.....))))....... ( -3.60)
+>MSMEG_4365
+GGCCGACGACAAAGGGGUUG
+((((...........)))). ( -2.30)
+>MSMEG_4366
+GGGACCACUGCGCCGCUCGC
+((..........))...... ( -0.70)
+>MSMEG_4367
+UUCUCGUCCCGACGUGAUCG
+.((.(((....))).))... ( -2.00)
+>MSMEG_4368
+GUCUUCACCCCAAUCGGACA
+((((...........)))). ( -1.90)
+>MSMEG_4371
+GGGGCGUCGCCACCGACAAG
+(((((...))).))...... ( -5.80)
+>MSMEG_4379
+AGGAGAGCAAAUGGUCACAG
+....((.(....).)).... ( -1.20)
+>MSMEG_4381
+AUGGACCACAUCACCUUCGU
+.................... (  0.00)
+>MSMEG_4383
+ACGAUAGCGGACCUAAGCAC
+......((........)).. ( -1.70)
+>MSMEG_4384
+AUGUCCGGCCCGCCCCGCCG
+.....((((.......)))) ( -4.50)
+>MSMEG_4385
+GUCAUCACCACCCGCGAGUU
+.................... (  0.00)
+>MSMEG_4392
+AGCCACUGCAGUGAAUCGCA
+...(((....)))....... ( -1.20)
+>MSMEG_4394
+AUGGAACUGCGGCAUCUGAC
+.................... (  0.00)
+>MSMEG_4395
+GCCGAUUCUACGGCAACGUU
+((((......))))...... ( -6.50)
+>MSMEG_4396
+GCCGUGUGCGUCGACGAAAG
+..(((........))).... ( -2.10)
+>MSMEG_4399
+ACCGAACGCUCGGCCGGGCC
+.((((....))))....... ( -4.10)
+>MSMEG_4401
+GUCUGUACCGCAUGAACAUC
+.................... (  0.00)
+>MSMEG_4402
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_4410
+GCUGGGGCAUCCGGCAUCGA
+(((((.....)))))..... ( -7.70)
+>MSMEG_4430
+ACCGCGAGCAUCGCGGACAA
+.((((((...)))))).... ( -9.10)
+>MSMEG_4431
+GAAGUGGCAGUCCGGUGAAC
+..(.(((....))).).... ( -0.90)
+>MSMEG_4447
+AUGACUCCCGCGCGUGACCG
+.................... (  0.00)
+>MSMEG_4449
+GUUCAACAAAACGUAGCAGC
+.................... (  0.00)
+>MSMEG_4450
+AACAGCAUUCAACAUACAUC
+.................... (  0.00)
+>MSMEG_4453
+GUGCGACGCGAUCAGCGGUA
+......(((.....)))... ( -4.00)
+>MSMEG_4454
+GUGCCGUCCUCCGCCUUCGC
+.................... (  0.00)
+>MSMEG_4456
+GUGUCACACGAGCUGCACCU
+((((..(....)..)))).. ( -1.60)
+>MSMEG_4458
+ACCACAUUGACGGCAUCCCC
+.((........))....... ( -0.40)
+>MSMEG_4460
+ACCCCGUUCCGCCGCGCGGU
+........((((...)))). ( -4.40)
+>MSMEG_4461
+CUUCGGUGAGCCAGGCGCAG
+.....(((.......))).. ( -0.60)
+>MSMEG_4464
+GUGACAGCUCAGCGACAAGU
+.................... (  0.00)
+>MSMEG_4474
+AUGACCACCACCGCCGAACA
+.................... (  0.00)
+>MSMEG_4475
+AUGCGGUUGCCCAGGUUGAG
+....((....))........ ( -0.20)
+>MSMEG_4476
+GACACAGUCAUGAUCGAAAG
+(((...)))........... ( -0.90)
+>MSMEG_4479
+ACAACUCUUCGUCUGGGAGG
+......((((.....)))). ( -3.10)
+>MSMEG_4480
+ACUGUUGUGCCGUUGACGCC
+..(((((......))))).. ( -0.40)
+>MSMEG_4481
+CCAAGCGCGGCUGGUAGCCG
+.......(((((...))))) ( -5.50)
+>MSMEG_4483
+GGUGAAUGCGACGCAGUACG
+.(((..(((...))).))). ( -2.30)
+>MSMEG_4485
+GUGGCUUCCAUCAUCGACAC
+((((...))))......... ( -1.00)
+>MSMEG_4486
+AAUGAAAACGAUUUCCAAUU
+.................... (  0.00)
+>MSMEG_4490
+AUGGCAACCACACGGGGCAA
+...((..((....)).)).. ( -2.90)
+>MSMEG_4497
+AGCAGCACGGUCACCACGGC
+....((.((.......)))) ( -2.00)
+>MSMEG_4499
+GUAACGGUUCGAAAAAAGCA
+.................... (  0.00)
+>MSMEG_4504
+GGCAUGGGUGUGGUCGGUCC
+(((.(((......)))))). ( -1.70)
+>MSMEG_4507
+AUGCCGCCGAUGCCGAACCC
+.................... (  0.00)
+>MSMEG_4518
+GUACCGCUCCUGCGACGCCG
+....(((....)))...... ( -3.80)
+>MSMEG_4525
+AUGACCACCCGGACCGCGCC
+....((....))........ ( -0.30)
+>MSMEG_4527
+GUGACUUCCGCCCGCAACAG
+(((.........)))..... ( -0.70)
+>MSMEG_4533
+AUGCAUUCCGCCGGUGCGAU
+..(((((.....)))))... ( -3.30)
+>MSMEG_4534
+AUGGGCGCGCUCCUGAAUUG
+..(((......)))...... ( -0.80)
+>MSMEG_4536
+AUGCAACACGUCGCUUCGCU
+..((........))...... ( -0.60)
+>MSMEG_4537
+ACAACCGCACUUCGACACCC
+.................... (  0.00)
+>MSMEG_4544
+GUGAGCGAACACGAUCGCGC
+((((.((....)).)))).. ( -4.70)
+>MSMEG_4550
+GACCCGGGUGGGUCGGGUGU
+(((((....)))))...... ( -8.80)
+>MSMEG_4553
+GUGAGCACCGCAGAGCCCCA
+(((.....)))......... ( -1.40)
+>MSMEG_4555
+GACGGUGCGUCGGCCUACGG
+((((...))))......... ( -3.30)
+>MSMEG_4556
+GCACAACACGUGCGCUUGAC
+((((.....))))....... ( -5.20)
+>MSMEG_4558
+AUGGUGUCGCAGUGGAAGAC
+.....(((.........))) ( -0.50)
+>MSMEG_4559
+AUCGCCGAUGCGGUCGGGGC
+..(.(((((...))))).). ( -6.30)
+>MSMEG_4561
+GGCCGACCUCAGGGGAAUCC
+..((........))...... ( -1.60)
+>MSMEG_4563
+GUGUCCGCCGUCGCUGUCCG
+(((........)))...... ( -1.20)
+>MSMEG_4564
+AUGAGCACCAAACGGUCGAA
+......(((....))).... ( -1.50)
+>MSMEG_4565
+GAUCGACGACACCGGCUGCG
+.................... (  0.00)
+>MSMEG_4570
+AUGGACGCCCCAACCCGCAC
+.(((.....)))........ ( -1.50)
+>MSMEG_4571
+CGCUGCCCACAGUGCGGGCG
+....((((.......)))). ( -7.00)
+>MSMEG_4580
+GAAGCGCGGUCUGUACACCC
+.......(((......))). ( -1.30)
+>MSMEG_4581
+GUGGCAACACGGCGCAGGCU
+(((....)))(((....))) ( -5.00)
+>MSMEG_4595
+AUGGGACUCGCGUUGAUUUG
+.................... (  0.00)
+>MSMEG_4598
+GUGGAAUUACUGUCUGCCGC
+(((((.......)))))... ( -1.80)
+>MSMEG_4599
+AGCGUGUGGUGACCAAGUCC
+......(((...)))..... ( -0.30)
+>MSMEG_4601
+GUGCGCACGACGGUGGAAAC
+((...(((....)))...)) ( -2.60)
+>MSMEG_4604
+GAAGUCCGCAAAGACCUCGA
+((.(((......))).)).. ( -3.10)
+>MSMEG_4609
+GUUUUUCAGAUAGUGUGGGC
+.................... (  0.00)
+>MSMEG_4614
+AUGACUCCGGAUGCAGGCCU
+......((.......))... ( -0.10)
+>MSMEG_4617
+GAUGGACUUCUUCAGCGCCU
+.................... (  0.00)
+>MSMEG_4618
+GAAGUGUCAAGAUCGGGUGA
+.................... (  0.00)
+>MSMEG_4620
+GAUGGAUGCCCCCGAACUCG
+...((......))....... ( -0.90)
+>MSMEG_4622
+AUGCCAUCGGUCACCAGAAA
+..(((...)))......... ( -0.40)
+>MSMEG_4625
+GUUGUCGCCAGAGCCUGUGG
+.....(((........))). ( -0.70)
+>MSMEG_4626
+GGGUGAGCGGCCUCAACCGG
+((.((((....)))).)).. ( -5.50)
+>MSMEG_4627
+GUGACUGAGCGGACCCUCGU
+.....((((......)))). ( -1.50)
+>MSMEG_4628
+CCCUGCAGGAGGAGUUCGAC
+.(((.....)))........ ( -2.70)
+>MSMEG_4630
+GUGACCGCCAGUCCUGAGAA
+..(((.....)))....... ( -0.70)
+>MSMEG_4631
+GAGUACGCAAACACACCAGC
+.................... (  0.00)
+>MSMEG_4632
+GUGACGCAGCGUGAGUUCGA
+....((.(((....))))). ( -1.90)
+>MSMEG_4633
+AUGAAUUCCACGCCGUUUCA
+.................... (  0.00)
+>MSMEG_4634
+GAUCGUCGCCAUCGUGUCGA
+..(((.(((....))).))) ( -4.60)
+>MSMEG_4640
+GAUCGCGCGGUUGCAGAAAU
+....((......))...... ( -1.00)
+>MSMEG_4643
+GAGCCCCGAUGAGGGCAAAC
+..((((......)))).... ( -7.10)
+>MSMEG_4645
+GAAGGAAAACGACAAGGCCA
+.................... (  0.00)
+>MSMEG_4646
+GGUAGUGACAUCAAAAUUCG
+.................... (  0.00)
+>MSMEG_4647
+GACGCAUGUGACGAUCCGCC
+.......(((......))). ( -0.80)
+>MSMEG_4654
+AUCCAAUUCCCUUGAUGAAG
+.................... (  0.00)
+>MSMEG_4655
+CUUGCACAAUCCUGCUGAUU
+...(((......)))..... ( -1.50)
+>MSMEG_4657
+AAGUCGAACAUCGACGCGGU
+..(((((...)))))..... ( -4.90)
+>MSMEG_4658
+GAGGCCGUGUCGCUGGCCCC
+..(((((......))))).. ( -7.30)
+>MSMEG_4659
+ACCAUCGGUGGAUCCGCCGG
+.....(((((....))))). ( -7.00)
+>MSMEG_4661
+GAUGCCCGGCGCGUGUACUC
+.((((.....))))...... ( -2.30)
+>MSMEG_4668
+AUGACCCGCGCCAGUGACGU
+......(((....))).... ( -2.10)
+>MSMEG_4671
+ACGGACAAAUACCAUCCGCG
+.((((.........)))).. ( -2.90)
+>MSMEG_4673
+ACCAGUGCGUGUACCAAGAC
+.................... (  0.00)
+>MSMEG_4678
+GGGACGAGGUCGAGCUGAGG
+..(((...)))......... ( -0.80)
+>MSMEG_4679
+CCCAAGUUCAAUACGGCCAG
+.................... (  0.00)
+>MSMEG_4682
+GUGGAGUUGUUACUUGUCGU
+(..((((....))))..).. ( -1.50)
+>MSMEG_4684
+AUGCGCGUCUACGUCGGUGC
+..((((..........)))) ( -3.20)
+>MSMEG_4687
+GUGCAUGCAAACAGUUUGAC
+...((.((.....)).)).. ( -0.10)
+>MSMEG_4688
+GGAAUUCCGACCGGUUGUGG
+((....))..(((....))) ( -1.60)
+>MSMEG_4689
+ACGUACUAGAGCGCUGUGAG
+.(((......)))....... ( -1.10)
+>MSMEG_4690
+GUGGCACUUCCCAACCUCAC
+.(((......)))....... ( -1.00)
+>MSMEG_4691
+GUGGCCGUCAGUCGUACCCG
+..(((.....)))....... ( -0.80)
+>MSMEG_4693
+GUGAGCACAGCACUUACCCA
+(((((.......)))))... ( -2.50)
+>MSMEG_4694
+GGAGGCUCCAUGGCGCACAG
+(...(((....)))...).. ( -1.60)
+>MSMEG_4695
+GUGACGCAGGUGCAACGAUC
+.....((....))....... ( -0.80)
+>MSMEG_4698
+AGGAUCUGGCGACCCUGUCG
+(((.((....)).))).... ( -2.60)
+>MSMEG_4699
+GUGCACCAAUGCCGGUGUGC
+(((((((......))))))) ( -8.40)
+>MSMEG_4700
+GAGCAAGUGGCGCUGCCGCG
+......(((((...))))). ( -6.60)
+>MSMEG_4705
+GCACUUGGCUGCCGGGUGAG
+.(((((((...))))))).. ( -7.50)
+>MSMEG_4708
+GUGCCAUCUCCCGCGUACUG
+(((((.......).)))).. ( -1.90)
+>MSMEG_4709
+GUGGCCGAUUCCGUACUGGU
+...((((.........)))) ( -1.20)
+>MSMEG_4712
+GCCCCUGUGCAGCGACGUGA
+((......)).......... ( -0.50)
+>MSMEG_4717
+GUUAGUCGUCAUUAACUCAG
+((((((....)))))).... ( -2.10)
+>MSMEG_4718
+GAUUAACCGAGUUGUCCAUA
+.................... (  0.00)
+>MSMEG_4720
+AUGAGGUGGGCAUGACCGAU
+....(((.......)))... ( -2.40)
+>MSMEG_4722
+AUGCCAGUACCCGCACCCAG
+.(((........)))..... ( -1.20)
+>MSMEG_4723
+GUCCGCAUCGGUCACCAGGA
+(.(((...))).)....... ( -2.60)
+>MSMEG_4727
+GAUCGCGUCAUUAGUAGGGG
+.................... (  0.00)
+>MSMEG_4735
+GAUGCUGGCCUUCAUCACCA
+((((........)))).... ( -2.30)
+>MSMEG_4737
+GACAAACGCGUCUUUUCGUG
+......((((......)))) ( -3.00)
+>MSMEG_4738
+AUCCGGUCGGCCCACGAAAA
+......(((.....)))... ( -1.90)
+>MSMEG_4739
+AUGUUUACGCGCUCGUUGAA
+.................... (  0.00)
+>MSMEG_4740
+GUCCGGGCGGGCACCUCGGG
+..(((((.(....)))))). ( -7.20)
+>MSMEG_4741
+GAUGUUCCGGCGCUUCGUGC
+.........((((...)))) ( -1.90)
+>MSMEG_4742
+AAACGAAGGGUGACCUAAAA
+......(((....))).... ( -2.80)
+>MSMEG_4743
+GUCCGUGGAUGUCGAAACGG
+..((((..........)))) ( -3.00)
+>MSMEG_4748
+GGGUCCGGUGCGGGGAGCGG
+.(.(((.......))).).. ( -5.10)
+>MSMEG_4751
+AGCUGACUUAUAACGUCCAA
+....(((.......)))... ( -0.80)
+>MSMEG_4752
+AGGGCACCACGACACGGACC
+.................... (  0.00)
+>MSMEG_4753
+GCCGGCACCGUUCGAUCGGU
+......((((......)))) ( -3.90)
+>MSMEG_4756
+AUGGCGAUAGUCGGAGUCGG
+..(((....)))........ ( -2.20)
+>MSMEG_4761
+AUGCCUUCGGGGAGGGUCCA
+..((((((...))))))... ( -5.50)
+>MSMEG_4763
+GACUGGAUCAUCUCUCCCGA
+....(((.......)))... ( -0.80)
+>MSMEG_4767
+GGACAUCAGAACAACGAGGG
+.................... (  0.00)
+>MSMEG_4771
+AUGUGGAGUUUCUCGAAGAG
+...(.(((...))).).... ( -0.80)
+>MSMEG_4773
+GAUAGGAAAAGGAGUGUUCC
+....((((........)))) ( -1.60)
+>MSMEG_4775
+ACGAGAAUACCAAUACCGGA
+.........((......)). ( -0.50)
+>MSMEG_4776
+AGGCUCUUUCACCCGCAGAU
+.................... (  0.00)
+>MSMEG_4779
+GGGAGUCGCGGGCGACGUGA
+.....(((((.....))))) ( -5.20)
+>MSMEG_4784
+GAGAAUGCCGGUACCGAUCG
+........((((....)))) ( -0.50)
+>MSMEG_4791
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_4797
+CUUGGUUGCGGACGCGCGGA
+.....(((((....))))). ( -4.60)
+>MSMEG_4800
+AAUCGGAAGGAUGAUUCUUG
+....((((......)))).. ( -1.30)
+>MSMEG_4804
+AAGUCGGGUUUCGAUAUCUC
+..((((.....))))..... ( -2.50)
+>MSMEG_4807
+GUCCGGUGUGGCGUGCACAC
+.....(((((.....))))) ( -5.10)
+>MSMEG_4811
+AUGAGAACUGCGGUGGUGCG
+.........(((....))). ( -1.80)
+>MSMEG_4825
+GUGGUCGCAUCACCGCGCAA
+(((((......))))).... ( -5.80)
+>MSMEG_4829
+AGAACUAGACGGUCAGUUCA
+.(((((........))))). ( -3.90)
+>MSMEG_4831
+GACGAAGGAGUUCGGUGACG
+..((((....))))...... ( -2.80)
+>MSMEG_4835
+GGCCGAAGCACUCGGUAUCG
+.(((((.....))))).... ( -6.00)
+>MSMEG_4839
+GUAAAUGAGAACCUGAUUCU
+.................... (  0.00)
+>MSMEG_4847
+AUGCUCUCCCGACUCGACAA
+.................... (  0.00)
+>MSMEG_4849
+AGGUGCACAGUUUCGUCGAU
+.................... (  0.00)
+>MSMEG_4868
+AUCACUCUCGCGGUUCUAUC
+.................... (  0.00)
+>MSMEG_4880
+AAGCUGAUCGACUGCGCCAA
+..((.........))..... ( -0.50)
+>MSMEG_4887
+GAUCACAGAGAGGUGGAUUU
+...(((......)))..... ( -1.80)
+>MSMEG_4891
+GUAAAUCUGGAAUCAUUCCA
+.......(((((...))))) ( -2.40)
+>MSMEG_4893
+GAAUGUGGACGUCGGAAGGC
+..........(((....))) ( -1.00)
+>MSMEG_4896
+AUGGGUCGGGUUUCGUCGGG
+.....((((......)))). ( -1.40)
+>MSMEG_4901
+GUGUCCAGACGAGAAGACGG
+.((((..........)))). ( -0.80)
+>MSMEG_4902
+GUGCGUUUGACCAUCCUGGG
+..........(((...))). ( -1.10)
+>MSMEG_4904
+GCCGAGGACGCGCUGGAAGG
+((((....)).))....... ( -2.00)
+>MSMEG_4906
+GUACAGCUAAGGAGCAAUCG
+.....(((....)))..... ( -1.90)
+>MSMEG_4907
+GCUGGCGACCGGCCGGGUGG
+.(((((.....))))).... ( -8.30)
+>MSMEG_4910
+AUGGUUACACCGGCGAAGGC
+.........((......)). ( -1.30)
+>MSMEG_4911
+GUGACGGUCGCGCUGCUCAC
+((((((((...)))).)))) ( -5.20)
+>MSMEG_4915
+GUGAAAGCCCUUCGCAGGUU
+(((((.....)))))..... ( -3.70)
+>MSMEG_4916
+AGACGCGACAAGGCGGUGAA
+...(((......)))..... ( -4.40)
+>MSMEG_4917
+AUGACGAGUUCUUUCGACUU
+....((((....)))).... ( -1.90)
+>MSMEG_4920
+CCUGUGUGAUUUCCCACAGC
+.(((((........))))). ( -4.70)
+>MSMEG_4921
+AUGACCACGGAGCACGUUGA
+......(((.....)))... ( -1.50)
+>MSMEG_4922
+CUUCUGAUGGCGCGCCGGCG
+..........(((....))) ( -2.80)
+>MSMEG_4923
+GUGCGCCUCGUGAUAGCCCA
+(.((...........)).). ( -0.20)
+>MSMEG_4924
+ACAAUGAACGCCGACAAUUC
+.................... (  0.00)
+>MSMEG_4926
+GACGUCAACCAGUGGCCCGU
+...((((.....)))).... ( -1.80)
+>MSMEG_4927
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_4932
+GUGAGCGAGCGUUUCGUGGU
+....((((.....))))... ( -2.10)
+>MSMEG_4933
+ACCCGCACCACCGCCGGUGA
+.....((((......)))). ( -5.00)
+>MSMEG_4934
+AUGGCCGUUCAUCUCACUCG
+.................... (  0.00)
+>MSMEG_4935
+GCCAUGUCCUUGAGCGUCCG
+((((......)).))..... ( -2.50)
+>MSMEG_4938
+CGGUGACGAAGUGAUCGACG
+((((.((...)).))))... ( -3.90)
+>MSMEG_4939
+UCGUGCUCGGCGUGAUCUCG
+((((((...))))))..... ( -2.00)
+>MSMEG_4941
+CCAGUGGUUCCCCAACGCCG
+.....(((........))). ( -1.90)
+>MSMEG_4943
+GCACGCACAGGGUUUUACCA
+.........((......)). ( -1.90)
+>MSMEG_4945
+GUGCCCGACGAGCGUAUCGG
+....((((........)))) ( -3.00)
+>MSMEG_4946
+AGAACCCGAAAAACCUCGCG
+......(((......))).. ( -0.60)
+>MSMEG_4951
+GACCCUCGGUCCCGGUUCAC
+((((...))))......... ( -3.30)
+>MSMEG_4953
+GCAUCGCCGAACACUGCCCG
+.................... (  0.00)
+>MSMEG_4954
+GUCCAGCACUCGCAGGGUUC
+.(((.((....)).)))... ( -3.30)
+>MSMEG_4956
+GCCGGCGGUGCCCCCACCGC
+....((((((....)))))) ( -8.50)
+>MSMEG_4958
+CCUGGCCGGUGACUACCACC
+.......((((.....)))) ( -3.70)
+>MSMEG_4959
+GUGACCCCCGCCGACCUUGC
+(((.....)))......... ( -0.50)
+>MSMEG_4961
+GGCGUCGCUCCAGAGAGGGG
+.....(.(((....))).). ( -3.60)
+>MSMEG_4967
+GUGCGGAUUGGGAUGACCCU
+.........(((....))). ( -3.30)
+>MSMEG_4971
+GAGGUCACGCGGUACCUGUC
+.((((........))))... ( -2.80)
+>MSMEG_4973
+GAUGGCCAUAGCGUUCAACC
+((..((....))..)).... ( -2.20)
+>MSMEG_4974
+AUGCGGAUGUCGGCGAAGGC
+..((.(....).))...... ( -2.20)
+>MSMEG_4976
+GUGACCCGACCCACACUGCG
+(((........)))...... ( -2.00)
+>MSMEG_4977
+GAUGCUGGAGACCCGUAGGU
+..(((.((....)))))... ( -1.60)
+>MSMEG_4979
+AUGCUUACAAUCCUGGCCAG
+..(((.........)))... ( -0.80)
+>MSMEG_4980
+GUGCCCACUCGUCAGCAGCC
+.(((..........)))... ( -0.30)
+>MSMEG_4985
+AUGUCUGUCACUGAUCAGUA
+....(((........))).. ( -1.00)
+>MSMEG_4989
+AUUCCGUGGAGGACCGCAUC
+.....((((....))))... ( -4.20)
+>MSMEG_4990
+AUGGGAACGGCGAACGGCAC
+.........((.....)).. ( -1.50)
+>MSMEG_4991
+CGAUCGUUCGACGGGCCUCC
+(((....))).......... ( -1.50)
+>MSMEG_4993
+ACCUGGAGCUUCACCGAGGC
+.(((.(........).))). ( -3.90)
+>MSMEG_4995
+AUGGCAGGACGGACGACAUG
+(((...(......)..))). ( -0.20)
+>MSMEG_4998
+GAUGGCAAACCACGGUCGCA
+(((.(.......).)))... ( -2.00)
+>MSMEG_4999
+GUGAAGCCGAUCAGCGGGAA
+......(((.....)))... ( -2.70)
+>MSMEG_5000
+ACCCCGAACGACGUGCCGUA
+.......(((......))). ( -1.20)
+>MSMEG_5004
+GCCUGAUCGAGAAGCCCGAU
+.....((((.......)))) ( -1.30)
+>MSMEG_5007
+GUGACAGUCCGUACGGCCGC
+......(((.....)))... ( -0.40)
+>MSMEG_5008
+AUGCUCUGGGCGCUGCUGCG
+..(((...)))((....)). ( -2.50)
+>MSMEG_5010
+AUGAGGCAUCAACACCACCG
+.(((....)))......... ( -0.40)
+>MSMEG_5011
+AUGGCAAAGGAAAUCGACCG
+.................... (  0.00)
+>MSMEG_5012
+ACCGUUACAUCGCUGGUAGG
+(((((......)).)))... ( -1.50)
+>MSMEG_5013
+GGUCCUGUACCCCGAGCCGA
+(((.(........).))).. ( -2.20)
+>MSMEG_5016
+ACGCACAUGAUCGCCCACCA
+..((........))...... ( -0.50)
+>MSMEG_5021
+AUGAAAGCUGCCGUCUAUCA
+.................... (  0.00)
+>MSMEG_5022
+AUGACACAGACCACCGCCGC
+.................... (  0.00)
+>MSMEG_5025
+GUGGCCGCUUGGAAAAACGC
+((..((....))....)).. ( -1.00)
+>MSMEG_5028
+AUGUCAUGCGUGUUCUGUGC
+.................... (  0.00)
+>MSMEG_5029
+AUGCGGCUUUCUGUCCUCGA
+....(((.....)))..... ( -1.50)
+>MSMEG_5030
+AUGAGUAUGCCCUGGUGGGA
+.........(((....))). ( -4.40)
+>MSMEG_5037
+GUGACCAACGCCGCUCUCGC
+(((........)))...... ( -1.10)
+>MSMEG_5038
+AUGGGAGCUGAUUUGUCUCA
+.(((((.(......)))))) ( -3.00)
+>MSMEG_5039
+AGUAAGCGUCUUGAAGGGGU
+.....((.(((...))).)) ( -1.40)
+>MSMEG_5042
+GAUGACCUCGCAAGAACCGG
+.................... (  0.00)
+>MSMEG_5043
+GUGAAAAAGGUCGCCGGAGU
+((((......))))...... ( -2.00)
+>MSMEG_5044
+GUGUUCGUCACCGAGGACGG
+((.((((....)))).)).. ( -5.40)
+>MSMEG_5047
+GUGGACCAGAGAAAUACAGC
+.................... (  0.00)
+>MSMEG_5048
+GCUGCGCCAGGGCUAGCCUG
+(((((......)).)))... ( -5.00)
+>MSMEG_5049
+GGGGGUCGAGCGGGUCAACC
+((..(.(......).)..)) ( -2.50)
+>MSMEG_5050
+GUAUACCGAUACGGAGAAGA
+.....(((...)))...... ( -1.40)
+>MSMEG_5051
+GUGCCUAUUUCUUGGAUCGC
+(..((........))..).. ( -2.50)
+>MSMEG_5052
+GUGGUCCGCACCCCGCUCAC
+((((........)))).... ( -3.90)
+>MSMEG_5053
+AUUGACACAUGUCUGACGAC
+...(((....)))....... ( -1.70)
+>MSMEG_5054
+CAUCGUGUUCGCGCUGUCCA
+((.(((....))).)).... ( -1.10)
+>MSMEG_5055
+GUGUCGGAAUUGGUGCGUAC
+((((((....)))))).... ( -0.40)
+>MSMEG_5056
+ACAGCAGCAGAAGGGAGGCC
+...((..(......)..)). ( -1.10)
+>MSMEG_5057
+CUCGACCUGCUGGACAAGCA
+.......((((.....)))) ( -3.00)
+>MSMEG_5059
+GGCGUUCAACGUCGGAUUGG
+(((((...)))))....... ( -4.40)
+>MSMEG_5060
+GCAAUGUGGAGAACCAGCGC
+((....(((....))))).. ( -1.90)
+>MSMEG_5061
+GCGGGAGGUUCCCGCCCCGA
+((((((...))))))..... ( -9.70)
+>MSMEG_5062
+CUAGCGCACAGUCAACCGGC
+..........(((....))) ( -0.10)
+>MSMEG_5064
+GUGGAGAACACGUAUCGGCC
+(((.....)))......... ( -2.80)
+>MSMEG_5067
+GUUCACAAACGACGGUUGUC
+..........(((....))) ( -0.80)
+>MSMEG_5070
+GACACGCGAUCGGCUCCGAU
+........((((....)))) ( -1.70)
+>MSMEG_5072
+CUCAGCGAAAGUUCAGUUUG
+((.(((....))).)).... ( -0.60)
+>MSMEG_5073
+GCCGGUGUGGCAGGUAUAUG
+(((.....)))......... ( -4.20)
+>MSMEG_5078
+AUGAGGGAGUUGCCACAUGU
+(((.((......)).))).. ( -2.60)
+>MSMEG_5079
+GUGGAGUUGCUGACCGGGUU
+.................... (  0.00)
+>MSMEG_5080
+AGACCGCUCAACCGCCAGUU
+.....((......))..... ( -0.50)
+>MSMEG_5081
+AGUUCAGUAGCAGUUCAGUG
+.................... (  0.00)
+>MSMEG_5083
+GUGACGUUGAUACUGCUGUA
+.................... (  0.00)
+>MSMEG_5085
+GUGUUCUCGACGUUCUGCGG
+..........(((...))). ( -0.60)
+>MSMEG_5086
+ACCGGCGUCCGAAAACUGUG
+..(((...)))......... ( -1.80)
+>MSMEG_5088
+AUGCCAGUCGACUGGGUGAU
+...((((....))))..... ( -4.40)
+>MSMEG_5089
+GCCGUAUGCGUUUGGGAGGG
+.(((........)))..... ( -1.60)
+>MSMEG_5090
+AACGAAGUUGUACAACCUCC
+...((.(((....))).)). ( -0.10)
+>MSMEG_5091
+CGGAAGACAACGAACAAUGU
+((........))........ ( -0.50)
+>MSMEG_5096
+GUGGCUGCGCCGAGAAAGUU
+.((((...))))........ ( -3.00)
+>MSMEG_5100
+AGCCACUUCGGUGUUUCCGC
+........(((.....))). ( -2.10)
+>MSMEG_5101
+GAUAUGCACGACCCGAGGGG
+...........(((...))) ( -1.70)
+>MSMEG_5102
+GUGCUGGGAAUUUGACGAUG
+.................... (  0.00)
+>MSMEG_5103
+AUGGGGCUAGACCUGAGCGC
+..(((......)))...... ( -2.80)
+>MSMEG_5104
+GUGACUGCAGCAUCUGGCAU
+.....(((........))). ( -1.70)
+>MSMEG_5109
+GCGGCAACCGGAAGGUGGGA
+......(((....))).... ( -2.80)
+>MSMEG_5111
+ACCGGAAGACGCGAGGUCGU
+.......(((.....))).. ( -2.70)
+>MSMEG_5114
+AUGCUGCUGGCCUCACUGAA
+..(((...)))......... ( -0.40)
+>MSMEG_5116
+AUGAGUCCGUCGGCGCACCG
+.((.(((....))).))... ( -1.80)
+>MSMEG_5119
+GACGAAGAUCGCCGCGGGAG
+(.(((...))).)....... ( -0.10)
+>MSMEG_5120
+AUGCAGGCGCCCGGUGUCAG
+.....(((((...))))).. ( -4.00)
+>MSMEG_5122
+ACGGACUCACGAGUCCUGAC
+..(((((....))))).... ( -6.00)
+>MSMEG_5124
+GUCGGCCGCCGAGACGGCAC
+....((((......)))).. ( -6.20)
+>MSMEG_5126
+AUGCCAGGCGUAGUAGAUCC
+((((...))))......... ( -1.00)
+>MSMEG_5127
+AGCGAUACGGCCGAAUUUUU
+.((......))......... ( -1.40)
+>MSMEG_5128
+AAUCGUCGAAGGGAUACGCA
+.(((........)))..... ( -0.90)
+>MSMEG_5129
+GAUGUCAUCGCAUGAAUCGC
+(((.((((...))))))).. ( -2.00)
+>MSMEG_5131
+GCCAAGCACUACCAAUCGAG
+.................... (  0.00)
+>MSMEG_5132
+GUGAGUUCGCACCCAGAUUU
+(((....))).......... ( -1.50)
+>MSMEG_5134
+GUUGCGAAAAUCUGGGUGCG
+...(((..........))). ( -0.10)
+>MSMEG_5144
+AUCGGGAUUCGCUGUUGGGC
+..........(((....))) ( -1.30)
+>MSMEG_5145
+GCGGUCAUCAUUUCGAAAAU
+.(((........)))..... ( -0.70)
+>MSMEG_5148
+GAUGACAAAGCAGAUCGUGG
+.(((((......).)))).. ( -0.40)
+>MSMEG_5149
+GUAGACACGACAUCACCACC
+.................... (  0.00)
+>MSMEG_5150
+AUGGCUGUGUUAUCGAACGA
+.....(((........))). ( -0.10)
+>MSMEG_5154
+AACGGAUACACCGACGCACC
+..(((.....)))....... ( -2.20)
+>MSMEG_5156
+GUGCCCACGCUGCAGCUUGU
+((((....)).))....... ( -0.70)
+>MSMEG_5157
+AGUAUUUGCCUGGUGACACC
+.................... (  0.00)
+>MSMEG_5159
+GAGACGGCGUUAGGAGCGGG
+....(.((.......)).). ( -2.70)
+>MSMEG_5162
+GUCGCUCCAUGUGAUCCGCG
+(((((.....)))))..... ( -3.70)
+>MSMEG_5164
+AUGCCGACCAUGACCGCCAU
+(((.((........)).))) ( -0.60)
+>MSMEG_5165
+GCGAGCCCGCCCACAGUUGA
+(((....))).......... ( -2.50)
+>MSMEG_5169
+AUGACCGACGAGACUCCCGA
+.................... (  0.00)
+>MSMEG_5171
+GAUGGCGACGAUCGACGGCA
+..((.((........)).)) ( -2.20)
+>MSMEG_5172
+AUGACGCGCUAUGCGGCCUU
+....(((.....)))..... ( -3.20)
+>MSMEG_5173
+GCCGCGCACCGCGACGCUGG
+((((((...))))..))... ( -4.60)
+>MSMEG_5174
+GUGACCGAAUUGGGGGAUUG
+....((......))...... ( -1.90)
+>MSMEG_5175
+GUGCAAGUUACUGUGCUCAG
+(((((......))))).... ( -3.10)
+>MSMEG_5178
+GAUAAUCUAUGUUGUGGGAG
+......((((...))))... ( -0.10)
+>MSMEG_5180
+AUGUGGAUCGACGACACCAG
+.(((.(.....).))).... ( -1.20)
+>MSMEG_5181
+GUGGCGUACGUGCGCACAGU
+(((.(((....))))))... ( -5.20)
+>MSMEG_5184
+GCGGUCAACCGAUCUACACG
+..((((....))))...... ( -2.60)
+>MSMEG_5185
+AUGACUUCCACCGAUGCCAG
+.................... (  0.00)
+>MSMEG_5187
+GUGAGUACGCAACAUGACAU
+(((....))).......... ( -1.10)
+>MSMEG_5189
+GUGGAUAGGACCCCAGCAUG
+.(((........)))..... ( -1.70)
+>MSMEG_5190
+GUGGCUGGUGAACGACCCGG
+....((((........)))) ( -2.50)
+>MSMEG_5191
+AUGCCGGAGCCGCUGAUCAU
+....(((.....)))..... ( -0.60)
+>MSMEG_5193
+GUGCACCGCGUCGCCGUCCU
+(.((........)))..... ( -0.60)
+>MSMEG_5194
+GUGAGCACGGACAUCGGCCG
+....((.((.....)))).. ( -2.10)
+>MSMEG_5196
+GGCGCCGCGGGGAACGCCGA
+((((((....))..)))).. ( -8.10)
+>MSMEG_5199
+AGCGCCCAUUCGGGUUACAG
+...((((....))))..... ( -5.10)
+>MSMEG_5203
+AUGGCGGAAAGUGCGUUCGA
+...(((.....)))...... ( -1.80)
+>MSMEG_5207
+AGUCCUACGGCGUCGAGCAG
+.........((.....)).. ( -1.40)
+>MSMEG_5208
+GGUACCGCCGAUGGCGGUGU
+..(((((((...))))))). (-10.30)
+>MSMEG_5209
+GGGGGGCCGCCGAGAGGAAG
+((....)).((....))... ( -2.90)
+>MSMEG_5210
+AUGACUGUGGUUUUGGUGCA
+...((((......))))... ( -0.30)
+>MSMEG_5211
+GUGGUCAGCCCAGAAGGUGU
+.......(((.....))).. ( -1.10)
+>MSMEG_5213
+GUGAAUGCGAACACCGUGUC
+....(((((.....))))). ( -2.00)
+>MSMEG_5215
+GUGCCGCUGCCCUACGUGGA
+...((((........)))). ( -4.40)
+>MSMEG_5216
+CCCGGCGCCGCAUCCACGCG
+........(((......))) ( -2.20)
+>MSMEG_5217
+GUGGACAGCGAGGGCAGUAC
+....((.((....)).)).. ( -2.10)
+>MSMEG_5218
+ACAAGCCAACGUUCGGCGGA
+....(((.......)))... ( -3.60)
+>MSMEG_5219
+GGGGCGAUUUCUGUGCAUCA
+.(.(((.....))).).... ( -1.50)
+>MSMEG_5220
+GUUCGAUUUCAGAAGCGAUC
+.................... (  0.00)
+>MSMEG_5222
+GUGAGCCUGAACCUCGGAAU
+......((((...))))... ( -1.50)
+>MSMEG_5223
+GUGUUCGGACAGCGCGCAGA
+((((.(.....).))))... ( -3.50)
+>MSMEG_5225
+AUGGGAACUGCACCGUAUGG
+((((........)))).... ( -3.30)
+>MSMEG_5229
+GGAGGCUGAUCGACAUGUAU
+.................... (  0.00)
+>MSMEG_5231
+GUAGGAAUAUUCGAUUACGA
+((((..........)))).. ( -0.30)
+>MSMEG_5233
+GCGGCCUUCACACCACUACA
+(.((........)).).... ( -0.50)
+>MSMEG_5236
+GCGACGCAGAAGCAGUCGCC
+(((((((....)).))))). ( -9.10)
+>MSMEG_5237
+AGCGAGGAGGGGCCCGAUGG
+..((.((.....)))).... ( -2.10)
+>MSMEG_5238
+AUGACCACCCAGCCAACCCC
+.................... (  0.00)
+>MSMEG_5239
+AUGACACCCUCGCGCGGCGA
+.........((((...)))) ( -2.40)
+>MSMEG_5241
+ACGACGCCGAAAUCGACGUC
+..((((.((....)).)))) ( -5.10)
+>MSMEG_5244
+AUGAUCAGGGUUUUUCUGGU
+...((((((.....)))))) ( -3.30)
+>MSMEG_5248
+AUGGCACAGAAACCUGUCCC
+..((.((((....)))))). ( -5.00)
+>MSMEG_5249
+AUGGCUGCAGACCCGUCGUC
+(((((.........))))). ( -1.40)
+>MSMEG_5252
+AUGCCGCGGCCCAGCGAGCC
+..(((((......))).)). ( -6.40)
+>MSMEG_5256
+GUGGACAUCAUUCCCCCGCG
+((((...........)))). ( -3.80)
+>MSMEG_5257
+GGGAAUGACCCAUCAGCUGU
+(((.....)))......... ( -3.70)
+>MSMEG_5258
+AUGAGCCACGAUGCCGCCGC
+....((..((....))..)) ( -0.60)
+>MSMEG_5261
+GACAAACGGGUAGCCACCGU
+.....((((.......)))) ( -4.20)
+>MSMEG_5263
+AUACACGGUUUCCCGCUGGG
+...(((((....))).)).. ( -3.20)
+>MSMEG_5264
+GAUGGCGCGGAUCGCCGAAG
+...((((.....)))).... ( -5.40)
+>MSMEG_5265
+GUUAUGAGUGAACACCGCAA
+.......(((.....))).. ( -1.20)
+>MSMEG_5267
+AUGGCUCCAUCCAACGCGGC
+.(((......)))....... ( -0.80)
+>MSMEG_5268
+GCUCAGGGUCAGCAAACCCG
+.....((((......)))). ( -5.00)
+>MSMEG_5270
+AUGCGCAUAGCCAGGCACAU
+(((.((........)).))) ( -2.40)
+>MSMEG_5271
+GUUGUCUGAAGUGAUUUAGC
+.....(((((....))))). ( -1.40)
+>MSMEG_5272
+GUGGGCACACGUGCACCGCG
+(((((((....))).)))). ( -8.40)
+>MSMEG_5273
+AGCCACCUGAUGAGGAGUUC
+.....(((....)))..... ( -2.40)
+>MSMEG_5274
+GAUGACCACCAUCGGAACGC
+((((.....))))....... ( -3.10)
+>MSMEG_5275
+AGUUCGUAACCCGAACACAU
+.(((((.....))))).... ( -4.70)
+>MSMEG_5276
+GUGACAGAAAACGAGGACAU
+.................... (  0.00)
+>MSMEG_5278
+GCCGACACCGCGAAAUUCGG
+.((((...........)))) ( -1.90)
+>MSMEG_5280
+AUGAAGGCACGGACCGGGAU
+.....((......))..... ( -0.40)
+>MSMEG_5281
+AUGCGCAGUUACCCGUGGGC
+..((.((........)).)) ( -3.30)
+>MSMEG_5282
+AGUUUCAACGCAAGGAGAAA
+..((((..(....)..)))) ( -0.90)
+>MSMEG_5285
+GUGGAUUCGAAACGUGCACU
+(((.((.......)).))). ( -2.40)
+>MSMEG_5287
+GAGCCCGCGCCGGUGUCCUG
+((..(((...)))..))... ( -3.40)
+>MSMEG_5288
+AGAUGUGAACCGAAGAAAAG
+.................... (  0.00)
+>MSMEG_5291
+GUGGACAGCACCAUGCAGCA
+((((......))))...... ( -2.70)
+>MSMEG_5292
+GUAGACCCCGUCUAAGUCGG
+.(((((...)))))...... ( -2.90)
+>MSMEG_5298
+GGAAGAAAGGCGCAGCCAUG
+........(((...)))... ( -2.80)
+>MSMEG_5301
+AUAUAUGUCCAAGUAGGUGG
+........(((......))) ( -0.40)
+>MSMEG_5302
+AACACCGCAUGAGAUGUCGA
+.....(((((...))).)). ( -0.80)
+>MSMEG_5303
+GAUUCCCAUACGAUCGGCCA
+((((.......))))..... ( -0.60)
+>MSMEG_5308
+GAAGACCAGGCCCUGACGGC
+.........(((.....))) ( -2.10)
+>MSMEG_5310
+AGAAGAGGAGCCGAGAAAUG
+.................... (  0.00)
+>MSMEG_5318
+GUCCCGUGUCGCCGCCAAAA
+.....(((....)))..... ( -0.40)
+>MSMEG_5324
+GUGCAUGAGGAUUCCGCGGG
+.(((..((....)).))).. ( -0.10)
+>MSMEG_5327
+GUAAGCGUCAUCCACCCCCG
+.................... (  0.00)
+>MSMEG_5328
+GUGAACCGCCCCGAAUCCGC
+.................... (  0.00)
+>MSMEG_5329
+GCGAAGGGGAGUAGUUCCUG
+.....(((((....))))). ( -3.70)
+>MSMEG_5332
+GUGCCCGUCAGCCGAGCCGA
+(.((.((.....)).))).. ( -2.00)
+>MSMEG_5333
+GAACUCGAAUACAGGACUCG
+.................... (  0.00)
+>MSMEG_5338
+CAAAGCUUUCUAGCAGAAAU
+....(((....)))...... ( -2.30)
+>MSMEG_5339
+AGCGCAGACUACACGGGAUC
+.................... (  0.00)
+>MSMEG_5340
+GUGGCCGAGAAAUCCGCACC
+((((.........))))... ( -3.00)
+>MSMEG_5343
+GAACCGAUGAGGUCAGGAGA
+((.((.....))))...... ( -2.40)
+>MSMEG_5346
+GUCACAAUCGAAGUCAAUCG
+.................... (  0.00)
+>MSMEG_5347
+GUAGUAUCCCUGGUGAACGC
+.................... (  0.00)
+>MSMEG_5349
+GACUCCUGAGGCGAAGGACU
+...((((.......)))).. ( -3.50)
+>MSMEG_5351
+GUGACCCGCAAGCGCCUCGC
+((((...((....)).)))) ( -2.60)
+>MSMEG_5352
+AUCGGCGAAUGGAGGUCUGA
+...(((........)))... ( -2.30)
+>MSMEG_5354
+GCAGUGCGGCCGGACGGUUC
+.......((((....)))). ( -2.30)
+>MSMEG_5355
+GGGGGGUCAAGGUAUUGCGU
+.................... (  0.00)
+>MSMEG_5360
+GGCAAGGAACCGACCGACCG
+((...((......))..)). ( -2.50)
+>MSMEG_5362
+GUGACUGAUGUUGCAAAUGU
+(((((....)))))...... ( -3.90)
+>MSMEG_5368
+ACAACAAGGACCACGGUUUG
+.......((((....)))). ( -0.30)
+>MSMEG_5370
+AGAUACUCAAGAGCUCGUCG
+.................... (  0.00)
+>MSMEG_5372
+CAAACGUCCACCGUGAUCCG
+...(((.....)))...... ( -0.50)
+>MSMEG_5375
+CUGACGACCAGAUGAACAGG
+(((.....)))......... ( -1.10)
+>MSMEG_5376
+GGCGUUGCCGCGGCGACUGG
+...(((((....)))))... ( -6.10)
+>MSMEG_5378
+AAUUGCAUGCCGCAGCUAGC
+..((((.....))))..... ( -2.00)
+>MSMEG_5379
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_5388
+AACAGUGUGCCGAAGGGAGC
+......((.((....)).)) ( -1.60)
+>MSMEG_5395
+GUGACUACGCGGGCGUCGAA
+.((((.........)))).. ( -1.30)
+>MSMEG_5397
+GCACUCGCCGAUCACGACGA
+....(((.((....)).))) ( -1.80)
+>MSMEG_5401
+GAAGCUCAACCGUUUCAUAG
+(((((......))))).... ( -4.10)
+>MSMEG_5403
+GUUCGUCAAUCCAACGAAGG
+.(((((.......))))).. ( -2.40)
+>MSMEG_5404
+AUGUCCGGUUACCGUGCCUU
+......(((......))).. ( -2.70)
+>MSMEG_5405
+AUGGGUCAUGGUGUCGAGGG
+.................... (  0.00)
+>MSMEG_5406
+GUUAUAUGUUGAUGUCCGCC
+.................... (  0.00)
+>MSMEG_5409
+GCAGCCCGCAGUGAGGAAGU
+.....((.......)).... ( -1.10)
+>MSMEG_5412
+GAAGUGGGCAUCCCCACUGU
+..((((((....)))))).. ( -8.70)
+>MSMEG_5414
+CCACCGCAGCGGCGAGACCG
+....(((....)))...... ( -3.10)
+>MSMEG_5415
+GAGCGCCGAGCACGCCAAGG
+(.(((.......)))).... ( -2.10)
+>MSMEG_5416
+AACGUCCGUGAUGGGGGUCA
+.((.(((.....))).)).. ( -4.40)
+>MSMEG_5418
+GCCUUGCCAAGGCUAGCCAA
+(((((...)))))....... ( -5.00)
+>MSMEG_5420
+GAUGGGGUUCGUCACCUACG
+..((((........)))).. ( -3.50)
+>MSMEG_5424
+GUGGCAGCACCCGACAAGGA
+(((....)))((.....)). ( -3.10)
+>MSMEG_5427
+GUAUCGAUUCCCGACCGCGA
+((.(((.....)))..)).. ( -1.10)
+>MSMEG_5429
+CCCCAAAUGCUCGACGUCGC
+.................... (  0.00)
+>MSMEG_5431
+GCGUCACGGCGAGGGUGGAC
+...((((.......)))).. ( -2.50)
+>MSMEG_5435
+GGUGGAAGCUAGCGGUCAAG
+(.(((...))).)....... ( -0.80)
+>MSMEG_5438
+GCCGACUUGGCGACCAGAGA
+(((.....)))......... ( -4.20)
+>MSMEG_5439
+AAGGACUCGGCCGGCAUGGU
+.........(((.....))) ( -1.50)
+>MSMEG_5440
+GUGAGUGCGAAACGUUCAGC
+.((((((.....)))))).. ( -0.90)
+>MSMEG_5442
+CUAUCAGAACGAUUGAGAUG
+.................... (  0.00)
+>MSMEG_5444
+GGUUCAAGGGACGCAACCGC
+(((((.......).)))).. ( -2.20)
+>MSMEG_5445
+GUGACACUCGGCAAACUGCU
+.........((((...)))) ( -1.50)
+>MSMEG_5446
+AUGCGGAUCGAGCGGUUCUG
+....(((((....))))).. ( -3.00)
+>MSMEG_5447
+GUGACCGCCCUCGACACCGA
+..........(((....))) ( -0.30)
+>MSMEG_5448
+GUGACUGAUGUGGUGUUGGG
+....(((((.....))))). ( -0.70)
+>MSMEG_5451
+AUGGAGCUGGCGGUGCAAGG
+.....((.......)).... ( -1.00)
+>MSMEG_5452
+GAUGUCCAACCCCACCCGCA
+.................... (  0.00)
+>MSMEG_5454
+AUGUGCACUCGGGUUCUGUG
+.....(((.........))) ( -0.20)
+>MSMEG_5458
+GUGGCGGAACUGACCGAGGU
+....(((......))).... ( -2.70)
+>MSMEG_5460
+CUUCUCUUCGAAACUGCCGA
+.................... (  0.00)
+>MSMEG_5461
+AGCAGAUUGGCCAGUUGGGG
+..........((....)).. ( -0.60)
+>MSMEG_5462
+CGCUCGGCGAUGCGGCCGGC
+.((.((((......)))))) ( -9.30)
+>MSMEG_5463
+GGAAGGGCACGAUCACGUGA
+.......((((....)))). ( -3.50)
+>MSMEG_5468
+GGCGCGCCGCCCAUGGAUGC
+((((...))))......... ( -4.50)
+>MSMEG_5470
+GGAACGUGACGACUACGGCC
+((..((((.....)))).)) ( -2.60)
+>MSMEG_5471
+AUGAGCACGCCUUCGAAAGC
+.................... (  0.00)
+>MSMEG_5475
+GGGGCGAACCUGGGAGAGUG
+(((.....)))......... ( -2.40)
+>MSMEG_5480
+GAGAAUCAGACCGCUUGCGC
+.................... (  0.00)
+>MSMEG_5481
+GACGCGGUUCAGGCUUUCAG
+...((.......))...... ( -1.20)
+>MSMEG_5482
+AUCCGACCAACGGAACCGUU
+.((((.....))))...... ( -3.80)
+>MSMEG_5483
+GUCAACGAUGAGCAGAACGU
+.................... (  0.00)
+>MSMEG_5486
+ACCGAAUAGGUGAGGCAGGC
+(((.....)))......... ( -2.30)
+>MSMEG_5489
+AAUCGUCGCCGUCGGCGAGU
+.....(((((...))))).. ( -6.40)
+>MSMEG_5500
+GAUGCCAUCGAUCGCCUCCC
+((.((........)).)).. ( -1.00)
+>MSMEG_5502
+GCCUAUAACCAAGAUCACAC
+.................... (  0.00)
+>MSMEG_5503
+ACCAGGAGGGGGUUCCAUGA
+..((((((....)))).)). ( -3.70)
+>MSMEG_5505
+GAUGAGCACCUCAGCGCCGC
+(.((((...)))).)..... ( -1.70)
+>MSMEG_5507
+GAACUUCUCAGUAGUACGCA
+.................... (  0.00)
+>MSMEG_5513
+AUGCCGUUGGCUAGCGGUCA
+..((((((....)))))).. ( -6.00)
+>MSMEG_5515
+GAAGAGACUCUGCACGAACG
+.................... (  0.00)
+>MSMEG_5516
+GUGCAGCAACCACUACGAGU
+(((.......)))....... ( -0.20)
+>MSMEG_5517
+GCGUGCUGCGACUUGUGCGC
+((((((........)))))) ( -7.10)
+>MSMEG_5518
+GAUCGCUUACGUGGUCCGUA
+((((((....)))))).... ( -5.80)
+>MSMEG_5519
+AUGACCACCGAACGCAUUGC
+.................... (  0.00)
+>MSMEG_5520
+AUGGACUACGGGCUCGUUCU
+..((((.........)))). ( -1.20)
+>MSMEG_5522
+GUCACUAAGUGACAGGAGGU
+(((((...)))))....... ( -5.20)
+>MSMEG_5525
+CUACCACAUGAGCGGAAGGC
+((.((.(....).)).)).. ( -1.80)
+>MSMEG_5527
+GUGAGCGACUCCGGUCCCCU
+......(((....))).... ( -3.00)
+>MSMEG_5534
+GAGAUGACUUCCCCCUCUGC
+(((...........)))... ( -0.60)
+>MSMEG_5536
+GUGCUCAUUGAGCAGAGGCG
+.(((((...)))))...... ( -4.90)
+>MSMEG_5538
+AUGCGCAUCGAAGACCUGAU
+.................... (  0.00)
+>MSMEG_5539
+AACACCCCAUCGCGAAGUCC
+.................... (  0.00)
+>MSMEG_5541
+AUGAGCGCUGACAUCACCGA
+.....((.((....)).)). ( -0.50)
+>MSMEG_5543
+GACAACGAGACCGGCGUGCG
+.((..((....))..))... ( -1.10)
+>MSMEG_5544
+GUGACCCGUCAGAACAUCCU
+.................... (  0.00)
+>MSMEG_5546
+AUGAGCUCAUUUCUGUUGCG
+...(((........)))... ( -0.40)
+>MSMEG_5548
+GUGCGUCGCAUCCACGUCAU
+(((.(......))))..... ( -1.70)
+>MSMEG_5549
+AGGAACCCGACGAAGGGAAC
+.....(((......)))... ( -4.60)
+>MSMEG_5553
+GCGACACACCGCGGGCGAUG
+(((......)))........ ( -3.60)
+>MSMEG_5556
+GUUGUUCUCGCCAACGCCGU
+((((.......))))..... ( -1.90)
+>MSMEG_5557
+GACCGGAAAGCCGUAAGUGU
+...(((....)))....... ( -2.40)
+>MSMEG_5558
+AGACGGUGAUCGGGCGAGCG
+...((.(.....).)).... ( -0.30)
+>MSMEG_5559
+GCCCUCGGGAUGGGCGCCAU
+((((.......))))..... ( -7.80)
+>MSMEG_5562
+GUGAGCCAGGAUCCCGUCAU
+.................... (  0.00)
+>MSMEG_5565
+AUCGAUUGAACGGAGCAUCG
+.................... (  0.00)
+>MSMEG_5566
+GUGGUGAGUAAGAAGACGGA
+.................... (  0.00)
+>MSMEG_5567
+GUGAGCAGCGAAGAACCUCG
+..(((...........))). ( -0.10)
+>MSMEG_5568
+GAGACGCAACGCACCGAAAA
+.................... (  0.00)
+>MSMEG_5570
+AUGGAGCGCUAUGAGCGGGU
+......((((...))))... ( -3.40)
+>MSMEG_5577
+AUGAGCCGUGCUCUGGUCAU
+..((((...))))....... ( -3.70)
+>MSMEG_5579
+GUCCUCGUCGGUGAUCACGA
+....((((........)))) ( -1.20)
+>MSMEG_5584
+GUGAGCGAUAGGAGAACGUG
+.................... (  0.00)
+>MSMEG_5587
+AACGACUUCCAGGAGGACCC
+.......(((....)))... ( -1.80)
+>MSMEG_5588
+CAUGGCUCUUCUCGCAGCAC
+....(((........))).. ( -1.50)
+>MSMEG_5589
+CUGUUCGCUACACCGGAUAG
+(((((((......))))))) ( -5.00)
+>MSMEG_5591
+GUGGUGCUGAUCUAUCUGAC
+.................... (  0.00)
+>MSMEG_5595
+ACCAUCAACUAAUGGUGCGC
+(((((......))))).... ( -3.70)
+>MSMEG_5597
+GGUCGUUACGAAAAGGCUGG
+((((..........)))).. ( -2.10)
+>MSMEG_5601
+AAUCAGGCCGAUGCUGCUCG
+...(((.......))).... ( -0.90)
+>MSMEG_5607
+GGGGGCAAUGAGUAAAACAC
+.................... (  0.00)
+>MSMEG_5608
+AUGGAGAACGUCUGGGUGCU
+..(((.....)))....... ( -0.20)
+>MSMEG_5610
+GACAUGAACGAUGACGCGUC
+(((.((........)).))) ( -1.10)
+>MSMEG_5611
+GCACAGUGAUUGGCUGCCCG
+...((((.....)))).... ( -3.20)
+>MSMEG_5612
+UCAACGUCAAACCGCCGGUG
+..........(((...))). ( -0.70)
+>MSMEG_5615
+GUGACCGAACUCCCCGACUG
+.................... (  0.00)
+>MSMEG_5617
+ACCGCACACAGCCGAAACUG
+........(((......))) ( -0.40)
+>MSMEG_5634
+AUUCCUGGACAAGGCCAAAG
+.....(((......)))... ( -1.80)
+>MSMEG_5635
+AUGGGAUUCCUGGACAAGGC
+........(((.....))). ( -1.70)
+>MSMEG_5636
+GGAGUACUUCGACGAGGACG
+...((.((((...)))))). ( -1.90)
+>MSMEG_5637
+GUGUACAGCAUGCGCAGGUC
+(((((.....)))))..... ( -3.50)
+>MSMEG_5641
+GUCGGAUGAGAGUGCUAACG
+.................... (  0.00)
+>MSMEG_5642
+GUGAGUCGGAUCGGCGCUCU
+..(((.((......))))). ( -4.50)
+>MSMEG_5645
+AUGCCUCAGCUAACUGCCGA
+.....((.((.....)).)) ( -1.30)
+>MSMEG_5646
+GAAAACCGCGCUUCGUUAGG
+.................... (  0.00)
+>MSMEG_5648
+AUGUCAGUCGUGUACGCGCC
+.........(((....))). ( -0.50)
+>MSMEG_5649
+GUCGAACUGCGCAAGCGCGA
+.......((((....)))). ( -3.20)
+>MSMEG_5650
+AUGAGUGGUAACGCCGAUCU
+..((.((((...)))).)). ( -3.00)
+>MSMEG_5651
+ACAAUUGUCGACCGCUACCC
+.................... (  0.00)
+>MSMEG_5654
+GUGUGGAGCCUCGACAUGCG
+((((.((...)).))))... ( -3.80)
+>MSMEG_5656
+GUUCUCCGAGGCCGACCUGG
+......(.(((....))).) ( -2.60)
+>MSMEG_5658
+CCCCGCUUCGAUCUCGCCGG
+..(((...((....)).))) ( -2.00)
+>MSMEG_5660
+GGAGGACAGCGGCAGCGGCU
+.......(((.......))) ( -1.70)
+>MSMEG_5661
+CGCCAUCUUGCCCGAUGACC
+...((((......))))... ( -3.10)
+>MSMEG_5662
+AUGGACAGUACUACCAGCGG
+.((((......).))).... ( -1.50)
+>MSMEG_5664
+GUGACUACAAAACCUGAGAU
+.................... (  0.00)
+>MSMEG_5666
+GUGGCAAAAGACCAAGACAU
+.((((....).)))...... ( -1.20)
+>MSMEG_5669
+GUGCCGACUCCUCAUGCCGC
+.................... (  0.00)
+>MSMEG_5670
+AUGAAUGAAACUGUCGGCGC
+.................... (  0.00)
+>MSMEG_5672
+GCAGUCUCACCUAGAGCAGU
+...(.(((.....))))... ( -1.40)
+>MSMEG_5673
+GUGGCAUACCAGACGCAGCA
+(((..........))).... ( -1.60)
+>MSMEG_5675
+GUGGGGAUACCGGACGAUCC
+((.((....))..))..... ( -2.20)
+>MSMEG_5679
+GUGGGUGACGUCUUCAAGGC
+.........((((...)))) ( -0.50)
+>MSMEG_5680
+GCCUUAGCGAUGAGAUCGGC
+..((((....))))...... ( -1.50)
+>MSMEG_5682
+ACACCUGGGUAGAUGUAAAC
+(((.((....)).))).... ( -0.10)
+>MSMEG_5685
+AGGAGGUCGGUAUGCGAGAA
+......(((.....)))... ( -1.60)
+>MSMEG_5688
+GUGAAACAUCUGGACGCGCG
+(((...(....)....))). ( -0.60)
+>MSMEG_5689
+GUGACCGGUGCGCCAGAACC
+......(((........))) ( -1.80)
+>MSMEG_5690
+GUGCGCCGCGGAUCACGCGG
+.....(((((.....))))) ( -8.50)
+>MSMEG_5691
+GAUGGAAAGUGUGACCGAAC
+.................... (  0.00)
+>MSMEG_5693
+GUGACUUACUACCCGCCGCG
+(((.............))). ( -0.30)
+>MSMEG_5694
+GUGCUGAUACUCGGCCUGGC
+..(((((...)))))..... ( -4.20)
+>MSMEG_5696
+AUCGCGUCCCGGCGCAGACG
+...((((....))))..... ( -4.40)
+>MSMEG_5697
+ACCGCCCAAGGAGAAGAUGC
+.((......))......... ( -1.30)
+>MSMEG_5699
+CCCGCCGGACACGGCAUCAA
+...((((....))))..... ( -7.50)
+>MSMEG_5700
+AAGUCAGCCGACCUUUAUCG
+..(((....)))........ ( -1.50)
+>MSMEG_5702
+GUCGAUCCCGCAGCACGUAU
+.................... (  0.00)
+>MSMEG_5703
+GUGGCUGACAAGAAGAAGAA
+.................... (  0.00)
+>MSMEG_5704
+GUAAAGCAGGCUGCCGGUAU
+.....(((...)))...... ( -0.60)
+>MSMEG_5705
+GAUAUGACCGCACAGACUCC
+.................... (  0.00)
+>MSMEG_5708
+GACGAAUCCACCCGGAACGG
+..((..(((....))).)). ( -2.60)
+>MSMEG_5709
+ACUGGCCUCGACGCAAGACG
+.((.((......)).))... ( -1.10)
+>MSMEG_5710
+AGUUUGCUGGCUGAACCGGG
+......((((.....)))). ( -3.60)
+>MSMEG_5712
+GUGGAGCUACGCCAGUUGCG
+..(.((((.....)))).). ( -2.70)
+>MSMEG_5713
+GUGGCCGGACCACCGGCUGC
+((((((((....)))))))) (-12.20)
+>MSMEG_5715
+AUGCGCUUUGGAUUGUUCAU
+(((.((........)).))) ( -0.60)
+>MSMEG_5717
+AUGGCCCUUCCCAAAGAAGA
+......((((.....)))). ( -2.20)
+>MSMEG_5718
+GUGGCCAAGCCCGCAGUGGA
+((((......))))...... ( -4.20)
+>MSMEG_5719
+AGCGCACUUACCGACCGUUA
+((((..(.....)..)))). ( -0.20)
+>MSMEG_5720
+AGCUAUGGCUGAGAACACCA
+.....(((.((....))))) ( -1.20)
+>MSMEG_5721
+AGAGGACAAAACACCUCCAC
+.((((........))))... ( -4.40)
+>MSMEG_5722
+GAGCUCUCGCUCGUAACGCC
+((((....))))........ ( -5.40)
+>MSMEG_5724
+AUGCCCAGCGCCGAGGAACC
+....((........)).... ( -0.80)
+>MSMEG_5727
+GACCGCCGCGGCGGCGCGAU
+(.((((....)))))..... ( -6.80)
+>MSMEG_5730
+GCGAAAUUGAUGCAUAGCUC
+(((.......)))....... ( -0.30)
+>MSMEG_5731
+ACAUGCGGCCUCAUCGGCGU
+.......(((.....))).. ( -4.00)
+>MSMEG_5734
+AUGACGAAGACCGGCCCCCU
+.................... (  0.00)
+>MSMEG_5736
+AUGGCAACCAGCGAUUCCCG
+((.((.....)).))..... ( -1.30)
+>MSMEG_5738
+AUGUCCAGAACCGUCGAUCC
+.................... (  0.00)
+>MSMEG_5739
+AUGACCAGCGAUGUUCACGA
+.(((.((....)).)))... ( -1.10)
+>MSMEG_5741
+AGAUGCCACGAUAUUCACGC
+.................... (  0.00)
+>MSMEG_5749
+GACAACGUGAUGCUCGAACC
+.................... (  0.00)
+>MSMEG_5750
+GUAUGGCAAGUCGAGAACGG
+.................... (  0.00)
+>MSMEG_5752
+GUGGACCCAGCACACGUUUG
+(((.......)))....... ( -2.20)
+>MSMEG_5753
+GUGGAGUACUUCACCGCCGA
+((((.(.....).))))... ( -3.00)
+>MSMEG_5760
+GAGGAGACGCCAUGGACCGA
+..((.....))......... ( -0.40)
+>MSMEG_5764
+AUGCCCACAUCACACUCGCC
+.................... (  0.00)
+>MSMEG_5766
+GUGCUCGGGAUCGAACGAAA
+....(((........))).. ( -2.30)
+>MSMEG_5768
+AGGAUCGCUUUCUGCCGCGU
+.....(((........))). ( -2.40)
+>MSMEG_5769
+AGCUCCUGGAAGCGCACGGC
+.(((......)))....... ( -1.70)
+>MSMEG_5770
+GAUCGGUAGUGCGUGUUCGG
+((.((........)).)).. ( -0.30)
+>MSMEG_5771
+AGCCGUCGAGCGAUCUUGUU
+...(((...)))........ ( -0.50)
+>MSMEG_5773
+AACCAUUAGGUACAGAUAAC
+.(((....)))......... ( -1.90)
+>MSMEG_5775
+CUUGCCGUGGUCGGCUCCGA
+...((((....))))..... ( -6.30)
+>MSMEG_5776
+AUGCGGAUCCAGUACCAUGA
+....((........)).... ( -0.40)
+>MSMEG_5777
+GUGAAAACCAAGAGCGGGCU
+.......((......))... ( -1.00)
+>MSMEG_5778
+GGAAUCAUCGUUUCCAUAGA
+((((.......))))..... ( -3.50)
+>MSMEG_5781
+GGAACACAUGACCGACAGGU
+..........(((....))) ( -2.10)
+>MSMEG_5782
+GAGUCUGAAGCCGUCAACGG
+..........(((....))) ( -1.40)
+>MSMEG_5784
+ACCAAAGGCCGGUAACGGCU
+......(((((....))))) ( -7.90)
+>MSMEG_5786
+AGGGAUCGGCGAGGGAGUAA
+.................... (  0.00)
+>MSMEG_5788
+GUGUCAACCCGCCUUGAGCU
+((.((((......)))))). ( -0.70)
+>MSMEG_5791
+GUGGUGCUCUUCUUCGAGAU
+......(((......))).. ( -1.80)
+>MSMEG_5795
+AUGGCAAGCCAUCCAGCGGU
+((((....))))........ ( -1.60)
+>MSMEG_5796
+AUGUCAGCAGUUCCUACGCC
+......((.((....)))). ( -0.50)
+>MSMEG_5797
+AGGACAAAAAUGACACUCAG
+.................... (  0.00)
+>MSMEG_5798
+GAUGACCGAUCGCGAAGACU
+(((.....)))......... ( -1.00)
+>MSMEG_5800
+GUCACCCACAGCCCAUCCGG
+.................... (  0.00)
+>MSMEG_5803
+ACAGCCGUCGGCAUGUGAGG
+((((((...))).))).... ( -4.10)
+>MSMEG_5811
+GAUACUCGCUGGCGGCAAGG
+....((.(((...))).)). ( -2.10)
+>MSMEG_5812
+GUAACACGGUUACUGACAUC
+(((((...)))))....... ( -2.40)
+>MSMEG_5816
+CGGCCCGCGGCAGGAUCGAG
+(((.((......)).))).. ( -4.00)
+>MSMEG_5817
+AUGGCCAGCCGCCGUAGUGC
+(((((.....)))))..... ( -5.10)
+>MSMEG_5819
+AUGACGUUCAAACCCCACGA
+.................... (  0.00)
+>MSMEG_5820
+GAUGGGGGGAAUUCUGCGGC
+...(.(((....))).)... ( -1.40)
+>MSMEG_5824
+GUGACGUCGGAGCUCACUCA
+((((.((....))))))... ( -3.30)
+>MSMEG_5827
+AUGGGACUCUCCGUGGAAAU
+(((((....)))))...... ( -2.70)
+>MSMEG_5828
+UCCUGGCCUUCGUCGAUGGU
+.....(((.((...)).))) ( -1.90)
+>MSMEG_5829
+GUGCCCGCACCACAGCCUCA
+(((.......)))....... ( -0.70)
+>MSMEG_5831
+GUGGCAAAGGUGGUUGUGCA
+...(((.((....)).))). ( -1.10)
+>MSMEG_5837
+GUGAGCCUCAAGAACAUCAA
+.................... (  0.00)
+>MSMEG_5838
+AUGGCGUACCACCAUGGCGA
+((((.......))))..... ( -1.80)
+>MSMEG_5841
+AUGCGCCCUGCUCUGUCCGA
+..((.....))......... ( -0.40)
+>MSMEG_5848
+GCGCACCGACGCAGUCGUCG
+......(((((....))))) ( -4.60)
+>MSMEG_5850
+GUGACGGCAGCGGUCACUCC
+(((((.......)))))... ( -6.50)
+>MSMEG_5851
+GGGAGAUGAGUUCCUCGGUC
+((((......))))...... ( -3.00)
+>MSMEG_5852
+GUGCGCGUCCUCGUAAUCGG
+.((((......))))..... ( -1.30)
+>MSMEG_5853
+AGCGUGUUCGACGUCACACG
+..(((((........))))) ( -3.70)
+>MSMEG_5855
+AACCGGAAGAAGGCCGCGGA
+..(((...........))). ( -2.40)
+>MSMEG_5859
+AGACAGCCAGACAGCUGUCC
+.((((((......)))))). ( -8.80)
+>MSMEG_5860
+GUGUCCAGCGAUGCAGUGGC
+(((((....)))))...... ( -3.20)
+>MSMEG_5866
+GAUAACUAGGCUAGUUUCGA
+((.(((((...))))))).. ( -1.80)
+>MSMEG_5868
+GCUUAUUAGAUGUGCGAAGG
+((...........))..... ( -0.60)
+>MSMEG_5873
+AUGAACCUCGGCAAGACCCU
+.................... (  0.00)
+>MSMEG_5876
+CGAGCGGUCGUCAGUUCAAU
+.((((........))))... ( -3.80)
+>MSMEG_5877
+GUGCACCGUCGAACGGCCCU
+.....((((...)))).... ( -3.10)
+>MSMEG_5878
+GGCAAGAACGGCACGACCCG
+........(((......))) ( -1.50)
+>MSMEG_5879
+AAUCCGUCGCUUGGUUCUGC
+...(((.....)))...... ( -0.70)
+>MSMEG_5885
+AGAACCAUUCCCACUGGAUG
+.....(((((.....))))) ( -1.40)
+>MSMEG_5886
+GUUAAGUGCCAUACCUGCUG
+.................... (  0.00)
+>MSMEG_5887
+GCGAAGCGAUACCUGGCCGC
+(((..((........))))) ( -3.30)
+>MSMEG_5888
+GUGAUUCGCACUGUCUUUGC
+(((.....)))......... ( -1.10)
+>MSMEG_5889
+GACGAAACAGUCAGACAACU
+(((......)))........ ( -3.20)
+>MSMEG_5890
+AUGCCUGCGAAAACUGAUCC
+.................... (  0.00)
+>MSMEG_5891
+AUGCCGUCAUCCACAUUGGU
+..((((..........)))) ( -1.40)
+>MSMEG_5894
+AGUGGGGUCUUCGCUGACGC
+....(.(((......))).) ( -3.50)
+>MSMEG_5901
+UUGCGCAAAAAAGAGAAGCC
+.................... (  0.00)
+>MSMEG_5902
+GCUCACGUGAGCGCCAUGUC
+((((....))))........ ( -5.50)
+>MSMEG_5904
+GCGCGCCGCCAGACCGGUGC
+..((((((......)))))) ( -8.60)
+>MSMEG_5906
+AGAAGUCAGGUCGCUUGAGC
+.....(((((...))))).. ( -2.10)
+>MSMEG_5912
+GAUCGCUGGUUACUCGUCAG
+((.((..(....).)))).. ( -0.30)
+>MSMEG_5914
+GUGGCUCUGAACAUUGCGGA
+.....((((.......)))) ( -0.80)
+>MSMEG_5916
+AUCGGGGGGAUACGCAACGA
+.(((..(.(...).)..))) ( -3.00)
+>MSMEG_5920
+GUGGCACAUGCACCCGUCCA
+.(((.((........))))) ( -1.90)
+>MSMEG_5925
+AGAAGCAACGGACUGGAGGC
+....((..(......)..)) ( -0.60)
+>MSMEG_5929
+GGAGAACGUCAAGGUGGUGC
+.................... (  0.00)
+>MSMEG_5933
+GACACUAGAACGCGUUCUAA
+.....(((((....))))). ( -1.70)
+>MSMEG_5934
+AUCGGAGGUGCAGACAUGAA
+.................... (  0.00)
+>MSMEG_5937
+CUGGACAUCAUGACCGCCGC
+.(((.((...)).))).... ( -0.30)
+>MSMEG_5939
+ACCUGCGUUUCGAGUGAUGU
+....(((((......))))) ( -1.80)
+>MSMEG_5940
+GCCCUGGUGGGCUGCGGUGA
+((((....))))........ ( -7.70)
+>MSMEG_5941
+AUGACUGGACAGGAGUACGA
+...(((.......))).... ( -0.40)
+>MSMEG_5943
+AAUGUCAGCUCACCGGUGAU
+...((((.(.....).)))) ( -2.70)
+>MSMEG_5944
+AGCAAGCGCCUCGCGUUUCC
+...((((((...)))))).. ( -4.50)
+>MSMEG_5952
+GGCAAGGGAAUUGCUUGCAU
+.(((((.......))))).. ( -6.10)
+>MSMEG_5956
+GACUGGUUGCGGGGGUUGAG
+..(((....)))........ ( -1.70)
+>MSMEG_5959
+GGUUCGGUUGUUGCUCGACA
+.(((.(((....))).))). ( -2.90)
+>MSMEG_5962
+AUUCCGGGUUCUCAUCGAAG
+....(((.......)))... ( -0.40)
+>MSMEG_5967
+GUGGCAGAGCAAUCUGCUGG
+..((((((....)))))).. ( -8.00)
+>MSMEG_5968
+AGGCCUACGGCCGCUGAGAA
+.((((...))))........ ( -6.00)
+>MSMEG_5969
+GUCAAGGUUUGCGGGGAGAG
+.................... (  0.00)
+>MSMEG_5970
+AUUACCAGGCCUAUUCACGG
+.................... (  0.00)
+>MSMEG_5971
+AUCGACCUCGGGGGGAGGUC
+...((((((.....)))))) ( -9.40)
+>MSMEG_5976
+GAAAGCAACCGUCAGAUUCG
+.................... (  0.00)
+>MSMEG_5981
+GCCUUCGAAGCCUGUGACGG
+.((.(((.......))).)) ( -0.40)
+>MSMEG_5988
+ACCGCGCGGUGGUGGUGGCG
+(((((......))))).... ( -6.60)
+>MSMEG_5989
+AGGAAGCAGCGCGUAGAAGG
+.................... (  0.00)
+>MSMEG_5995
+AGAACACGUUGCAUUUUGAG
+.................... (  0.00)
+>MSMEG_5996
+AUGGGUAAUCCUGUCAUCGU
+(((((....)))))...... ( -2.10)
+>MSMEG_5997
+AUGGACAAGGUGAACGUCAA
+...(((.........))).. ( -1.10)
+>MSMEG_6000
+GUGACCGAUAUGCCAGAAGC
+.................... (  0.00)
+>MSMEG_6001
+AAGUGCUUGCUUAGGUAGCC
+....(((.((....))))). ( -2.50)
+>MSMEG_6006
+GAACGGUCCAUCCGCAUCCU
+...(((.....)))...... ( -2.70)
+>MSMEG_6009
+AUGGCGCCGGAUACGCCCAG
+..((((.......))))... ( -5.00)
+>MSMEG_6010
+AACGGGAGCGCACCCGAUGA
+..((((......)))).... ( -5.80)
+>MSMEG_6012
+GUGAUAGAGGUCCAGGAGUU
+.................... (  0.00)
+>MSMEG_6018
+AAUCUCGGUCUCGCGCCCGC
+.....(((........))). ( -1.70)
+>MSMEG_6019
+CAAGUCGGCCACCGAGGAGG
+....((((...))))..... ( -3.00)
+>MSMEG_6020
+CGCUCGGCCUUCGAGGAGUU
+..((((.....))))..... ( -4.10)
+>MSMEG_6021
+GAGAACAAAAUACAACCCUC
+.................... (  0.00)
+>MSMEG_6022
+AAGACACGUCAAGGGUUGGA
+.................... (  0.00)
+>MSMEG_6024
+GUUGGUCACCAAACAGAUCG
+...((((........)))). ( -2.80)
+>MSMEG_6027
+AGCUGUCGUGGGUGUCACAG
+.......(((.....))).. ( -1.60)
+>MSMEG_6029
+ACAUGCCGGAUGAGAUCUCG
+.(((.....)))........ ( -0.10)
+>MSMEG_6031
+GUUCGAUCAAAUUAGGCGCG
+.................... (  0.00)
+>MSMEG_6032
+AUGCUUAUCACGCCUCGGAC
+.................... (  0.00)
+>MSMEG_6033
+GUUCCUCAGUCAAUUAUCAG
+.................... (  0.00)
+>MSMEG_6038
+AGUUGUGGAUCUCGAUCCGG
+.....(((((....))))). ( -3.10)
+>MSMEG_6039
+ACUGAAUUGCCUCCCGGAUC
+.........((....))... ( -0.40)
+>MSMEG_6040
+GAUGACUUCGACAGGGACCG
+.................... (  0.00)
+>MSMEG_6042
+AGCGUUCGACCGUCAAGUCG
+......((((......)))) ( -2.70)
+>MSMEG_6043
+GUGAGUCUUUCGGGGGAUCU
+....(((((....))))).. ( -1.20)
+>MSMEG_6044
+GCAUGCCACGGAGUCCACAU
+.................... (  0.00)
+>MSMEG_6053
+GUGCCUCGACAUGCGUUCAG
+..((........))...... ( -0.20)
+>MSMEG_6054
+GUGCCGUCGACAGUCGAUCU
+.....(((((...))))).. ( -2.80)
+>MSMEG_6059
+AUGGUGUGGCAUGGACUUCU
+(((......)))........ ( -0.20)
+>MSMEG_6060
+GUGGCCAUGAACCUGGCGGU
+...((((......))))... ( -5.30)
+>MSMEG_6064
+GAAGGCGACUGCGGAUCGAG
+.....((((....).))).. ( -1.70)
+>MSMEG_6068
+GUACCGCACGACGAAGGAGA
+...((..........))... ( -0.20)
+>MSMEG_6073
+AGCCGGUAUCGAGGUCACCG
+.(((........)))..... ( -2.80)
+>MSMEG_6074
+GUGACCGAUCGCGCUCAAGC
+((((....))))........ ( -2.50)
+>MSMEG_6076
+CUGGUCGCGUCGCUACAAGG
+((.((.((...)).)).)). ( -1.20)
+>MSMEG_6077
+GCGAAAGGGGCUCGAAUCAG
+((.......))......... ( -1.00)
+>MSMEG_6078
+GAAGAACGGCGAACCUGUUC
+...((((((.....)))))) ( -4.20)
+>MSMEG_6079
+GUGGCCGGUUCGAAAAUACG
+.................... (  0.00)
+>MSMEG_6080
+AUACCGGCCGAUCCUAGGAG
+.......((.......)).. ( -0.90)
+>MSMEG_6081
+GUGUUGGAUCUCGAACCUCA
+..(((.(....).))).... ( -1.20)
+>MSMEG_6082
+AUGCCGAACUCAAAUCCUGU
+.................... (  0.00)
+>MSMEG_6083
+GUGCUUUCCACGCUGCCACA
+((((..........).))). ( -1.20)
+>MSMEG_6085
+GACGGCAAGAUAACGACAUG
+.................... (  0.00)
+>MSMEG_6086
+AUGCCCGUCGUGAAGAUCAA
+......(((.....)))... ( -0.50)
+>MSMEG_6090
+GUAAUCGACAGACGCCGGAA
+.................... (  0.00)
+>MSMEG_6091
+AGGUACUACGCACUCAGACC
+.(((.((........))))) ( -1.20)
+>MSMEG_6092
+GGGGUGCGAGAUACUCGAAG
+.(((((.....))))).... ( -2.80)
+>MSMEG_6094
+GUGACCCCAGCCGAUCGUGA
+.................... (  0.00)
+>MSMEG_6098
+ACCGUCCGGUACCCGCAGCG
+..(((.(((...)))..))) ( -2.50)
+>MSMEG_6104
+GGACAGCAAGGCACCAGCCC
+.........(((....))). ( -3.60)
+>MSMEG_6105
+GCUAGCUGCGCGUAUCAGGA
+((.....))........... ( -1.50)
+>MSMEG_6106
+GUGAUCACACCGACCGAGCG
+(((....))).......... ( -0.60)
+>MSMEG_6112
+GUGGUCAACGCCGCUGCCGG
+(((((....)))))...... ( -5.40)
+>MSMEG_6113
+GUCUUGUCAGACGACGCGGG
+((((....))))........ ( -2.90)
+>MSMEG_6114
+GGCGGGGUCGUCCCCGCGUC
+.((((((....))))))... (-13.30)
+>MSMEG_6125
+GUGUUCUCCUUGUCGAGACU
+....((((......)))).. ( -2.80)
+>MSMEG_6131
+GUUGUCACUAAAGCAGAGGG
+(((........)))...... ( -0.80)
+>MSMEG_6135
+GUGCGGUUAUUCGUGGCGGA
+..((((....))))...... ( -2.10)
+>MSMEG_6136
+GGAGGGGAGUAUUCCUUCGC
+.(((((((...))))))).. ( -6.90)
+>MSMEG_6137
+GUGACAGCAACGGACGACGC
+..........((.....)). ( -0.30)
+>MSMEG_6141
+AUCCGACCAAUGGAGGUCCG
+....((((......)))).. ( -5.10)
+>MSMEG_6143
+GUGAACUGGGUCGCCCGUAC
+......((((...))))... ( -2.90)
+>MSMEG_6144
+AUGACAUUGCGCAAUGGCGU
+........((((....)))) ( -3.80)
+>MSMEG_6145
+GACGGGCUUGGCGAGGGGGU
+.....((((.......)))) ( -0.10)
+>MSMEG_6148
+AUACCAGCAGUCGACCAGCG
+.................... (  0.00)
+>MSMEG_6149
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_6150
+AUGACAGAUGUGCGUGAAAA
+(((.((....)))))..... ( -0.20)
+>MSMEG_6153
+GAUGAGCGGUGUCUUUUCGC
+.....((((.......)))) ( -2.50)
+>MSMEG_6154
+GUGACCACGGAGCCCAUCCC
+........(((.....))). ( -2.30)
+>MSMEG_6156
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_6157
+GCCUCGCGUGGCGAGGUGAC
+(((((((...)))))))... (-10.90)
+>MSMEG_6159
+GGUCGCAGCUUCUGUGUUCG
+((.(((((...))))).)). ( -4.40)
+>MSMEG_6160
+ACGGGGCGGGACGACCGCAC
+.....((((.....)))).. ( -7.30)
+>MSMEG_6162
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_6171
+ACUCGGCUUAUGCCGAGGUG
+.((((((....))))))... (-11.70)
+>MSMEG_6174
+AUGAGCGUUCCACCCGGUAC
+......((.((....)).)) ( -0.50)
+>MSMEG_6180
+AGUUCAUUGGGUUACGCGGG
+.................... (  0.00)
+>MSMEG_6182
+GAAACGCAUUGGAUCCGGGG
+.................... (  0.00)
+>MSMEG_6185
+GAUCCUGCCCCGCUCGUUCG
+((.(..((...))..).)). ( -0.70)
+>MSMEG_6187
+GUGAGUGCGGGUGCCGCCCG
+.......(((((...))))) ( -5.80)
+>MSMEG_6188
+GUGUCUUGGCUGCUGGUGGC
+........(((......))) ( -0.40)
+>MSMEG_6192
+AUGAGUGAACCGACUCGCUG
+..((((......)))).... ( -4.30)
+>MSMEG_6193
+GUGGCAACCACAGAGAGCGG
+((((...))))......... ( -3.90)
+>MSMEG_6198
+GUGGUACCCGAUGACCAGAA
+.((((........))))... ( -2.90)
+>MSMEG_6199
+ACAGUGCGAUCCAGGUAACA
+....(((.......)))... ( -0.20)
+>MSMEG_6201
+AGCUGACACCAGCGAUCCCU
+.((((....))))....... ( -4.90)
+>MSMEG_6202
+AUGUCCGCCGUUUCGCUCGU
+......((......)).... ( -0.50)
+>MSMEG_6208
+GUGAGCGCGCCGAGUUGGAU
+(((....))).......... ( -0.40)
+>MSMEG_6209
+GUGAGAACAAAAUCCGAGGA
+.................... (  0.00)
+>MSMEG_6211
+AUGCCACGAGGUGACGGGAU
+...((.((......)))).. ( -2.20)
+>MSMEG_6214
+AUGGCCGAACUCAAGGACAG
+.((.((........)).)). ( -2.00)
+>MSMEG_6219
+AGGAUUCCCAGACCGUGGGA
+.....(((((.....))))) ( -6.20)
+>MSMEG_6221
+GAUCGCCGCGGACAACGCCU
+.......(((.....))).. ( -3.70)
+>MSMEG_6224
+GUCACGGCCCGCCGCUGAGG
+.((((((....))).))).. ( -4.40)
+>MSMEG_6226
+AUGAGCCUGCGCAUGGCCGC
+....(((.......)))... ( -3.80)
+>MSMEG_6227
+AUCGGAAACGCAUCCGGCGU
+.(((((......)))))... ( -4.60)
+>MSMEG_6228
+GUGGACAGCCUCGUCACCGU
+...(((......)))..... ( -2.10)
+>MSMEG_6229
+GAUACGGCAGGAGCGAGCGA
+......((........)).. ( -1.00)
+>MSMEG_6234
+GUGGGCGAAGAGGUCAAACG
+((.(((......)))..)). ( -3.00)
+>MSMEG_6237
+GGCGUUCCUGUUGGAAGCGC
+.(((((((....)).))))) ( -7.30)
+>MSMEG_6239
+GUUAGGUGGAUCACAUGACG
+((((.(((...))).)))). ( -3.90)
+>MSMEG_6240
+GCGUUGCGUCAUCUGGGUGG
+.................... (  0.00)
+>MSMEG_6241
+UGAACACCGGCAAGUACGCC
+........(((......))) ( -3.10)
+>MSMEG_6242
+AGCUGCCCGGACCUGGGCGC
+.((.(((((....))))))) ( -8.50)
+>MSMEG_6243
+GGGAGAACGAGCGUUCUCCG
+.(((((((....))))))). (-10.80)
+>MSMEG_6245
+AUGUCGAGCCCUGAGGCAUC
+.......(((....)))... ( -3.60)
+>MSMEG_6250
+GAACCAGACGGUCCGGCAGG
+(.(((....))).)...... ( -1.90)
+>MSMEG_6253
+GUGACCACAGUGCAUGACCA
+.................... (  0.00)
+>MSMEG_6254
+GGAAAAACGCGCUCGUGGCC
+.......(((....)))... ( -1.40)
+>MSMEG_6257
+GACUCAUUCCGGCUCGAUCC
+.................... (  0.00)
+>MSMEG_6258
+GUGACCGACGCGCCGAGUGA
+........(((.....))). ( -1.60)
+>MSMEG_6259
+GAACGGCUUGUUUCGAGCCG
+...(((((((...))))))) ( -9.00)
+>MSMEG_6266
+GACGUUUUCUGGCGGACUUC
+..((((....))))...... ( -2.30)
+>MSMEG_6270
+GUCGGGAAUCGCGUUGUCCU
+...((((.........)))) ( -1.50)
+>MSMEG_6271
+GUGCAGCGGGUGCUCCUUCU
+..(((.....)))....... ( -2.10)
+>MSMEG_6275
+GUGAGCCGAGCACCGCUGUC
+...(((........)))... ( -1.80)
+>MSMEG_6276
+AUGCUGACCGUCCGUGGGCG
+..(((.((.....)).))). ( -5.30)
+>MSMEG_6280
+CAAACCGCCGCUGACGGGCG
+.....((((.......)))) ( -5.80)
+>MSMEG_6282
+GGUUGCAGGCGAUGCGACCG
+(((((((.....))))))). (-10.90)
+>MSMEG_6283
+GUGUCUGUGGUUACUACUGA
+...((.((((...)))).)) ( -0.10)
+>MSMEG_6284
+GAAGGCGGUGCAAAGACAAU
+.................... (  0.00)
+>MSMEG_6285
+GUGGCUCUCUACCGCAAGUA
+((((.......))))..... ( -4.00)
+>MSMEG_6286
+GGACCCCGCGCGGCGUCCAU
+((((.((....)).)))).. ( -8.30)
+>MSMEG_6290
+GUGGUCACACUCGACCGGCU
+.(((((......)))))... ( -5.70)
+>MSMEG_6291
+AUCAGCAAGGCAACAGAGUU
+.................... (  0.00)
+>MSMEG_6293
+GUGGCACGUGAGCCUCGUAG
+(.(((......))).).... ( -4.60)
+>MSMEG_6294
+AUGUUUGAUACAACUUCCGC
+.................... (  0.00)
+>MSMEG_6300
+GACAGAAUCGGCGCCAGGUC
+.........(((.....))) ( -1.00)
+>MSMEG_6302
+GAUGGACUUGCCGGUGCAGC
+..((.(((....))).)).. ( -2.60)
+>MSMEG_6303
+GGUGACCAAUCGGCAGCUAC
+(.((.((....)))).)... ( -3.50)
+>MSMEG_6306
+GUGAGCAACGCCGCCGGACG
+(((.((...)))))...... ( -0.80)
+>MSMEG_6307
+GUGCGUUCCCUACGUAUUCC
+((((((.....))))))... ( -4.30)
+>MSMEG_6313
+GUGGAUCAGCCGUACUUCAC
+(((((..........))))) ( -0.90)
+>MSMEG_6314
+GCCGUCGAUGACCACCCGGG
+.(((............))). ( -1.40)
+>MSMEG_6315
+GUGGAACUGGUCGUGAACCG
+........(((.....))). ( -1.50)
+>MSMEG_6316
+GACGGCUGGUUUGAUCUUGA
+.................... (  0.00)
+>MSMEG_6317
+AUGGCCAAGCGAAUUCUGUG
+.................... (  0.00)
+>MSMEG_6328
+AUGGGAGCACAGCGAGCGCC
+...((.((.......)).)) ( -2.30)
+>MSMEG_6329
+GUGAGUGACAAGUCGCGUUC
+((((.(....).)))).... ( -4.60)
+>MSMEG_6330
+GUGACAACUACUCCCGUGUG
+.................... (  0.00)
+>MSMEG_6334
+AAGCUGUCCGUCAAGCUGCC
+.((((........))))... ( -4.20)
+>MSMEG_6336
+AUGACCAGCGAUCUCCCCGC
+.......(((.......))) ( -1.50)
+>MSMEG_6337
+GUGACUUCGCUGGAAGGCCU
+....((((....)))).... ( -3.80)
+>MSMEG_6338
+GUGCAACUGCUUUUGAUCCG
+..((....)).......... ( -0.50)
+>MSMEG_6340
+AACGAGUCAGCCGUGCCAGU
+.(((.......)))...... ( -0.70)
+>MSMEG_6343
+GUGCGGUUGCUGCUCAUCGC
+(.((((...)))).)..... ( -3.30)
+>MSMEG_6344
+AAAACGAAACCAUUGGGGGU
+........(((......))) ( -1.30)
+>MSMEG_6345
+AUGGAACUACUACGGCACGU
+.................... (  0.00)
+>MSMEG_6346
+GCAAAGAGAAUUCGUCGGGG
+.................... (  0.00)
+>MSMEG_6348
+GUCAAUCCUCAGCAAAUAAA
+.................... (  0.00)
+>MSMEG_6351
+GUGAGCAUCCGAUUGCGCGC
+(((.(((......))).))) ( -5.30)
+>MSMEG_6352
+GGCGUGCGUGUCACCAUCGG
+(((......)))........ ( -1.80)
+>MSMEG_6353
+CUUCUACCUGGAGCGGAUCU
+((((.....))))....... ( -1.70)
+>MSMEG_6354
+CAUCGACGCCGCACGGGCCG
+.......(((.....))).. ( -4.50)
+>MSMEG_6356
+GUCACUCAGCGAAUGGCAGA
+((((.((...)).))))... ( -2.90)
+>MSMEG_6358
+GUUAUGUCGCGGCUGUGAAG
+......((((....)))).. ( -2.50)
+>MSMEG_6361
+AUGGUGGGGAUGAUUGCCGG
+..(((((......))))).. ( -3.10)
+>MSMEG_6362
+AUGCAUGCAAUUGUCGCCUC
+..(((......)))...... ( -0.40)
+>MSMEG_6363
+AGGGCGACCCGUCCCGAGCG
+.(((((...)))))...... ( -5.30)
+>MSMEG_6365
+GGGAGAAGAUCCACGACAGC
+.(((.....)))........ ( -2.60)
+>MSMEG_6368
+AUGGCCGGCCCGGUGUCAGU
+...((((...))))...... ( -3.10)
+>MSMEG_6369
+ACGCCGCGACCUCGCCGGUC
+..((((((....)).)))). ( -6.20)
+>MSMEG_6370
+AUGACACAAACACUCGAAUC
+.................... (  0.00)
+>MSMEG_6372
+GUGGCCGAAACGACAGCACC
+((.(......).))...... ( -1.00)
+>MSMEG_6379
+ACCGGAAAGGUGUCCAACCG
+........(((.....))). ( -2.70)
+>MSMEG_6380
+AGGAUGUGUACAGAAAGAAA
+.................... (  0.00)
+>MSMEG_6381
+GACGUGAUGCCAGGGGGAUC
+.....(((.((...)).))) ( -2.80)
+>MSMEG_6383
+GGCGAAGGACUCGCGCACCA
+.((((.....))))...... ( -4.60)
+>MSMEG_6385
+GAUGUCCCCGAGGCUUGGAG
+.......((((...)))).. ( -1.60)
+>MSMEG_6386
+GCGUCACAUCCCGCGACCCA
+(((........)))...... ( -3.00)
+>MSMEG_6387
+GUGACCGGUCCGCAUGCAGC
+(((.......)))....... ( -1.10)
+>MSMEG_6388
+GUGCCGGGCGAUGAACAGCG
+.......((........)). ( -1.80)
+>MSMEG_6390
+AGACUUAUUGACAUACCAUU
+.................... (  0.00)
+>MSMEG_6391
+GUUGGUGCGCACAUGAGUGA
+.........(((....))). ( -1.50)
+>MSMEG_6393
+GGUUUCGGUGCGUUCACCGG
+.....(((((....))))). ( -6.40)
+>MSMEG_6394
+GGUGUGGGAUUUCGUACUGC
+(((((((....))))))).. ( -2.00)
+>MSMEG_6395
+GUGCAGCACACGGUUCGGUC
+(((.....)))......... ( -1.40)
+>MSMEG_6398
+GAUCGCGAGCCGAGUACUUC
+..(((.....)))....... ( -0.10)
+>MSMEG_6399
+GACACCCGCGGUGUGAGCCG
+.(((((...)))))...... ( -5.10)
+>MSMEG_6401
+CUGUCGGUGCCGAAGGAGAC
+((.(((....))).)).... ( -2.00)
+>MSMEG_6404
+GAUGACGUCCAUAUCGCACC
+.................... (  0.00)
+>MSMEG_6405
+GUUGGCGCUCAUGGGCUUCG
+...(((.(....).)))... ( -4.20)
+>MSMEG_6406
+GUGCAGUCACGUCGUCCCGC
+(((....))).......... ( -0.90)
+>MSMEG_6408
+CCUGUACCGGCCCAAGGUGC
+...(((((.......))))) ( -5.30)
+>MSMEG_6409
+GUGGAACCGGUGUACGGGAC
+......(((.....)))... ( -4.10)
+>MSMEG_6410
+GCACUCUUGUUUCACUAGUG
+.((((..((...))..)))) ( -1.00)
+>MSMEG_6411
+GCGGUUCAGGGCCUGGCGUG
+((((((...))))..))... ( -2.70)
+>MSMEG_6413
+GUGAUCGACCUCAGGCUGCU
+.................... (  0.00)
+>MSMEG_6414
+GCAUCAGUUGUCACAGCGCC
+......((((...))))... ( -1.20)
+>MSMEG_6416
+GUGCGAUAUCUGGGUUCAUG
+.................... (  0.00)
+>MSMEG_6418
+GUGCCGCGCAUCGCAUACCU
+((((........)))).... ( -2.70)
+>MSMEG_6419
+ACCUCACCUAAGGAUGGAAG
+.(((......)))....... ( -1.30)
+>MSMEG_6420
+GUGACCGGCCCUCUCGAGCA
+.((..(((.....)))..)) ( -0.40)
+>MSMEG_6422
+AUGACGAACAGCGGCGCUCU
+.........(((...))).. ( -0.20)
+>MSMEG_6426
+ACACCAGAUGUUGUGACAGA
+.(((........)))..... ( -0.70)
+>MSMEG_6427
+GCUUUCGGAGCGUCGAUCUU
+((((...))))......... ( -2.60)
+>MSMEG_6428
+AUCGGCACAUCGAGGUGCCG
+..((((((......)))))) ( -9.50)
+>MSMEG_6430
+AGCGCACCGGAUGCAUGGGA
+......(((......))).. ( -1.90)
+>MSMEG_6432
+GAAGGGGGAAACGUGUCAGC
+((.(.(.....).).))... ( -0.40)
+>MSMEG_6433
+GACGUCUGUAAAGCCGAUGC
+..((((.((...)).)))). ( -2.40)
+>MSMEG_6434
+GCAGCAGUUCAGCGGUGCUC
+(((.(........).))).. ( -4.10)
+>MSMEG_6438
+GACUGCCGGCCACAUCCCAC
+.................... (  0.00)
+>MSMEG_6439
+GUGAGUAUCGAACCGCGCGC
+(((.((.....))))).... ( -2.10)
+>MSMEG_6440
+AUGACCGAACACUUCGACGU
+.....((((...)))).... ( -1.30)
+>MSMEG_6441
+GUGACCACCGCCAGUCAGAC
+.((((........))))... ( -2.50)
+>MSMEG_6446
+AGCAAAGGGGGAUGCUGUGG
+((((........)))).... ( -2.60)
+>MSMEG_6447
+CUUGACCAAGAACGUCAUCG
+..((((.......))))... ( -2.10)
+>MSMEG_6448
+AUAGCAAGUGCUUGUCCUCA
+..(((....)))........ ( -1.40)
+>MSMEG_6451
+GAAUUUGUUCAAUCCAUCAA
+.................... (  0.00)
+>MSMEG_6452
+GAAGAGGUACGAAAUCCGCC
+.....((........))... ( -0.80)
+>MSMEG_6454
+GUGCGAUUCGCUUUCAAGAC
+..(((...)))......... ( -1.60)
+>MSMEG_6456
+ACGGGUACAGCUAUCACGAC
+.((((((....)))).)).. ( -1.80)
+>MSMEG_6457
+GUUAAGGAGGUCGCAUGAGU
+.................... (  0.00)
+>MSMEG_6464
+AUGCGUUUUCCGCUGACCAC
+..(((.....)))....... ( -2.30)
+>MSMEG_6465
+AUGCGCACGAGGCCUCGAAU
+.......(((....)))... ( -0.80)
+>MSMEG_6468
+GUGCGAAGUGCGACGGUGGU
+((((.....)).))...... ( -1.40)
+>MSMEG_6475
+AUGAGCAGGUUCAGUCGCGA
+.................... (  0.00)
+>MSMEG_6477
+GCGUCUAGGGAAGGAAUGAA
+.................... (  0.00)
+>MSMEG_6479
+GUGUCCGAUCCGGCCAUGGA
+(((.(((...))).)))... ( -3.50)
+>MSMEG_6480
+AGGUACCACACAGCGCAAGG
+.................... (  0.00)
+>MSMEG_6481
+CUACAAGGCCGACGAGUUGC
+.................... (  0.00)
+>MSMEG_6484
+AUGUCCAGAGGUUUCGGAGU
+...(((.((....))))).. ( -1.90)
+>MSMEG_6485
+AUGGCCAGGAAGUAUGCGAC
+.................... (  0.00)
+>MSMEG_6487
+GUGUCGUACCAGGCAGGCGA
+.((((......))))..... ( -3.30)
+>MSMEG_6497
+GUCGCUGUUAUGCCUGUGUA
+...((......))....... ( -1.20)
+>MSMEG_6498
+AUAACAGCGACACAGCAAGC
+......((......)).... ( -1.80)
+>MSMEG_6499
+AUGGCAGUCAACAUGGGGGA
+(((........)))...... ( -0.40)
+>MSMEG_6502
+GUGAUGAACCGUAAACGCAG
+(((.(........).))).. ( -0.40)
+>MSMEG_6503
+GUGACCAAACCGCGCGGUCG
+..((((.........)))). ( -4.50)
+>MSMEG_6507
+GUGGACCCAAGAGUUACCGA
+.................... (  0.00)
+>MSMEG_6508
+AGCAGCCGUGGCCGCCCUAG
+.((.((....)).))..... ( -2.70)
+>MSMEG_6511
+AGAUCACCGAGUAGGGAGGC
+...((.((.....))))... ( -2.10)
+>MSMEG_6515
+GAUGGAGGAGCACACGCAGG
+.........((....))... ( -0.80)
+>MSMEG_6518
+GGUCUGAUCUUGUCGCUGGG
+.................... (  0.00)
+>MSMEG_6519
+AUGACGACGGCGGCCGAGGG
+....(..(((...)))..). ( -2.00)
+>MSMEG_6520
+AUGCCUGCUGCCAUCGAGCG
+......(((.......))). ( -2.50)
+>MSMEG_6524
+GCCUGUGCAGAACGACGCGG
+..(((((........))))) ( -3.30)
+>MSMEG_6525
+GAUGUCCGAACGCGAAGCUG
+.................... (  0.00)
+>MSMEG_6526
+AUGGCCGAAUUCGACGCGGU
+...((((.........)))) ( -3.00)
+>MSMEG_6528
+GGAGAACACAGGCAGUAAUC
+.................... (  0.00)
+>MSMEG_6535
+AGGCCCGAGGGCCGCAGCGU
+.((((....))))....... ( -7.90)
+>MSMEG_6538
+CUCCGGGAUGUCGGCCGCCG
+..((((....))))...... ( -3.20)
+>MSMEG_6540
+GCUCACGUUUUUCGCUGCGU
+....((((........)))) ( -2.30)
+>MSMEG_6541
+AGCCCACCCUCGAACUGCUC
+.................... (  0.00)
+>MSMEG_6544
+GGCAUCGAAGAUGGGAGCGG
+.((.((........)))).. ( -2.60)
+>MSMEG_6546
+GUGACCGUCUCUGCGCUUUC
+.................... (  0.00)
+>MSMEG_6547
+AUGCAGACUGACGACCUGAU
+...(((.........))).. ( -0.60)
+>MSMEG_6552
+CCGGAGCCUGGGCGUGAUCC
+((((...))))......... ( -2.70)
+>MSMEG_6555
+AGGUGCGUGUUGACUCGCGG
+.....((((......)))). ( -3.90)
+>MSMEG_6557
+GUGACGAGCACAUGGUCGCC
+(((((.(.....).))))). ( -6.20)
+>MSMEG_6559
+AUGCUAACGAUGCGGAAACU
+..((.......))....... ( -1.00)
+>MSMEG_6563
+AGACGAGACGUACCGUCUCG
+...(((((((...))))))) ( -9.00)
+>MSMEG_6566
+GUAAGAAGAAGCGCCUGACA
+.................... (  0.00)
+>MSMEG_6568
+GACGUCAGACACAUAGAGGG
+..(.((.........)).). ( -0.50)
+>MSMEG_6571
+GUGAGCACCCUCACCGAUCA
+(((((....)))))...... ( -4.70)
+>MSMEG_6574
+GUGAUCGACCUUCAUCCGAA
+((((.......))))..... ( -0.70)
+>MSMEG_6577
+GAGCACCCCGAUCCGGGCCU
+......((((...))))... ( -4.30)
+>MSMEG_6579
+GGGCGGGGAAAACAGCCAUC
+.(((.(......).)))... ( -4.70)
+>MSMEG_6580
+AUGGGACGCAAGAACGUCGA
+....((((......)))).. ( -4.30)
+>MSMEG_6581
+AUCAUCCGUAGUUCUGGGUC
+...(((((......))))). ( -2.60)
+>MSMEG_6583
+GUGAAGCCCUCGUUUUUCUC
+(.(((((....))))).).. ( -1.30)
+>MSMEG_6584
+AUGAGCAGCGUCGCUGAAGC
+.....((((...)))).... ( -3.50)
+>MSMEG_6587
+GCUAAAUGAAUGAAUCCGGU
+.................... (  0.00)
+>MSMEG_6588
+GUACCUGACGAACUUCCUGC
+.................... (  0.00)
+>MSMEG_6590
+GAUGAGCGAUCACCAACACA
+(((.....)))......... ( -1.00)
+>MSMEG_6596
+GUCCACCUGUGAAGUCGUCA
+.................... (  0.00)
+>MSMEG_6598
+AUGUCUGACGUCGCCACCCA
+.................... (  0.00)
+>MSMEG_6601
+GAUGUUCCACAAGGCCUUCU
+.................... (  0.00)
+>MSMEG_6603
+ACCUACUCAACAAAGUGACU
+...((((......))))... ( -0.60)
+>MSMEG_6604
+GGACGGAUCUCGGCGUGAAG
+..(((........))).... ( -2.00)
+>MSMEG_6605
+GUGGCGCUACGCGACGCGGU
+((.(((...))).))..... ( -5.70)
+>MSMEG_6617
+GUGACCAUCGCCUACGACGA
+((((...))))......... ( -1.20)
+>MSMEG_6618
+ACCAUGACCGACUCCUCCCA
+.................... (  0.00)
+>MSMEG_6620
+AUGCUGGUCGACAGCAAUGC
+.(((((.....))))).... ( -6.80)
+>MSMEG_6627
+AUGCCACAGCCGACAAACGA
+.................... (  0.00)
+>MSMEG_6630
+GUAGGCGAAUUCGUUUCGAG
+.....((((.....)))).. ( -2.50)
+>MSMEG_6634
+GACGACGUCACCCACAUCGU
+.((((.((.....)).)))) ( -2.30)
+>MSMEG_6635
+UCCGACAACUGUCGACAGGG
+..((((....))))...... ( -4.40)
+>MSMEG_6636
+CUAGCCUGAGUGUAGGUCUA
+...(((((....)))))... ( -3.80)
+>MSMEG_6637
+ACCGCCCGUGCGAUGGCGUA
+..((((........)))).. ( -5.40)
+>MSMEG_6638
+GCAGCUGGUUUGUCCGCUAC
+..(((.((.....))))).. ( -3.60)
+>MSMEG_6639
+GUGGUCGGCAUGGACAUCGG
+...(((......)))..... ( -3.00)
+>MSMEG_6640
+GUCGGCAUACAUGCCACCGG
+...((((....))))..... ( -4.80)
+>MSMEG_6642
+GCGUGACCUCGCCGGGCAUC
+((.((.......)).))... ( -3.40)
+>MSMEG_6643
+GUGGCGAAGACGUUCAUAGG
+((((((....)).))))... ( -1.80)
+>MSMEG_6649
+GCUGGUCGGCCCGACCGGCC
+((((((((...)))))))). (-12.60)
+>MSMEG_6650
+GGAUCAGUGCUCACCCCGAC
+.................... (  0.00)
+>MSMEG_6654
+ACCGAUGGAAAGCCUGGAUA
+.(((..((....)))))... ( -1.50)
+>MSMEG_6660
+AAGAGUUCUCUGCCUGCUCC
+..((((.........)))). ( -2.50)
+>MSMEG_6661
+GUGGAUCGUUCAGAGGAACC
+.......((((....)))). ( -2.40)
+>MSMEG_6663
+GUCGACCGAACCCGAGGGGA
+..........(((...))). ( -2.30)
+>MSMEG_6666
+AUGCGAUCACUGGGCAACAC
+.(((.........))).... ( -1.80)
+>MSMEG_6678
+AGGCCCAGGGGGUGGGCCUG
+(((((((.....))))))). (-13.10)
+>MSMEG_6685
+AUGACAGCCACGUUGACGGG
+....((((...))))..... ( -0.90)
+>MSMEG_6686
+CGUCGACGCCUUCGGCGUCA
+....((((((...)))))). ( -9.80)
+>MSMEG_6690
+GCAGUGGCAUCCCGAGGACC
+((....)).(((...))).. ( -1.30)
+>MSMEG_6698
+GCACUUGACGGUGUAGAGAC
+(((((....)))))...... ( -3.60)
+>MSMEG_6700
+AUCUCCAGACGCCACUUCGG
+.................... (  0.00)
+>MSMEG_6726
+GAACAACCCACGCGGGAGUG
+......(((....))).... ( -3.60)
+>MSMEG_6727
+GUCCCCUGCGCGGUACGAGG
+....(((.((.....))))) ( -2.10)
+>MSMEG_6729
+AUGGCUCAUCGACGCAACGG
+...((........))..... ( -0.70)
+>MSMEG_6730
+GAACCACCCGAACGACCUGA
+.................... (  0.00)
+>MSMEG_6731
+AUGCCCGCGACGACCGACAC
+.................... (  0.00)
+>MSMEG_6733
+GUGACUGACUUGCGCACCGU
+(((.(......))))..... ( -1.90)
+>MSMEG_6738
+AUGCCGGUGCCCAUAGAGCG
+..(((..........).)). ( -0.20)
+>MSMEG_6739
+GAGAGUUUGUCCCAACUGUC
+((.((((......)))).)) ( -3.00)
+>MSMEG_6740
+AUUCCUCAGCCUGAUGGCGU
+........(((....))).. ( -4.60)
+>MSMEG_6741
+AUGGGCGAAAGCCGAAACCA
+.(.(((....))).)..... ( -5.10)
+>MSMEG_6743
+GUCAGAAGUUUGCAAAGCAU
+..........(((...))). ( -0.40)
+>MSMEG_6744
+GACCCCGAUGGCACGCGCAU
+..........((....)).. ( -0.70)
+>MSMEG_6745
+GUGGCGCAGGCACUGCACGU
+...(.((((...)))).).. ( -4.20)
+>MSMEG_6746
+GUGGCUGACGAUCUCGUGAU
+.....(.(((....))).). ( -1.50)
+>MSMEG_6747
+GUCUGUGUAGGCACCAGGUU
+((((....))))........ ( -2.50)
+>MSMEG_6749
+GUGUUCUUCUUUCUCUUCGG
+.................... (  0.00)
+>MSMEG_6752
+GUGAAGUCCUCAGCUGCACG
+(((.(((.....))).))). ( -3.90)
+>MSMEG_6753
+AUGGAACUUGAAGGACUGAC
+.................... (  0.00)
+>MSMEG_6754
+GUCGCUCUGAGCGCACACGC
+((((((...)))).)).... ( -4.50)
+>MSMEG_6757
+GUGCCAGGCACUGUGCAGUC
+.((((((...))).)))... ( -4.10)
+>MSMEG_6758
+GCACGCCUCGUAUGACGCAC
+....((.((....)).)).. ( -2.00)
+>MSMEG_6759
+CAUCUUCUCGACGCUUCCCG
+.................... (  0.00)
+>MSMEG_6760
+GUGACCGUGAUCGACGAGGA
+.....(((.....))).... ( -1.90)
+>MSMEG_6761
+CGCACCACCGGGUACACCGG
+.......((((.....)))) ( -6.30)
+>MSMEG_6764
+ACGACCAUGCAAGGAGACGA
+.((.((......))...)). ( -0.60)
+>MSMEG_6771
+GUCAUCCGCCUCACCGGCGA
+......((((.....)))). ( -6.30)
+>MSMEG_6772
+GUCAAGGCCUUUCGAGAAGG
+.......(((((...))))) ( -1.90)
+>MSMEG_6776
+GUGAUGGCCCGACGGGACCA
+....((((((...))).))) ( -6.00)
+>MSMEG_6778
+AUGACCGCAUUCCGUGCCGC
+......((((...))))... ( -2.10)
+>MSMEG_6779
+GUGCGGCUGAGGACAGCAGA
+.....((((....))))... ( -4.50)
+>MSMEG_6780
+AUGGAUCUCGCCUACAGUCA
+..((......))........ ( -0.40)
+>MSMEG_6781
+GUCACAUUGCUGUGUGCCGG
+(.(((((....))))).).. ( -4.30)
+>MSMEG_6783
+GAACACCGACAUGGAGGUAG
+....(((........))).. ( -2.60)
+>MSMEG_6786
+GGACCCGCCCGGGCAGGUAC
+..(((.((....)).))).. ( -4.40)
+>MSMEG_6787
+AGAGCGUCGGCACGCCCGAU
+.....(((((.....))))) ( -4.30)
+>MSMEG_6789
+CUGAUUCAGCGACGUCUGAC
+.....((((......)))). ( -1.90)
+>MSMEG_6800
+GCUCCGACAGCGGUGUUGCC
+((.(((....))).)).... ( -3.60)
+>MSMEG_6802
+CAGGCGUCGACAGCCUCUAC
+.((((.......)))).... ( -5.20)
+>MSMEG_6804
+AGCACGCGGCGCGCCCGGCG
+.((.((.((....)))))). ( -5.00)
+>MSMEG_6807
+AUGGUUGAGCGCUGGACCCG
+..((((........)))).. ( -3.20)
+>MSMEG_6808
+ACCGCGCCACUGACGCGCGA
+..(((((.......))))). ( -8.20)
+>MSMEG_6815
+GUGAAGCACUCGGCGGAGAG
+........(((....))).. ( -2.40)
+>MSMEG_6821
+GGCAUGUACAGCCGGGCCGA
+(((.((......)).))).. ( -4.20)
+>MSMEG_6822
+GCGCUGGGUACAGCGUUGAC
+((((((....)))))).... ( -9.00)
+>MSMEG_6826
+GUUGUGAUCCACGCCACUAU
+...(((........)))... ( -1.50)
+>MSMEG_6828
+GUGAUGGUGGGGCGAUCCGA
+(.(((.((...)).)))).. ( -2.70)
+>MSMEG_6829
+GUGCGCCGAAAUACCUGGUC
+....((((.......)))). ( -1.80)
+>MSMEG_6839
+AUGCGCAGAGUUGCGGUCUU
+...((((....))))..... ( -4.20)
+>MSMEG_6843
+ACCGAGGACCAGAACCUGUU
+....(((.......)))... ( -1.20)
+>MSMEG_6857
+GUGGCCACCACCGCGCUGCG
+((((((......).))))). ( -5.00)
+>MSMEG_6859
+GUACCCCAGAGGAGGCGUUC
+...((((...)).))..... ( -1.80)
+>MSMEG_6861
+ACGAUGUGACAUCACACACC
+....((((....)))).... ( -2.40)
+>MSMEG_6862
+AUGCCCAGGUGGGAACACGG
+...(((....)))....... ( -3.80)
+>MSMEG_6864
+GAUGGCGACGAAUGACAGUG
+.................... (  0.00)
+>MSMEG_6865
+GUUUCGUCAGAUGAAACCGC
+(((((((...)))))))... ( -4.10)
+>MSMEG_6869
+AUGACCGACAUCGUGGGCGC
+....((.((...)).))... ( -2.60)
+>MSMEG_6874
+CGUCUACCGAGUCGAAGCCU
+((.((....)).))...... ( -1.10)
+>MSMEG_6881
+GAAUGUAUGAGGGAAGGAUC
+.................... (  0.00)
+>MSMEG_6882
+AUGCCGUCUCUUCGGGCGUU
+(((((.........))))). ( -5.10)
+>MSMEG_6884
+AUGCCAGCCGCAGACGGUGC
+..((..((((....)))))) ( -3.80)
+>MSMEG_6886
+AUGACCGAGUCGAGCCCGCU
+..(((...)))......... ( -0.70)
+>MSMEG_6892
+GGGAAGACAUCGGAUCACAA
+.................... (  0.00)
+>MSMEG_6896
+CACUGAGCGAACGGCUGCUC
+....(((((......))))) ( -4.40)
+>MSMEG_6897
+GUUGCCGACGCAGGCGACCC
+((((((......)))))).. ( -9.30)
+>MSMEG_6900
+AAGUCGUACGUGCUCGGCGC
+..((((........)))).. ( -3.90)
+>MSMEG_6902
+GUGGCAACGCGGCAGACGUC
+(((....)))(((....))) ( -2.70)
+>MSMEG_6903
+CUGCGGUAGCGCUCAAUAUA
+..(((....)))........ ( -3.60)
+>MSMEG_6906
+GUGUCGACCACACACGAGAU
+((((.....))))....... ( -2.60)
+>MSMEG_6907
+GUGACUCAACGGAUCCGCAU
+(((..((....))..))).. ( -0.90)
+>MSMEG_6909
+AUGAGCGUCAGACGACUCGC
+..((((((...))).))).. ( -4.30)
+>MSMEG_6911
+AUCGCGGCGCUCGGGUUGAU
+....((((......)))).. ( -2.70)
+>MSMEG_6913
+AUGGCAGAGACCGAACCGCA
+..((......))........ ( -0.50)
+>MSMEG_6914
+GAUGCCACCCGAUCCGAGCU
+(((........)))...... ( -0.30)
+>MSMEG_6916
+GUGCCGACCGCGCUGAUCAC
+((((.....))))....... ( -3.90)
+>MSMEG_6917
+GUGACCGAACCCGCAACCAC
+(((........)))...... ( -1.60)
+>MSMEG_6919
+CUGACGUACGGCAGCAAACA
+(((.(.....))))...... ( -0.90)
+>MSMEG_6921
+GUGGCGCAGUCAGAGGAUCC
+.((((...))))........ ( -1.00)
+>MSMEG_6922
+GUUGCCGACCGCUGUCUGGA
+....(((((....))).)). ( -3.00)
+>MSMEG_6925
+CGACGAUCUCGAGGCCCGCA
+(((.....)))......... ( -0.40)
+>MSMEG_6926
+GUGCCCGAAGCUGCUGCUAC
+........(((....))).. ( -2.50)
+>MSMEG_6927
+GUGUCCGACGGCGAACAGGC
+.(((.((....)).)))... ( -1.50)
+>MSMEG_6932
+GAUGAACCGCAGCCCGCGAC
+.......(((.....))).. ( -3.10)
+>MSMEG_6933
+AUGACGGUGCCGGGAGAUUU
+.................... (  0.00)
+>MSMEG_6934
+GACUGACAGGAGACAGCCAU
+(.(((........))).).. ( -1.00)
+>MSMEG_6935
+AGCUAGUCCGGCAGAUUGCC
+.........((((...)))) ( -3.20)
+>MSMEG_6936
+GCAGCCACGCACCUCCAGCC
+((......)).......... ( -1.20)
+>MSMEG_6941
+ACUACGUGUUCGGAAAGAUC
+.................... (  0.00)
+>MSMEG_6942
+GAUACCGGAGCGCUGCGCUC
+.......(((((...))))) ( -4.90)
+>MSMEG_6946
+GUCGCCCGCACGUGGCGAUA
+(((((((....).)))))). ( -8.50)
+>MSMEG_6947
+AUGCCGUUCUGCUUUCGGAC
+...(((.........))).. ( -2.20)
